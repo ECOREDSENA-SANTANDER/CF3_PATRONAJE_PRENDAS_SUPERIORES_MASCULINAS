@@ -2,14 +2,21 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 76%
+    right: 20%
+    width: 42px
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
+    top: 59%
+    right: 76%
+    width: 90px
+  &-3
+    animation: float1 3.2s ease-in-out infinite alternate
+    position: absolute
+    top: 20%
+    right: 13%
+    width: 40px
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -17,14 +24,78 @@
     transform: translateY(0px)
   
 
-.banner-principal .tarjeta
-  background-position: left 50% !important
 .banner-principal__row .banner-principal__img
-  width: 400px !important  
+  width: 450px !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
 figcaption
   font-weight: normal
- 
+.barra-avance__boton--regresar span
+  color: $white !important
+
+
+.banner-interno__fondo
+  background-image: url('../assets/curso/portada/mini-portada.png') !important
+.fa-lista
+  li
+    display: flex !important
+  li:before
+    position: relative
+    margin-right: 7px
+    font-size: 1.4rem 
+.lista-ul--color.color-primario li > i:first-of-type  
+  color: $color-primario
+.lista-ul--color.color-secundario li > i:first-of-type  
+  color: $color-secundario       
+.lista-ol--cuadro.color-primario .lista-ol--cuadro__vineta
+  background-color: $color-primario
+.bg-color-acento-contenido
+  background-color: $color-acento-contenido
+.bg-color-primario
+  background-color: $color-primario
+.bg-color-secundario
+  background-color: $color-secundario
+.w-fit
+  width: fit-content
+.columns-2
+  columns: 2
+.t-color-sec 
+  color: $color-secundario !important
+.font-italic
+  font-style: italic !important
+.sin-borde
+  border: 0px !important
+
+.bgc-1
+  //background-image: url('../assets/curso/temas/t3/bgc.png')
+  background-position: bottom
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
+.bgcc-1
+  background-color: #ECF9FF
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+
+.bg-1
+  background-color: #D1F1FF
+.bg-2
+  background-color: #FFE2B9
+.bg-3
+  background-color: #F6FCFF !important
+
+
+table tbody.text-left td
+  text-align: left
