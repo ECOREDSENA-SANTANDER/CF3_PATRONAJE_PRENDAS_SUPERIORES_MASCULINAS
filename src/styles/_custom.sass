@@ -30,7 +30,7 @@
   color: white !important   
 .banner-interno__titulo__icono i
   color: $color-primario
-figcaption
+figcaption, table caption
   font-weight: normal
 .barra-avance__boton--regresar span
   color: $white !important
@@ -69,7 +69,7 @@ figcaption
   border: 0px !important
 
 .bgc-1
-  //background-image: url('../assets/curso/temas/t3/bgc.png')
+  background-image: url('../assets/curso/temas/t2/bgc1.png')
   background-position: bottom
   background-size: 100% 100%
   background-repeat: no-repeat
@@ -88,14 +88,213 @@ figcaption
     margin-inline: -3rem  
   @media screen and (max-width: 767px)
     margin-inline: -1.4rem  
+.bgc-slider
+  background-image: url('../assets/curso/temas/t2/bg-slider2.png')
+  background-position: bottom
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -3rem  
+    background-size: cover 
+  @media screen and (max-width: 767px)
+    margin-inline: -1.4rem  
+    background-size: cover 
 
+.bgi-1
+  background-image: url('../assets/curso/temas/t1/bg.png')
+  background-position: right
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-2
+  background-image: url('../assets/curso/temas/t2/bg-tarj3.png')
+  background-position: bottom left
+  background-size: cover
+  background-repeat: no-repeat
+.bgi-3
+  background-image: url('../assets/curso/temas/t2/bg-tarj4.png')
+  background-position: bottom left
+  background-size: cover
+  background-repeat: no-repeat
+.bg-tarj
+  background-image: url('../assets/curso/temas/t2/bg-tarj.png')
+  background-position: bottom
+  background-size: cover
+  background-repeat: no-repeat
+.bg-tarj2
+  background-image: url('../assets/curso/temas/t2/bg-tarj2.png')
+  background-color: #F6FCFF
+  background-position: top
+  background-size: cover
+  background-repeat: no-repeat
+  transition: all 0.3s ease-out
+  h4
+    background-color: #D1F1FF
+    margin: 0 auto
+    text-align: center
+    width: fit-content
+    transition: all 0.3s ease-out
+  &:hover
+    background-color: #D1F1FF
+    transition: all 0.3s ease-out
+    h4
+      background-color: #2F5E34
+      color: $white
+.bg-slider
+  background-image: url('../assets/curso/temas/t2/bg-slider.png')
+  background-position: top
+  background-size: cover
+  background-repeat: no-repeat
 .bg-1
   background-color: #D1F1FF
 .bg-2
   background-color: #FFE2B9
 .bg-3
   background-color: #F6FCFF !important
+.bg-4
+  background-color: #ACBEAE 
+.bg-5
+  background-color: #D5DFD6 !important
+.bg-6
+  background-color: #EBEFEB
+.bg-7
+  background-color: #ECF9FF
+.bg-8
+  background-color: #FFF0DC
+.bg-9
+  background-color:#FFF8EE
+
+.w-85
+  width: 85px  
+.w-130
+  width: 130px
+.w-170
+  width: 170px
+.mtn-5
+  margin-top: -5%
+.bt-r
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
 
 
 table tbody.text-left td
   text-align: left
+.table-mpad 
+  th, td 
+    padding: 20px 17px
+
+
+.grad-bloque
+  position: relative
+  &:before
+    content: ''
+    position: absolute
+    width: 120px
+    height: 100%
+    right: 0px
+    background: #ffe2b9
+    background: linear-gradient(270deg, rgba(255, 226, 185, 1) 10%, rgba(255, 226, 185, 0) 80%)
+    @media (max-width: $bp-max-sm)
+      bottom: -1px
+      right: 1.5%
+      width: 96.6%
+      height: 70px
+      background: linear-gradient(0deg,rgba(255, 226, 185, 1) 0%, rgba(255, 226, 185, 0) 100%)
+    @media (max-width: $bp-max-xs)
+      bottom: -1px 
+      right: 3%
+      width: 94%
+      height: 70px
+      background: linear-gradient(0deg,rgba(255, 226, 185, 1) 0%, rgba(255, 226, 185, 0) 100%)
+  img     
+    height: 100%
+    object-fit: cover
+.subt
+  display: flex
+  align-items: center
+  position: relative
+  width: fit-content
+  img
+    width: 60px
+  &::after
+    content: ''
+    position: absolute
+    background-color: #FFE2B9
+    border-radius: 200px
+    width: 100%
+    height: 70%
+    top: 10px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media (max-width: $bp-max-sm)
+    &::after
+      height: 90%
+      top: 5px
+.subt2 
+  position: relative
+  &::before
+    content: ''
+    position: absolute
+    background-image: url('../assets/curso/temas/t2/subt2.svg')
+    background-repeat: no-repeat 
+    bottom: -10px
+    left: 0
+    width: 320px
+    height: 6px
+.img-t2
+  position: relative
+  img
+    position: absolute
+    width: 140%
+    max-width: 125% !important
+    right: 0
+  &::before
+    content: ''
+    position: absolute
+    background-image: url('../assets/curso/temas/t2/dec.png')
+    background-repeat: no-repeat 
+    top: 0
+    right: 0
+    width: 265px
+    height: 143px  
+
+.tabs-c
+  border-bottom: 0px
+  &__header
+    margin-bottom: 0px
+  &__tab--active span
+    font-weight: bold
+.slyder-a
+  &__btn--sigt, &__btn--atrs
+    background-color: #5B1E1E
+    opacity: 0.9
+    border-color: #5B1E1E
+    &:hover
+      border-color: #5B1E1E
+  &__bullets__item
+    background-color: rgba(47, 94, 52, 0.35)
+    border-color: rgba(47, 94, 52, 0.35)
+    &--active
+      background-color: #2F5E34
+      border-color: #2F5E34
+  &.figuras .slyder-a__bullets
+    display: none
+.acordion
+  &__activo
+    background-color: #FFE2B9
+  &__accion__btn--a
+    background-color: #5B1E1E
+    i
+      color: #FFF
+      font-size: 1.3em
+  .mb-3.tarjeta.bg-color-primario
+    margin-bottom: 10px !important
+    padding-top: 17px !important
+  &__header
+    margin-bottom: 17px !important
+.tabs-a
+  &__tab
+    background-color: #2F5E34
+    color: #FFF

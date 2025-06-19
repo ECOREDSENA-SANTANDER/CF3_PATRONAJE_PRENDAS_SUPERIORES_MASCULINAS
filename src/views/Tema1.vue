@@ -10,7 +10,7 @@
       .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
         .bloque-texto-g__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/t1/1.jpg')})`}")
-        .bloque-texto-g__texto.p-4.p-lg-5
+        .bloque-texto-g__texto.p-4.p-md-5
           p.mb-0 La lectura correcta de un patrón depende de un sistema gráfico estandarizado que condensa información dimensional y secuencial en signos concisos. Estos signos; flechas, muescas, líneas discontinuas, entre otros, garantizan que cualquier persona con formación técnica pueda interpretar, cortar y ensamblar las piezas sin ambigüedad. 
           br 
           br
@@ -18,10 +18,9 @@
 
       .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
         h5 Tabla 1.
-        span Símbolos en la señalización de patrones      
-      
+        span Símbolos en la señalización de patrones            
       .tabla-a.color-acento-botones(data-aos='fade')
-        table
+        table(alt="Tabla informativa que detalla convenciones gráficas utilizadas en moldes de confección textil. Se organiza en cinco columnas: denominación técnica, símbolo (convención), descripción, función principal y ejemplo. Incluye términos como hilo de tela, corte al sesgo, doblez, línea de corte, piquete, ubicación de botón y ojal, línea de costura y perforaciones internas. Cada fila describe el símbolo correspondiente y su propósito, con referencias funcionales en el proceso de trazo, corte y ensamblaje de prendas.")
           thead.bg-3
             tr
               th Denominación técnica
@@ -90,17 +89,19 @@
       #t_1_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.1 Marcaciones de piezas
 
-      .row.justify-content-center.mb-5
-        .col-lg-5
-        .col-lg-7
-          p.mb-0 En un despiece de patronaje, cada pieza debe ser marcada de forma técnica, clara y estandarizada para garantizar su correcta interpretación durante el proceso de corte y confección; estas marcas permiten identificar la función de cada molde, su orientación en el tejido, y las instrucciones necesarias para ensamblar la prenda con precisión.
+      .bgi-1.mb-5(data-aos="fade-down")
+        .row.justify-content-center
+          .col-lg-5.grad-bloque
+            img(src='@/assets/curso/temas/t1/2.png', alt='')
+          .col-lg-7
+            .h-100.d-flex.align-items-center.p-4.p-md-5
+              p.mb-0 En un despiece de patronaje, cada pieza debe ser marcada de forma técnica, clara y estandarizada para garantizar su correcta interpretación durante el proceso de corte y confección; estas marcas permiten identificar la función de cada molde, su orientación en el tejido, y las instrucciones necesarias para ensamblar la prenda con precisión.
 
       .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
         h5 Tabla 2.
-        span Información detallada de los patrones
-      
+        span Información detallada de los patrones      
       .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-        table
+        table(alt="Un cuadro de cinco columnas organiza datos clave sobre marcaciones en patrones de prendas superiores masculinas. Incluye elementos como nombre de la pieza, código del modelo, talla, cantidad a cortar, sentido del hilo, doblez, piquetes, firma del patronista y observaciones. Cada fila indica qué consignar, su función técnica y un ejemplo aplicado, permitiendo claridad en el montaje, corte y trazabilidad del diseño.")
           thead.bg-3
             tr
               th Elemento de marcación
@@ -112,7 +113,7 @@
               td Nombre de la pieza
               td Término exacto de la parte del molde.
               td Distingue y ordena los componentes durante el montaje.
-              td Delantero camisa sport.
+              td Delantero camisa #[em sport].
             tr
               td Referencia / código de modelo
               td Clave alfanumérica asociada a la ficha técnica.
@@ -163,13 +164,69 @@
                 .titulo-sexto.color-acento-contenido.mb-4
                   h5 Figura 1.
                   span Patrón con especificaciones técnicas. 
-              .col-md-11
+              .col-lg-11
                 figure
                   img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ficha técnica de moldería para saco informal masculino, correspondiente a la temporada invierno del año 2019. Incluye esquema completo con las piezas del textil base numeradas y etiquetadas: espalda, costadillo, vista, frente, manga, cuello, vistas internas y externas, tapas de bolsillo y bajo manga. Cada pieza está asociada a una cantidad de corte y talla (T.42), con indicaciones como “doble”, “X2” o “X4” según corresponda. En la parte superior se especifica que se trata de un saco sastre de línea informal, bajo la marca Winsor y desarrollado por la empresa Lincoln S.A.')
-      figcaption Fuente: https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas 
+      figcaption Fuente: 
+        a(href="https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas" target="_blank") https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas 
       
       .mb-5
 
+      .bg-4.p-4.px-lg-5.mb-5(data-aos="fade-down")
+        .row.justify-content-center
+          .col-lg-6.col-md-11.mb-3.mb-lg-0
+            img(src='@/assets/curso/temas/t1/3.svg', alt='')
+          .col-lg-6.col-md-11
+            .bg-white.h-100.d-flex.align-items-center.p-4
+              p.mb-0 A continuación, se presenta un ejemplo representativo por cada una de las áreas consideradas en las marcaciones de las piezas del patrón. Estas marcaciones son fundamentales para guiar el proceso de corte, ensamblaje y confección de manera precisa, garantizando la correcta orientación, empalme y simetría de las partes. La tabla 3 sintetiza dicha información, mostrando los símbolos utilizados, su función específica dentro del proceso y un ejemplo concreto de aplicación en una prenda real.
+
+      .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
+        h5 Tabla 3.
+        span Resumen de las marcaciones con ejemplo    
+      .tabla-a.color-acento-botones.mb-5(data-aos='fade')
+        table(alt="Una tabla de tres columnas presenta un resumen de las marcaciones en patrones de prendas superiores masculinas. La primera columna lista elementos como nombre de la pieza, código del diseño, talla, cantidad a cortar, sentido del hilo, doblez, piquetes, nombre del patronista y observaciones. La segunda columna detalla el contenido que debe registrarse, y la tercera ofrece ejemplos prácticos que ilustran su aplicación en el proceso de confección.")
+          thead.bg-3
+            tr
+              th Elemento de marcación
+              th Contenido requerido
+              th Ejemplo aplicado
+          tbody.text-left
+            tr
+              td Nombre de la pieza
+              td Identifica la parte del molde y su función estructural.
+              td Delantero camisa clásica.
+            tr
+              td Referencia del diseño / código
+              td Clave alfanumérica que enlaza la pieza con el modelo o ficha técnica.
+              td SS24-CMA-001.
+            tr
+              td Talla
+              td Dimensión específica del patrón según gradación.
+              td Talla 40 COL.
+            tr
+              td Cantidad a cortar
+              td Número de capas por tipo de material (tela, forro, entretela).
+              td Cortar x 2 en tela 1 x 1 en entretela.
+            tr
+              td Sentido del hilo
+              td Flecha recta que indica la orientación de la urdimbre.
+              td Flecha paralela al centro delantero.
+            tr
+              td Indicaciones de simetría / doblez
+              td Leyenda "al lomo" o "colocar al doblez" para piezas que se obtienen espejo.
+              td Colocar al doblez en centro espalda.
+            tr
+              td Simbología de piquetes
+              td Muescas simples / dobles / triples que guían el montaje.
+              td ▼ (simple) en sisa delantero; ▼▼ (doble) en sisa espalda.
+            tr
+              td Nombre del patronista
+              td Responsable técnico del molde para trazabilidad interna.
+              td Patronista: J. Gómez
+            tr
+              td Observaciones adicionales
+              td Notas de proceso o materiales especiales.
+              td Aplicar entretela fusible ligera.
 
   </template>
 
