@@ -547,21 +547,21 @@
     .bloque-texto-g.color-acento-contenido.bg-5.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
       .bloque-texto-g__img(
         :style="{'background-image':`url(${require('@/assets/curso/temas/t2/13.jpg')})`}")
-      .bloque-texto-g__texto.p-4.p-lg-5
+      .bloque-texto-g__texto.p-4.p-md-5
         p.mb-0 La adaptación de una camisa masculina, originalmente concebida para contextos formales, hacia una propuesta de moda casual implica realizar ajustes en las proporciones, las holguras, los acabados y los materiales, con el objetivo de obtener una prenda más versátil, cómoda y adecuada para el uso cotidiano. El proceso se estructura en torno a tres capas de decisión fundamentales:
 
-    .row.justify-content-center.mb-5
-      .col-lg-4
+    .row.justify-content-center.mb-4(data-aos="fade-down")
+      .col-lg-4.col-md-6.mb-3
         .tarjeta.bg-tarj2.p-4.p-lg-5.h-100
           img.w-85.m-auto.mb-4(src='@/assets/curso/temas/t2/14.svg', alt='')
           h4.mb-3.px-4.py-1 Principios de diseño 
           p.text-center.mb-0 Redefinición de la silueta, paleta de color, tipo de tejido y estilo general de la prenda en función del contexto casual.
-      .col-lg-4
+      .col-lg-4.col-md-6.mb-3
         .tarjeta.bg-tarj2.p-4.p-lg-5.h-100
           img.w-85.m-auto.mb-4(src='@/assets/curso/temas/t2/15.svg', alt='')
           h4.mb-3.px-4.py-1 Ajustes sobre el patrón base
           p.text-center.mb-0 Modificación de líneas de corte, grados de holgura, largos y detalles constructivos que permitan una mayor funcionalidad y relajación en el diseño.
-      .col-lg-4
+      .col-lg-4.col-md-6.mb-3
         .tarjeta.bg-tarj2.p-4.p-lg-5.h-100
           img.w-85.m-auto.mb-4(src='@/assets/curso/temas/t2/16.svg', alt='')
           h4.mb-3.px-4.py-1 Acabados y recursos técnicos
@@ -698,15 +698,15 @@
             li.mb-0
               i.fas.fa-circle-chevron-right
               span.mb-0 Actualización de marcaciones, para facilitar la confección en contextos industriales o artesanales.
-      .col-lg-4.ps-lg-0
-        .bg-5.h-100.d-flex.align-items-end.img-t2
+      .col-lg-4.ps-lg-0.d-none.d-lg-block
+        .bg-5.h-100.d-flex.align-items-end.img-t2.deco
           img(src='@/assets/curso/temas/t2/18.svg', alt='')
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 9.
       span Recomendaciones de ajuste sobre patrón base
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-      table.table-mpad(alt="")
+      table.table-mpad(alt="Tabla con recomendaciones técnicas para ajustar un patrón base en diversas zonas de una prenda masculina. Incluye intervenciones como desplazamiento de costados para modificar el ajuste, recorte del largo del cuerpo, definición de dobladillo recto con aberturas laterales, transformación del cuello tipo mao, incorporación de una trabilla interna para enrollar la manga (roll-up) y redimensionamiento de bolsillos utilitarios.")
         thead.bg-3
           tr
             th.w-170 Zona
@@ -754,7 +754,7 @@
         .col-lg-5.grad-bloque
           img(src='@/assets/curso/temas/t2/19.png', alt='')
         .col-lg-7
-          .h-100.d-flex.align-items-center.p-4.p-md-5
+          .h-100.d-flex.align-items-center.p-4.p-lg-5
             p.mb-0 Es la plantilla técnica que define la forma, medidas y márgenes necesarios para confeccionar un bolsillo en producción en serie; incluye la pieza del cuerpo del bolsillo, márgenes de costura, guías de ubicación y, si aplica, la tapeta. Se diseña considerando el tipo de tejido, la funcionalidad del bolsillo y los requerimientos del proceso industrial, garantizando precisión, facilidad de ensamblaje y acabados uniformes.
 
     .row.bgcc-1.align-items-center.p-2.p-md-3.mb-2.d-none.d-lg-block(data-aos="fade-down")
@@ -779,8 +779,8 @@
                   figure
                     img(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')
     
-    .row.justify-content-center
-      .col-lg-6.mb-4
+    .row.justify-content-center(data-aos="fade-down")
+      .col-lg-6.mb-5
         .d-block.d-lg-none  
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 12.
@@ -820,7 +820,7 @@
               li.mb-0
                 i.fas.fa-circle-chevron-right
                 span.mb-0 La simetría entre los lados debe verificarse usando una escuadra central o doblando el patrón a la mitad.
-      .col-lg-6.mb-4    
+      .col-lg-6.mb-5 
         .d-block.d-lg-none
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 13.
@@ -860,9 +860,9 @@
 
     .tarjeta.bg-9.p-4.mb-4(data-aos="fade-down")
       .row.justify-content-center.align-items-center
-        .col-lg-1
+        .col-lg-1.col-md-2.col-3.mb-3.mb-md-0
           img(src='@/assets/curso/temas/t2/2.svg', alt='')
-        .col-lg-10
+        .col-lg-10.col-md-10
           p.mb-0 A partir de los bolsillos detallados anteriormente, puede desarrollar las formas que considere, con los cortes y aberturas, esto según los diseños a desarrollar.  Es importante recordar que estos ornamentos parten de rectángulos y la interpretación puede ser múltiple, como la siguiente figura, en la que teniendo en cuenta los patrones anteriores se puede también trazar un bolsillo con tapa incluida. 
 
     .row.justify-content-center.align-items-center(data-aos="fade")

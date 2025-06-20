@@ -88,23 +88,28 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Sudadera deportiva',
+            titulo: 'Camisa con estilo hindú',
             hash: 't_3_2',
           },
           {
             numero: '3.3',
-            titulo: 'Camisa manga corta y cuello deportivo',
+            titulo: 'Sudadera deportiva',
             hash: 't_3_3',
           },
           {
             numero: '3.4',
-            titulo: 'Camisa con canesú adelante y atrás',
+            titulo: 'Camisa manga corta y cuello deportivo',
             hash: 't_3_4',
           },
           {
             numero: '3.5',
-            titulo: 'Chaquetas',
+            titulo: 'Camisa con canesú adelante y atrás',
             hash: 't_3_5',
+          },
+          {
+            numero: '3.6',
+            titulo: 'Chaquetas',
+            hash: 't_3_6',
           },
         ],
       },
