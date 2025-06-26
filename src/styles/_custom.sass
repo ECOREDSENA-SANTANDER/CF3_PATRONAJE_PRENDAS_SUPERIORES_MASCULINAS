@@ -57,6 +57,8 @@ figcaption, table caption
   background-color: $color-primario
 .bg-color-secundario
   background-color: $color-secundario
+.bg-color-sistema-texto
+  background-color: #12263F
 .w-fit
   width: fit-content
 .columns-2
@@ -175,8 +177,13 @@ figcaption, table caption
   background-color: #E8CCCC
 .bg-11
   background-color: #730000
+.bg-12
+  background-color:   #F7EDED
 
-
+.w-60
+  width: 60%
+.w-70
+  width: 70%
 .w-85
   width: 85px  
 .w-130
@@ -198,15 +205,17 @@ figcaption, table caption
   border-top-right-radius: 20px
 .mh-590
   max-height: 590px
+@media (min-width: $bp-min-lg)
+  .h-lg-100
+    height: 100%
 
 table tbody.text-left td
   text-align: left
 .table-mpad 
   th, td 
     padding: 20px 17px
-.table-mmpad 
-  td 
-    padding: 10px 17px
+.table-mmpad td 
+  padding: 10px 17px !important
 
 .grad-bloque
   position: relative

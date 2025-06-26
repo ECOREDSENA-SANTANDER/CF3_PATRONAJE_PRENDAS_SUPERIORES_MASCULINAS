@@ -195,7 +195,7 @@
                         li
                           span.text-bold b)
                           | Identificar componentes estructurales, tales como:
-                        ul.lista-ul--color.ps-3
+                        ul.lista-ul--color.fa-lista.ps-3
                           li.mb-0
                             i.fas.fa-circle-chevron-right
                             | Canesú
@@ -222,7 +222,7 @@
                       p Con estos pasos desarrollados, se procede a identifican los recursos móviles o funcionales como #[em plackets], pinzas, pliegues de caja o aberturas. Esta acción puede ser apoyada mediante pruebas sobre #[em mock-ups] en papel, y su resultado es una lista clara de puntos donde la prenda se adapta o se expande para facilitar el uso.
                     .col-md-6
                       h5 Para finalizar esta etapa, se elabora una ficha técnica preliminar que consolida:
-                      ul.lista-ul--color
+                      ul.lista-ul--color.fa-lista
                         li.mb-0
                           i.fas.fa-circle-chevron-right
                           | Un croquis detallado de la prenda.

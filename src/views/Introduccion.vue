@@ -13,7 +13,7 @@
         .tarjeta.bg-1.mb-4.p-3
           p.mb-0 La interpretación de modelos masculinos de moda casual inicia con la señalización precisa de los patrones y la marcación rigurosa de cada pieza; estos pasos iniciales aseguran el registro correcto de costuras, márgenes y piquetes, fundamentales para una reproducción fiel del diseño. A partir de esta base, el patronista realiza una lectura visual y técnica de la prenda, descomponiendo sus elementos estructurales (como pinzas, canesús y frentes) y analizando cortes, detalles funcionales (ojales, bolsillos, refuerzos) y ornamentos (tachuelas, ribetes, costuras decorativas) que definen su carácter y funcionalidad. Sobre este andamiaje técnico, se ajustan proporciones y se simplifican o enfatizan detalles para adaptar los modelos al estilo casual masculino, en respuesta a las tendencias actuales y al uso cotidiano.
         p Bajo esta metodología, cada tipología se aborda de manera específica: el trazo de la camiseta polo incorpora líneas rectas y canesú frontal; la sudadera deportiva requiere refuerzos en hombros y puños; la camisa de manga corta con cuello deportivo equilibra estructura y ligereza; la camisa con canesú delantero y trasero explora planos superpuestos; y las chaquetas, desde la sastre (con líneas sobrias y cortes entallados) hasta la #[em bomber] (de perfil amplio) y el denim  tipo Levi´s (con costuras expuestas y bolsillos de parche), ilustran cómo un mismo concepto base puede transformarse en múltiples expresiones del vestir casual masculino.
-      .col-lg-4(data-aos="fade-left")
+      .col-lg-4.d-none.d-lg-block(data-aos="fade-left")
         img(src='@/assets/curso/temas/intro/1.png', alt='')
     
     .row.justify-content-center.align-items-center.mb-4
