@@ -1467,7 +1467,7 @@
         br
         p.mb-0 Desde el patronaje, el desarrollo de una chaqueta implica un análisis detallado del tipo de tejido (generalmente de mayor gramaje), la distribución de holguras para permitir el uso sobre otras prendas, y la inclusión de canesús, vistas, piezas de refuerzo y márgenes adicionales para el montaje del forro.
     
-    .bg-8.mb-4(data-aos="fade")
+    .bg-8.mb-5(data-aos="fade")
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/23.png', alt='')
@@ -1475,9 +1475,7 @@
           p.mb-0.p-4 El trazo requiere precisión técnica en cada pieza: delantero, espalda, mangas, cuello, vistas, forro y elementos complementarios, cuidando la simetría, funcionalidad y ensamblaje correcto.
 
     
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.6.1 Chaqueta sastre
+    h3(data-aos='fade-right') 3.6.1 Chaqueta sastre
 
     .bloque-texto-g.color-acento-contenido.bg-5.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -1983,12 +1981,10 @@
           h4.mb-4.bg-color-primario.w-fit.px-2 Importante
           p #[em Cap-height], es la distancia vertical entre la cabeza o corona de la manga (el punto más alto del patrón de la manga) hasta la línea de unión con la sisa (la línea de costura del brazo al cuerpo).
 
-    p.mb-4 Antes de añadir márgenes de costura, confeccione un prototipo, preferiblemente en liencillo, para verificar que la copa se embeba limpiamente en la sisa del cuerpo y que el brazo pueda flexionar 90° sin tiranteces.
-    
+    p.mb-5 Antes de añadir márgenes de costura, confeccione un prototipo, preferiblemente en liencillo, para verificar que la copa se embeba limpiamente en la sisa del cuerpo y que el brazo pueda flexionar 90° sin tiranteces.    
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.6.2  Chaqueta #[em bomber]
+    
+    h3(data-aos='fade-right') 3.6.2  Chaqueta #[em bomber]
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -2011,7 +2007,7 @@
                 figcaption.bg-1 Fuente: 
                   a(href="https://es.pinterest.com/pin/4785143350554431/" target="_blank") https://es.pinterest.com/pin/4785143350554431/
 
-    .tarjeta.color-primario.p-3.mb-4(data-aos="fade")
+    .tarjeta.color-primario.p-3.mb-5(data-aos="fade")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/t2/cta1.svg")
@@ -2025,9 +2021,8 @@
                 span Ir al sitio
                 i.fas.fa-circle-play
 
-    Separador
-    .titulo-segundo.color-acento-contenido(data-aos='fade-right')
-      h2 3.4.3  Chaqueta en #[em denim] tipo Levi's
+    
+    h3(data-aos='fade-right') 3.6.3  Chaqueta en #[em denim] tipo Levi's
 
     .bg-deg1.p-3.mb-4(data-aos="fade-down")
       .row.justify-content-around.align-items-center
