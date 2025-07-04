@@ -1,1 +1,1 @@
-module.exports = 'Interpretación de modelos masculinos.'
+module.exports = 'Interpretación de modelos masculinos'

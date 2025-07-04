@@ -68,7 +68,7 @@
             img(src='@/assets/curso/temas/t2/tabs1-1.svg', alt='')
           .col-lg-6.col-10
             h4 Silueta y proporción
-            p La silueta y proporción, en la que se analizan variables como la línea de hombro, el escote, la longitud total de la prenda y el nivel de holgura. A partir de esto, se determina si el ajuste responde a una silueta clásica, regular, #[em slim] o #[em oversize], lo cual incide en la elección del bloque base adecuado y en los valores de holgura que se aplicarán al patrón.
+            p La silueta y proporción, en la que se analizan variables como la línea de hombro, el escote, la longitud total de la prenda y el nivel de holgura. A partir de esto, se determina si el ajuste responde a una silueta clásica, regular, #[em slim] u #[em oversize], lo cual incide en la elección del bloque base adecuado y en los valores de holgura que se aplicarán al patrón.
       .bg-6.py-4.py-md-5(titulo="Dimensión 2")
         .row.align-items-center.justify-content-center
           .col-lg-5.col-md-9.col-10.mb-4.mb-lg-0
@@ -168,7 +168,7 @@
               h4.mb-1 Análisis de proporciones prendas superiores
               p.mb-0 Este video ofrece un análisis técnico y detallado de prendas superiores masculinas, orientado a su aplicación en el patronaje industrial.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/oJRhtnimo6Q')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/6zVIePvn5Tw')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-circle-play
 
@@ -209,7 +209,7 @@
                       ol.lista-ol.fa-lista
                         li
                           span.text-bold c)
-                          | Aplicar códigos de color o capas digitales diferenciadas para cada componente, con el fin de organizarlos visualment
+                          | Aplicar códigos de color o capas digitales diferenciadas para cada componente, con el fin de organizarlos visualmente.
                         li
                           span.text-bold d)
                           | Generar un mapa cromático que facilite la lectura técnica y la identificación clara de cada parte estructural de la prenda.
@@ -219,7 +219,7 @@
                       p Luego, se marcan las costuras visibles, tales como pespuntes dobles, ribetes o costuras francesas.  El objetivo es construir un inventario de procesos de confección que deberán considerarse en la interpretación del patrón.
                   .row
                     .col-md-12
-                      p Con estos pasos desarrollados, se procede a identifican los recursos móviles o funcionales como #[em plackets], pinzas, pliegues de caja o aberturas. Esta acción puede ser apoyada mediante pruebas sobre #[em mock-ups] en papel, y su resultado es una lista clara de puntos donde la prenda se adapta o se expande para facilitar el uso.
+                      p Con estos pasos desarrollados, se procede a identificar los recursos móviles o funcionales como #[em plackets], pinzas, pliegues de caja o aberturas. Esta acción puede ser apoyada mediante pruebas sobre #[em mock-ups] en papel, y su resultado es una lista clara de puntos donde la prenda se adapta o se expande para facilitar el uso.
                     .col-md-6
                       h5 Para finalizar esta etapa, se elabora una ficha técnica preliminar que consolida:
                       ul.lista-ul--color.fa-lista
@@ -248,40 +248,40 @@
             th Resultado esperado
         tbody.text-left
           tr
-            td.fw-bold.text-center 1.
-            td Fotografiar o escanear el modelo (frente / espalda / lateral)
-            td Cámara / escáner plano
-            td Figura base en alta resolución
+            td.fw-bold.text-center 1
+            td Fotografiar o escanear el modelo (frente / espalda / lateral).
+            td Cámara / escáner plano.
+            td Figura base en alta resolución.
           tr
-            td.fw-bold.text-center 2.
-            td Superponer ejes vertical / horizontal, líneas de pecho y cadera
-            td #[em Software] CAD o acetato sobre impreso
-            td Cuadrícula de referencia proporcional
+            td.fw-bold.text-center 2
+            td Superponer ejes vertical / horizontal, líneas de pecho y cadera.
+            td #[em Software] CAD o acetato sobre impreso.
+            td Cuadrícula de referencia proporcional.
           tr
-            td.fw-bold.text-center 3.
-            td Delimitar contorno y sub-contorno (costadillos, canest) con color
-            td Marcador o capa digital
-            td Mapa cromático de componentes
+            td.fw-bold.text-center 3
+            td Delimitar contorno y sub-contorno (costadillos, canest) con color.
+            td Marcador o capa digital.
+            td Mapa cromático de componentes.
           tr
-            td.fw-bold.text-center 4.
-            td Anotar relaciones numéricas (ej.: largo total = 1,3 x ancho pecho)
-            td Regla virtual/calibre digital
-            td Tabla de proporciones relativas
+            td.fw-bold.text-center 4
+            td Anotar relaciones numéricas (ej.: largo total = 1,3 x ancho pecho).
+            td Regla virtual/calibre digital.
+            td Tabla de proporciones relativas.
           tr
-            td.fw-bold.text-center 5.
-            td Marcar costuras visibles (doble pespunte, ribete, #[em french seam])
-            td Lupa / #[em zoom] CAD
-            td Inventario de procesos de confección
+            td.fw-bold.text-center 5
+            td Marcar costuras visibles (doble pespunte, ribete, #[em french seam]).
+            td Lupa / #[em zoom] CAD.
+            td Inventario de procesos de confección.
           tr
-            td.fw-bold.text-center 6.
-            td Identificar recursos móviles (#[em placket], pinzas, pliegues de caja)
-            td Pinzas de papel sobre #[em mock-up]
-            td Lista de puntos de holgura y apertura
+            td.fw-bold.text-center 6
+            td Identificar recursos móviles (#[em placket], pinzas, pliegues de caja).
+            td Pinzas de papel sobre #[em mock-up].
+            td Lista de puntos de holgura y apertura.
           tr
-            td.fw-bold.text-center 7.
-            td Completar ficha técnica preliminar (croquis + observaciones)
-            td Plantilla SENA / Excel
-            td Documento de respaldo para patronaje
+            td.fw-bold.text-center 7
+            td Completar ficha técnica preliminar (croquis + observaciones).
+            td Plantilla SENA / Excel.
+            td Documento de respaldo para patronaje.
 
 
     Separador

@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Interpretación de modelos masculinos.',
+    Name: 'Interpretación de modelos masculinos',
     Description:
       'Reconocer la secuencia didáctica permite articular desde los patrones base hasta las variaciones de modelos masculinos casuales. Se abordan marcaciones clave, lectura técnica de prendas y tipologías como polo, sudadera o chaqueta. Este proceso facilita al aprendiz comprender cómo aplicar el patronaje y datos antropométricos en soluciones de confección industrial con fidelidad y funcionalidad. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

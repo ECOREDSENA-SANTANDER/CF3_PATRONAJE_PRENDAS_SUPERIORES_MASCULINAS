@@ -11,10 +11,7 @@
         .bloque-texto-g__img(
           :style="{'background-image':`url(${require('@/assets/curso/temas/t1/1.jpg')})`}")
         .bloque-texto-g__texto.p-4.p-md-5
-          p.mb-0 La lectura correcta de un patrón depende de un sistema gráfico estandarizado que condensa información dimensional y secuencial en signos concisos. Estos signos; flechas, muescas, líneas discontinuas, entre otros, garantizan que cualquier persona con formación técnica pueda interpretar, cortar y ensamblar las piezas sin ambigüedad. 
-          br 
-          br
-          p.mb-0 A continuación, se describen las convenciones gráficas esenciales (ejes, muescas, dirección de hilo) y se ofrece un glosario resumido de los símbolos y abreviaturas más habituales:
+          p.mb-0 La lectura correcta de un patrón depende de un sistema gráfico estandarizado que condensa información dimensional y secuencial en signos concisos. Estos signos, como flechas, muescas y líneas discontinuas, aseguran que cualquier persona con formación técnica pueda interpretar, cortar y ensamblar las piezas con precisión y sin ambigüedades. A continuación, se describen las convenciones gráficas esenciales (ejes, muescas, dirección de hilo) y se ofrece un glosario resumido de los símbolos y abreviaturas más habituales: 
 
       .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
         h5 Tabla 1.
@@ -40,7 +37,7 @@
               td ↗ (fecha diagonal 45°).
               td Línea oblicua (≈ 45°) rematada con flechas en ambos extremos.
               td Señala que la pieza debe colocarse diagonal al hilo, otorgando elasticidad controlada.
-              td Tira de vivo al blés para refuerzo de sisa en chaqueta ligera.
+              td Tira de vivo al bies para refuerzo de sisa en chaqueta ligera. 
             tr
               td.fw-bold Doblez de tela
               td ••• (tres puntos en triángulo).
@@ -82,7 +79,7 @@
               td ✱ P / ✱ In (asterisco + sigla).
               td Pequeños orificios señalados con asterisco y abreviatura.
               td Sirven de referencia para ubicar piezas internas (bolsillos, pinzas, presillas).
-              td ✱ P marca inicio de pinza de pecho; ✱ In para bolsillo interior de blazer.
+              td ✱ P marca inicio de pinza de pecho; ✱ In para bolsillo interior de #[em blazer].
 
 
       Separador
@@ -163,7 +160,7 @@
               .col-12
                 .titulo-sexto.color-acento-contenido.mb-4
                   h5 Figura 1.
-                  span Patrón con especificaciones técnicas. 
+                  span Patrón con especificaciones técnicas
               .col-lg-11
                 figure
                   img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ficha técnica de moldería para saco informal masculino, correspondiente a la temporada invierno del año 2019. Incluye esquema completo con las piezas del textil base numeradas y etiquetadas: espalda, costadillo, vista, frente, manga, cuello, vistas internas y externas, tapas de bolsillo y bajo manga. Cada pieza está asociada a una cantidad de corte y talla (T.42), con indicaciones como “doble”, “X2” o “X4” según corresponda. En la parte superior se especifica que se trata de un saco sastre de línea informal, bajo la marca Winsor y desarrollado por la empresa Lincoln S.A.')
