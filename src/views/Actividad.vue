@@ -20,7 +20,7 @@ export default {
       tema: 'Interpretación de modelos masculinos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> A continuación, se presenta un esquema que sintetiza los elementos clave del componente formativo interpretación de modelos masculinos de moda casual. Este abarca la señalización de patrones, la marcación de piezas y la lectura visual y técnica de prendas, permitiendo identificar estructuras, cortes y detalles propios del vestuario masculino. Además, se desarrollan variaciones aplicadas a prendas como camisetas polo, sudaderas, camisas y chaquetas, con el fin de adaptar los modelos al estilo casual y fortalecer las competencias necesarias para el trazado y construcción de patrones en el contexto del patronaje industrial. ',
+        '<b>Objetivo:</b> identificar y validar los conocimientos adquiridos sobre las dimensiones clave que intervienen en el análisis e interpretación de prendas masculinas, considerando aspectos de silueta, estructura, funcionalidad, ornamentos, materialidad y procedimientos técnicos aplicados al desarrollo del patrón base. ',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

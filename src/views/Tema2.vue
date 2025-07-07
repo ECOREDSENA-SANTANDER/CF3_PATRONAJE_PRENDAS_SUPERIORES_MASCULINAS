@@ -259,13 +259,13 @@
             td Cuadrícula de referencia proporcional.
           tr
             td.fw-bold.text-center 3
-            td Delimitar contorno y sub-contorno (costadillos, canest) con color.
+            td Delimitar contorno y sub-contorno (costadillos, canesú) con color.
             td Marcador o capa digital.
             td Mapa cromático de componentes.
           tr
             td.fw-bold.text-center 4
             td Anotar relaciones numéricas (ej.: largo total = 1,3 x ancho pecho).
-            td Regla virtual/calibre digital.
+            td Regla virtual / calibre digital.
             td Tabla de proporciones relativas.
           tr
             td.fw-bold.text-center 5
@@ -319,22 +319,22 @@
           .row.justify-content-center.align-items-center
             .tarjeta.tarjeta--blanca.p-4
               LineaTiempoC.color-acento-contenido
-                .row.align-items-center.justify-content-around(titulo="Cuerpo")
+                .row.align-items-center.justify-content-around(titulo="Cuerpo (delantero y espalda)")
                   .col-11.col-lg-6.mb-4.mb-md-0
                     h4 Cuerpo (delantero y espalda)
-                    p El cuerpo constituye el soporte principal de la prenda y define la silueta global. Su trazo parte de un rectángulo cuyas anchuras derivan de la mitad del contorno de pecho, cintura y cadera, incrementadas por la holgura correspondiente. La bajada de sisa (¼ pecho + 2 cm) y la inclinación de hombro (2–3 cm) reproducen la anatomía torácica; el dobladillo puede ser recto industrial o curvo deportivo según el estilo.
+                    p El cuerpo constituye el soporte principal de la prenda y define la silueta global. Su trazo parte de un rectángulo cuyas anchuras derivan de la mitad del contorno de pecho, cintura y cadera, incrementadas por la holgura correspondiente. La bajada de sisa (¼ pecho + 2 cm) y la inclinación de hombro (2 – 3 cm) reproducen la anatomía torácica; el dobladillo puede ser recto industrial o curvo deportivo según el estilo.
                   .col-11.col-md-9.col-lg-6.col-lg-4
                     img(src='@/assets/curso/temas/t2/slider2-1.png', alt='')
                 .row.align-items-center.justify-content-around(titulo="Canesú")
                   .col-11.col-lg-6.mb-4.mb-md-0
                     h4 Canesú
-                    p Pieza estabilizadora que se coloca en la parte superior de la espalda (a 6–8 cm bajo el punto alto de cuello) para absorber la curvatura dorsal y evitar deformaciones en el hombro. Puede ser corrido (continúa hacia el delantero) o segmentado (solo espalda). Su largo debe igualar el recorrido de hombro en el delantero para evitar tensiones.
+                    p Pieza estabilizadora que se coloca en la parte superior de la espalda (a 6 – 8 cm bajo el punto alto de cuello) para absorber la curvatura dorsal y evitar deformaciones en el hombro. Puede ser corrido (continúa hacia el delantero) o segmentado (solo espalda). Su largo debe igualar el recorrido de hombro en el delantero para evitar tensiones.
                   .col-11.col-md-9.col-lg-6.col-lg-4
                     img(src='@/assets/curso/temas/t2/slider2-2.png', alt='')
-                .row.align-items-center.justify-content-around(titulo="Cuello")
+                .row.align-items-center.justify-content-around(titulo="Cuello (pie + pala)")
                   .col-11.col-lg-6.mb-4.mb-md-0
                     h4 Cuello (pie + pala)
-                    p El cuello se compone de un pie (#[em stand:] base o pie del cuello) que abraza el escote y una pala (#[em fall:] parte doblada del cuello) que descansa sobre el pecho. El largo total equivale al perímetro de escote más 1 cm de facilidad. El pie suele medir 3 cm de alto en el centro y la pala presenta una caída frontal de 4–5 cm. La línea de quiebre (#[em roll line]) se marca a 1,5 cm del borde de ensamblaje para garantizar un virado limpio.
+                    p El cuello se compone de un pie (#[em stand:] base o pie del cuello) que abraza el escote y una pala (#[em fall:] parte doblada del cuello) que descansa sobre el pecho. El largo total equivale al perímetro de escote más 1 cm de facilidad. El pie suele medir 3 cm de alto en el centro y la pala presenta una caída frontal de 4 – 5 cm. La línea de quiebre (#[em roll line]) se marca a 1,5 cm del borde de ensamblaje para garantizar un virado limpio.
                   .col-11.col-md-9.col-lg-6.col-lg-4
                     img(src='@/assets/curso/temas/t2/slider2-3.png', alt='')
                 .row.align-items-center.justify-content-around(titulo="Manga")
@@ -346,7 +346,7 @@
                 .row.align-items-center.justify-content-around(titulo="Puño")
                   .col-11.col-lg-4.mb-4.mb-md-0
                     h4 Puño
-                    p Elemento de cierre que regula la boca de la manga. Su rectángulo desplegado equivale al contorno de muñeca más 5–6 cm de solapa y un alto total de 7 cm (acabado 3,5 cm). La ranura de placket (10–12 cm) se refuerza con una torre o tapeta para facilitar el abotonado sin deformar la copa de manga.
+                    p Elemento de cierre que regula la boca de la manga. Su rectángulo desplegado equivale al contorno de muñeca más 5 – 6 cm de solapa y un alto total de 7 cm (acabado 3,5 cm). La ranura de #[em placket] (10 – 12 cm) se refuerza con una torre o tapeta para facilitar el abotonado sin deformar la copa de manga.
                   .col-12.col-md-11.col-lg-7
                     .tarjeta.bg-7.p-2
                       SlyderA.figuras.p-3(tipo='a')
@@ -389,6 +389,10 @@
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
       h2 2.3 Estudio de cortes, detalles funcionales y ornamentales
 
+    .bg-1.px-lg-5.p-4.mb-4
+      p.mb-0 Comprender cómo se segmenta una camisa masculina en cortes, cómo se articulan sus detalles funcionales y cómo se añaden recursos ornamentales es imprescindible para traducir cualquier propuesta de diseño en un patrón técnicamente viable. El siguiente desarrollo combina redacción explicativa, tablas comparativas y una ruta operativa paso a paso.
+
+
     .mb-3(data-aos="fade")
       .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 7.
@@ -400,9 +404,7 @@
       figcaption Fuente: 
         a(href="https://www.nimble-made.com/blogs/news/dress-shirt-placket" target="_blank") https://www.nimble-made.com/blogs/news/dress-shirt-placket 
 
-    .bg-1.px-lg-5.p-4.mb-4
-      p.mb-0 Comprender cómo se segmenta una camisa masculina en cortes, cómo se articulan sus detalles funcionales y cómo se añaden recursos ornamentales es imprescindible para traducir cualquier propuesta de diseño en un patrón técnicamente viable. El siguiente desarrollo combina redacción explicativa, tablas comparativas y una ruta operativa paso a paso.
-
+    
     .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
         .row.justify-content-center.align-items-center
@@ -415,7 +417,7 @@
               .row.justify-content-center.mb-3
                 .col-lg-5.col-md-7.col-10
                   figure
-                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='La figura presenta el diseño técnico del delantero de una camisa con el trazo de la botonera clásica integrada. Incluye la prolongación de 3 cm hacia el borde para formar la botonera, con una línea punteada que indica el doblez central y una línea recta adicional a 1,5 cm que representa la ubicación de los ojales o botones.')
+                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='Presenta el diseño técnico del delantero de una camisa con el trazo de la botonera clásica integrada. Incluye la prolongación de 3 cm hacia el borde para formar la botonera, con una línea punteada que indica el doblez central y una línea recta adicional a 1,5 cm que representa la ubicación de los ojales o botones.')
             .col-lg-6.mb-3
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 9.
@@ -423,23 +425,23 @@
               .row.justify-content-center.mb-3
                 .col-lg-5.col-md-7.col-10
                   figure
-                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='La figura representa el trazo del delantero de una camisa con botonera sencilla. El diseño incluye una prolongación de 3 cm hacia el borde para formar la botonera, junto con una marca interna a 1 cm del borde que indica el doblez interior para el acabado del cruce.')
+                    img(src='@/assets/curso/temas/t2/fig9.svg', alt='Representa el trazo del delantero de una camisa con botonera sencilla. El diseño incluye una prolongación de 3 cm hacia el borde para formar la botonera, junto con una marca interna a 1 cm del borde que indica el doblez interior para el acabado del cruce. ')
             .col-lg-6.mb-3
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 10.
                 span Trazo botonera oculta
               .row.justify-content-center.mb-3
-                .col-lg-5.col-md-7.col-10
+                .col-lg-6.col-md-8.col-11
                   figure
-                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='La figura representa el trazo del delantero de una camisa con botonera oculta. Se indican tres líneas paralelas: una prolongación externa de 4 cm, una pieza central de 6 cm y una solapa interna de 1,5 cm que permite cubrir los botones mediante dobleces sucesivos.')
+                    img(src='@/assets/curso/temas/t2/fig10.svg', alt='Representa el trazo del delantero de una camisa con botonera oculta. Se indican tres líneas paralelas: una prolongación externa de 4 cm, una pieza central de 6 cm y una solapa interna de 1,5 cm que permite cubrir los botones mediante dobleces sucesivos.')
             .col-lg-6.mb-3
               .titulo-sexto.color-acento-contenido.mb-3
                 h5 Figura 11.
                 span Trazo botonera separada 
               .row.justify-content-center.mb-3
-                .col-lg-5.col-md-7.col-10
+                .col-lg-6.col-md-8.col-11
                   figure
-                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='La figura presenta el diseño del delantero de una camisa con botonera separada. El trazo incluye una pieza independiente conformada por tres franjas: dos de 3 cm para doblez y una de 1 cm para terminación, mientras que el cuerpo del delantero incorpora un margen de costura de 0,5 cm para la unión de ambas partes.')
+                    img(src='@/assets/curso/temas/t2/fig11.svg', alt='Presenta el diseño del delantero de una camisa con botonera separada. El trazo incluye una pieza independiente conformada por tres franjas: dos de 3 cm para doblez y una de 1 cm para terminación, mientras que el cuerpo del delantero incorpora un margen de costura de 0,5 cm para la unión de ambas partes.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
@@ -477,7 +479,7 @@
                 td.fw-bold Canesú segmentado
                 td Espalda alta.
                 td Estabilizar hombros; permitir mezcla tejidos.
-                td Cortar a 6–8 cm del cuello; igualar recorrido hombro.
+                td Cortar a 6 – 8 cm del cuello; igualar recorrido hombro.
               tr
                 td.fw-bold Panel contrastado
                 td Pechera o tapeta.
@@ -643,12 +645,12 @@
           tr
             td.fw-bold Silueta
             td Entalle moderado, largo para vestir por dentro.
-            td Holgura adicional en pecho (+ 1 cm) y manga (+ 0.5 cm); largo reducido 3–4 cm.
+            td Holgura adicional en pecho (+ 1 cm) y manga (+ 0.5 cm); largo reducido 3 – 4 cm.
             td Portabilidad fuera del pantalón, caída natural.
           tr
             td.fw-bold Cuello
             td Camisero rígido, varillas.
-            td #[em Button-down], mao o #[em camp] collar con #[em interfacing] suave.
+            td #[em Button-down], mao o #[em camp collar] con #[em interfacing] suave.
             td Aire relajado y menor mantenimiento.
           tr
             td.fw-bold Dobladillo
@@ -666,7 +668,7 @@
             td #[em Oxford, denim] liviano, lino, #[em chambray].
             td Texturas táctiles, transpirabilidad.
           tr
-            td.fw-bold Color/estampado
+            td.fw-bold Color / estampado
             td Sólidos neutros.
             td Cuadros, rayas #[em bold], tonos pastel, #[em prints] micro.
             td Refuerzo de personalidad casual.
@@ -678,7 +680,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-8.pe-lg-0
         .bg-8.h-100.p-4.p-lg-5
-          h4.mb-4.bg-color-primario.w-fit.px-2 La adaptación a moda casual requiere intervenir el patrón base mediante:
+          p.mb-4.bg-color-primario.w-fit.px-2 La adaptación a moda casual requiere intervenir el patrón base mediante:
           ul.lista-ul--color.fa-lista.mb-0.px-lg-4
             li
               i.fas.fa-circle-chevron-right
@@ -716,12 +718,12 @@
         tbody
           tr
             td.fw-bold Costados
-            td Desplazar la línea lateral 0,5–1 cm hacia afuera (de ajuste #[em slim] a versión casual).
+            td Desplazar la línea lateral 0,5 – 1 cm hacia afuera (de ajuste #[em slim] a versión casual).
             td Pecho + 4 cm de holgura total.
             td 1 cm de costura.
           tr
             td.fw-bold Largo del cuerpo
-            td Recortar 3–4 cm en el dobladillo.
+            td Recortar 3 – 4 cm en el dobladillo.
             td El bajo queda 5 cm por debajo de la cadera alta.
             td 1,5 cm de dobladillo.
           tr
@@ -773,7 +775,7 @@
             .col-lg-6
               .titulo-sexto.color-acento-contenido.mb-4
                 h5 Figura 13.
-                span Trazo del patrón del bolsillo industrial
+                span Trazo de bolsillo con tapa separada
               .row.justify-content-center.mb-3
                 .col-lg-5.col-md-7.col-10
                   figure
@@ -791,20 +793,20 @@
                 img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
         figcaption Fuente: SENA, (2025)   
         TabsA.color-acento-botones.mt-4.mb-4.mb-lg-3
-          .tarjeta.bg-7.p-4(titulo="PASO 1")
-            h4 PASO 1
+          .tarjeta.bg-7.p-4(titulo="Paso 1")
+            h4 Paso 1
             p Se traza un rectángulo vertical de base 13 cm y altura total de 14 cm, correspondiente al largo del bolsillo.
-          .tarjeta.bg-7.p-4(titulo="PASO 2")
-            h4 PASO 2
+          .tarjeta.bg-7.p-4(titulo="Paso 2")
+            h4 Paso 2
             p Desde la parte superior del rectángulo, se mide hacia abajo 3 cm para marcar la línea de doblez superior del bolsillo. Esta sección corresponde al dobladillo superior.
-          .tarjeta.bg-7.p-4(titulo="PASO 3")
-            h4 PASO 3
+          .tarjeta.bg-7.p-4(titulo="Paso 3")
+            h4 Paso 3
             p Desde cada extremo inferior del rectángulo (esquinas inferiores), se mide hacia adentro 1,5 cm sobre la base inferior, marcando esos puntos como extremos del triángulo inferior del bolsillo.
-          .tarjeta.bg-7.p-4(titulo="PASO 4")
-            h4 PASO 4
+          .tarjeta.bg-7.p-4(titulo="Paso 4")
+            h4 Paso 4
             p Se une cada uno de esos puntos de 1,5 cm con el centro del borde inferior, formando una punta simétrica hacia abajo. Esta línea crea la forma característica del bolsillo con terminación en “V”.
-          .tarjeta.bg-7.p-4(titulo="PASO 5")
-            h4 PASO 5
+          .tarjeta.bg-7.p-4(titulo="Paso 5")
+            h4 Paso 5
             p En la parte superior del rectángulo, se refuerzan visualmente los extremos superiores con triángulos pequeños que simulan la posición de los remates o refuerzos de costura. Estas figuras se sitúan en los bordes del margen superior de 3 cm.
         .tarjeta.bgi-2
           .bg-color-acento-contenido.bt-r.p-3.mb-0
@@ -831,17 +833,17 @@
                 img(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')    
         figcaption Fuente: SENA, (2025)  
         TabsA.color-acento-botones.mt-4.mb-4.mb-lg-5.pb-lg-4
-          .tarjeta.bg-7.p-4(titulo="PASO 1")
-            h4 PASO 1
+          .tarjeta.bg-7.p-4(titulo="Paso 1")
+            h4 Paso 1
             p Se traza un rectángulo base de 13 cm de ancho por 7 cm de alto. Este rectángulo define el contorno general del bolsillo antes de formar la punta inferior.
-          .tarjeta.bg-7.p-4(titulo="PASO 2")
-            h4 PASO 2
-            p Se mide desde la esquina inferior izquierda hacia arriba una distancia de 2,5 cm, y se marca ese punto. El mismo procedimiento se repite en la
-          .tarjeta.bg-7.p-4(titulo="PASO 3")
-            h4 PASO 3
+          .tarjeta.bg-7.p-4(titulo="Paso 2")
+            h4 Paso 2
+            p Se mide desde la esquina inferior izquierda hacia arriba una distancia de 2,5 cm, y se marca ese punto. El mismo procedimiento se repite en la esquina inferior derecha, subiendo 2,5 cm y marcando. 
+          .tarjeta.bg-7.p-4(titulo="Paso 3")
+            h4 Paso 3
             p Se une el punto marcado a 2,5 cm del borde inferior izquierdo con el centro exacto de la base inferior del rectángulo. Luego se repite esta acción del lado derecho, formando así una punta central en la parte inferior del bolsillo.
-          .tarjeta.bg-7.p-4(titulo="PASO 4")
-            h4 PASO 4
+          .tarjeta.bg-7.p-4(titulo="Paso 4")
+            h4 Paso 4
             p Se repasan todos los contornos del patrón, asegurando que la forma resultante sea simétrica respecto al eje vertical.
         .tarjeta.bgi-3
           .bg-color-secundario.bt-r.p-3.mb-0

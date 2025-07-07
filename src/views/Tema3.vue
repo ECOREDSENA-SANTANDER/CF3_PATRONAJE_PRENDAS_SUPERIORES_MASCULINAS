@@ -42,7 +42,7 @@
               h4.mb-1 Trazo prendas superiores - camisa
               p.mb-0 Allí encontrará la interpretación de estilos de camisas partiendo de bases superiores masculinas.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/CxwJTRQh-aY')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/JuuGDR01fhU')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-circle-play
 
@@ -91,47 +91,47 @@
             th Recomendación técnica
         tbody
           tr
-            td.fw-bold 1
+            td 1
             td Extender la línea del hombro desde el escote hacia afuera.
             td 2,5 cm.
             td Utilizar regla recta para prolongar el hombro en línea continua desde la inclinación original.
           tr
-            td.fw-bold 2
+            td 2
             td Desde el nuevo extremo del hombro, bajar una línea vertical hacia el escote.
             td 2,5 cm.
             td Asegurarse de que esta bajada sea perpendicular al hombro para mantener simetría en ambos lados.
           tr
-            td.fw-bold 3
+            td 3
             td Desde el centro delantero, entrar hacia la derecha sobre la línea del escote base y luego subir.
             td Entrar 2,5 cm y subir 2,5 cm.
             td Marcar bien ambos puntos para luego trazar una curva fluida que conecte con el hombro descendido.
           tr
-            td.fw-bold 4
+            td 4
             td Trazar la nueva curva del escote uniendo los dos puntos anteriores con una línea curva suave.
             td ——
             td Usar curvigrafo o mano alzada firme; evitar ángulos rectos o trazos quebrados.
           tr
-            td.fw-bold 5
+            td 5
             td Prolongar desde el extremo del nuevo hombro una línea horizontal para ubicar el nuevo punto alto de la sisa.
             td 2,5 cm hacia afuera.
             td Trazar con precisión para mantener la proporción entre hombro y curva de sisa.
           tr
-            td.fw-bold 6
+            td 6
             td Bajar desde el vértice original de la sisa base y entrar hacia el cuerpo.
             td Bajar 1,5 cm y entrar 2,5 cm.
             td Marcar ambos puntos y verificar su ubicación antes de unir con curva.
           tr
-            td.fw-bold 7
+            td 7
             td Unir los dos puntos anteriores (punto alto y punto bajo de la sisa modificada) con una curva continua.
             td ——
             td Usar curvigrafo para mantener armonía entre la nueva sisa y el contorno del cuerpo.
           tr
-            td.fw-bold 8
+            td 8
             td Entrar 0,5 cm en la línea lateral del cuerpo y formar una ligera curva en el costado.
             td Entrar 0,5 cm.
             td Esta curva debe ser suave para mejorar el ajuste sin alterar el equilibrio estructural.
           tr
-            td.fw-bold 9
+            td 9
             td Determinar el largo total del cuerpo desde la línea de cintura base.
             td Altura de cadera + 8 cm.
             td Medir desde el punto de cintura hacia abajo para asegurar un largo adecuado a la prenda final.
@@ -182,47 +182,47 @@
             th Recomendación técnica
         tbody
           tr
-            td.fw-bold 1
+            td 1
             td Extender la línea del hombro desde el escote hacia afuera.
             td 2,5 cm.
             td Mantener la misma inclinación del hombro original para asegurar armonía estructural.
           tr
-            td.fw-bold 2
+            td 2
             td Desde el nuevo punto final del hombro, bajar en línea recta perpendicular hacia el escote.
             td 2,5 cm.
             td Confirmar la perpendicularidad con escuadra o ángulo de 90°.
           tr
-            td.fw-bold 3
+            td 3
             td Desde el centro delantero, entrar sobre la línea del escote base y luego subir.
-            td Entrar 2,5 cm y subir 2,5 cm.
+            td Entrar 2,5 cm.  #[br]Subir 2,5 cm.
             td Marcar con precisión ambos puntos antes de trazar la curva del nuevo escote.
           tr
-            td.fw-bold 4
+            td 4
             td Unir con curva suave el punto de subida con el extremo del hombro descendido para formar el nuevo escote.
             td ——
             td Usar curvigrafo o trazo fluido para evitar quiebres.
           tr
-            td.fw-bold 5
+            td 5
             td Prolongar una línea horizontal desde el nuevo hombro hacia el costado para encontrar el nuevo punto de sisa.
             td 2 cm.
             td Esta nueva referencia ajusta el ancho de la sisa. Revisar que mantenga relación con el escote bajado.
           tr
-            td.fw-bold 6
+            td 6
             td Desde la sisa original, bajar y entrar para redefinir el quiebre de la nueva sisa.
-            td Bajar 1,5 cm y entrar 2,5 cm.
+            td Bajar 1,5 cm. #[br]Entrar 2,5 cm.
             td Estos puntos determinan el volumen y caída de la sisa; deben ubicarse con exactitud.
           tr
-            td.fw-bold 7
+            td 7
             td Unir el punto superior e inferior de la nueva sisa mediante una curva armónica.
             td ——
             td Trazar con curvigrafo respetando el contorno anatómico.
           tr
-            td.fw-bold 8
+            td 8
             td Entrar 0,5 cm en la línea del costado bajo el busto y suavizar con curva hacia la línea lateral.
             td Entrar 0,5 cm.
             td Esta curva estiliza la prenda. Evitar ángulos rectos al conectarla con el costado inferior.
           tr
-            td.fw-bold 9
+            td 9
             td Determinar el nuevo largo del cuerpo desde la cintura hacia abajo.
             td Altura de cadera + 10 cm.
             td Medir con regla larga en línea recta desde la cintura hasta el nuevo punto final.
@@ -286,42 +286,42 @@
             th Recomendación técnica
         tbody
           tr
-            td.fw-bold 1
+            td 1
             td Desde el escote, prolongar el hombro original hacia afuera y bajar una línea diagonal para formar uno nuevo.
             td Subir 1 cm. Salir 2 cm.
             td Trazar una nueva línea de hombro más inclinada con ayuda de una regla recta.
           tr
-            td.fw-bold 2
+            td 2
             td Desde la línea del centro delantero, entrar sobre la línea de escote y luego subir.
             td Entrar 2 cm. Subir 2 cm.
             td Estos puntos definen el nuevo escote. Confirmar su ubicación antes de curvar.
           tr
-            td.fw-bold 3
+            td 3
             td Unir el punto subido del escote con el nuevo extremo del hombro mediante una curva suave.
             td ___
             td Usar curvigrafo o mano firme para asegurar fluidez en el escote.
           tr
-            td.fw-bold 4
+            td 4
             td Desde el vértice original de la sisa, medir hacia afuera en línea horizontal para ubicar el nuevo punto superior.
             td Salir 2 cm.
             td Mantener la proporción con el hombro extendido para generar armonía en la sisa.
           tr
-            td.fw-bold 5
+            td 5
             td Desde la sisa base, bajar 1 cm y entrar 2 cm hacia el cuerpo para formar el nuevo punto de quiebre.
             td Bajar 1 cm. Entrar 2 cm.
             td Marcar bien ambos puntos antes de trazar la curva de sisa.
           tr
-            td.fw-bold 6
+            td 6
             td Unir con una curva el nuevo punto superior e inferior de la sisa modificada.
             td ___
             td La curva debe ser continua y anatómica; evitar ángulos marcados.
           tr
-            td.fw-bold 7
+            td 7
             td Desde la línea del hombro hacia la sisa, trazar una guía para formar una curva de ajuste.
             td Línea guía de conexión.
             td Esta línea suaviza el paso del hombro al contorno de sisa.
           tr
-            td.fw-bold 8
+            td 8
             td Determinar el largo total del cuerpo bajando desde la línea de cintura.
             td Altura de cadera + 8 cm.
             td Medir en línea recta con escuadra para asegurar la verticalidad del trazo inferior.
@@ -340,47 +340,47 @@
             th Recomendación técnica
         tbody
           tr
-            td.fw-bold 1
+            td 1
             td Desde el escote, prolongar el hombro original hacia afuera y trazar una nueva línea inclinada hacia abajo.
             td Subir 1 cm. Salir 2 cm.
             td Asegurar que la nueva línea mantenga una inclinación fluida con el escote ampliado.
           tr
-            td.fw-bold 2
+            td 2
             td Desde el centro delantero, entrar y subir sobre la línea del escote para trazar una nueva forma.
             td Entrar 2 cm. Subir 2 cm.
             td Confirmar la escuadra desde el centro delantero al nuevo punto antes de trazar la curva.
           tr
-            td.fw-bold 3
+            td 3
             td Unir el nuevo punto del escote con el extremo descendido del hombro con una curva suave.
             td ——
             td Usar curvigrafo para una transición limpia y anatómica.
           tr
-            td.fw-bold 4
+            td 4
             td Desde el vértice de la sisa original, salir horizontalmente para marcar el nuevo punto superior de sisa.
             td Salir 2 cm.
             td Verificar simetría con el hombro extendido para mantener proporción.
           tr
-            td.fw-bold 5
+            td 5
             td Bajar y entrar desde la sisa base para redefinir el punto inferior de la nueva curva.
             td Bajar 1 cm. Entrar 2 cm.
             td Marcar con precisión, ya que estos puntos controlan la amplitud y ajuste de la sisa.
           tr
-            td.fw-bold 6
+            td 6
             td Unir con curva suave los puntos superior e inferior para trazar la nueva sisa modificada.
             td ——
             td Trazar de forma continua sin quiebres para conservar ergonomía.
           tr
-            td.fw-bold 7
+            td 7
             td Medir sobre la línea lateral del cuerpo la profundidad del rebaje deseado según el diseño.
             td Variable recomendada: 4 cm hacia adentro.
             td Esta medida define el tipo de escote lateral o apertura. Debe ajustarse al diseño específico.
           tr
-            td.fw-bold 8
+            td 8
             td Trazar una curva que conecte el nuevo escote con el punto de rebaje lateral.
             td ——
             td Utilizar curvigrafo para garantizar un trazo limpio, sin picos ni ángulos rectos.
           tr
-            td.fw-bold 9
+            td 9
             td Determinar el largo total del cuerpo bajando desde la cintura base.
             td Altura de cadera + 8 cm.
             td Verificar verticalidad con regla larga. Esta medida define el largo final de la prenda.
@@ -396,7 +396,7 @@
           img(src='@/assets/curso/temas/t3/7.jpg', alt='')
         .col-lg-7
           .h-100.d-flex.align-items-center.p-4.p-lg-5
-            p.mb-0 El trazo de la camiseta tipo polo combina elementos del patronaje básico de camisetas con detalles estructurales que le aportan un estilo semiformal; se caracteriza por tener cuello tipo sport, tapeta delantera con abertura parcial y, en algunos casos, puños en las mangas. El desarrollo del patrón incluye el trazado de las piezas principales (espalda, delantero, manga y cuello), integrando holguras adecuadas para el confort y permitiendo ensamblajes limpios que se adapten tanto a procesos industriales como artesanales.
+            p.mb-0 El trazo de la camiseta tipo polo combina elementos del patronaje básico de camisetas con detalles estructurales que le aportan un estilo semiformal; se caracteriza por tener cuello tipo #[em sport], tapeta delantera con abertura parcial y, en algunos casos, puños en las mangas. El desarrollo del patrón incluye el trazado de las piezas principales (espalda, delantero, manga y cuello), integrando holguras adecuadas para el confort y permitiendo ensamblajes limpios que se adapten tanto a procesos industriales como artesanales.
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-10.mb-4.mb-lg-0(data-aos="fade-right")
@@ -416,7 +416,7 @@
       h5 Tabla 14.
       span Proceso del trazo del delantero de la camiseta polo
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-      table.table-mpad(alt="")
+      table.table-mpad(alt="Tabla con diez pasos para modificar el delantero de una prenda sin mangas. Cada acción incluye medidas y recomendaciones para ajustar hombros, sisa, escote, abertura frontal, costados y largo total. Se sugiere precisión en simetría, uso de escuadra y curvígrafo para lograr un diseño proporcional, anatómico y equilibrado.")
         thead.bg-3
           tr
             th.w-85 Paso
@@ -462,7 +462,7 @@
           tr
             td 8
             td Marcar el centro superior del escote delantero, luego subir una curva levemente hacia ambos lados.
-            td 1,5 cm. hacia afuera.
+            td 1,5 cm hacia afuera.
             td Esta curva da forma al escote más redondeado; trazar con suavidad.
           tr
             td 9
@@ -494,7 +494,7 @@
                   .row   
                     h4 Paso 2
                     p Se determina el largo del rectángulo como:
-                    p largo de la abertura + 4 cm (holgura) + 2 cm (superior).
+                    p Largo de la abertura + 4 cm (holgura) + 2 cm (superior).
                   .row   
                     h4 Paso 3
                     p Una vez definido el rectángulo, se reparten las marcas de frunce de manera uniforme en el borde superior e inferior, trazando pequeños triángulos o piquetes. Estos indican los puntos donde se deben realizar los pliegues o recogidos.
@@ -505,7 +505,7 @@
                     h4 Paso 5
                     p Se repasa el contorno con margen de costura de 1 cm en todos los lados para preparación de costura.
         .bg-8.tarjeta.p-4.px-lg-5.mtn-5
-          h4.bg-color-primario.mb-4.w-fit.px-2.py-1 Nota
+          h4.bg-color-primario.mb-4.w-fit.px-2.py-1 Notas
           ul.lista-ul--color.fa-lista.mb-0
             li
               i.fas.fa-circle-chevron-right
@@ -527,12 +527,12 @@
                   .row   
                     h4 Paso 1
                     p Se traza un rectángulo cuyo ancho equivale a la suma de:
-                    p dos veces el ancho de la botonera + 1,5 cm.                    
+                    p Dos veces el ancho de la botonera + 1,5 cm.                    
                   .row   
                     h4 Paso 2
                     p El largo del rectángulo se determina a partir del largo de la abertura, al que se le suman:
                     p 4 cm para el margen inferior + 2 cm para el margen superior.
-                  .row   
+                  .row  
                     h4 Paso 3
                     p Se verifica que los lados estén escuadrados y los ángulos en 90°, asegurando que la pieza conserve su forma rectangular exacta.
                   .row   
@@ -542,7 +542,7 @@
                     h4 Paso 5
                     p Se añade margen de costura si el diseño lo requiere, generalmente 0,5 cm a 1 cm en cada lado, antes de proceder al corte.
         .bg-8.tarjeta.p-4.px-lg-5.mtn-5
-          h4.bg-color-primario.mb-4.w-fit.px-2.py-1 Nota
+          h4.bg-color-primario.mb-4.w-fit.px-2.py-1 Notas
           ul.lista-ul--color.fa-lista.mb-0
             li
               i.fas.fa-circle-chevron-right
@@ -928,7 +928,7 @@
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-1
                   i.fas.fa-circle
-                  | Ancho = ½ pecho + holgura (clásico 4 cm/#[em slim] 2–3 cm).
+                  span.mb-0 Ancho = ½ pecho + holgura (clásico 4 cm / #[em slim] 2 – 3 cm).
                 li.mb-1
                   i.fas.fa-circle
                   | Alto = largo total de la camisa.
@@ -990,7 +990,7 @@
           tr
             td 6
             td Plantear costados y entalles
-            td Unir los puntos de sisa, cintura y cadera con ligera curva. Si se busca silueta #[em slim], desplazar la línea
+            td Unir los puntos de sisa, cintura y cadera con ligera curva. Si se busca silueta #[em slim], desplazar la línea costado 1 cm hacia adentro a nivel de cintura.
           tr
             td 7
             td Trazar la pinza central
@@ -1034,7 +1034,7 @@
                   | Sobre el centro delantero reservar 3 cm para la vista de botones (1,5 cm de doblez + 1,5 cm de margen).
                 li.mb-1
                   i.fas.fa-circle
-                  | Señalar piquetes de ojales cada 8–9 cm.
+                  | Señalar piquetes de ojales cada 8 – 9 cm.
           tr
             td 12
             td Agregar simbología y márgenes
@@ -1048,7 +1048,7 @@
                   | 1,5 cm en dobladillo y vista.
                 li.mb-1
                   i.fas.fa-circle
-                  | Piquetes: delantero y ½ posterior de copa de manga; unión canesú-hombro; extremos de pinza.
+                  | Piquetes: ⅓ delantero y ½ posterior de copa de manga; unión canesú-hombro; extremos de pinza.
                 li.mb-1
                   i.fas.fa-circle
                   | Flechas de hilo paralelas a los centros de pieza.
@@ -1088,7 +1088,7 @@
           tr
             td 1
             td Rectángulo guía
-            td Dibujar un rectángulo ancho = ½ contorno bíceps + holgura (clásica + 6 cm/#[em slim] + 4 cm); alto provisional = largo de manga hasta la muñeca.
+            td Dibujar un rectángulo ancho = ½ contorno bíceps + holgura (clásica + 6 cm / #[em slim] + 4 cm); alto provisional = largo de manga hasta la muñeca.
             td.text-center —
           tr
             td 2
@@ -1099,7 +1099,7 @@
             td 3
             td Altura de copa
             td Sobre el eje marcar la línea de bíceps a una distancia = (contorno sisa ÷ 3) + 2 cm medida desde el borde superior del rectángulo.
-            td.text-center 22–25 cm en camisas talla media.
+            td.text-center 22 – 25 cm en camisas talla media.
           tr
             td 4
             td Anchuras de copa
@@ -1108,7 +1108,7 @@
           tr
             td 5
             td Curva de copa
-            td Desde el vértice superior izquierdo (copa delantera) dibujar curva suave que pase por el punto elevado del primer cuarto; repetir en el lado derecho, levantando 0,5–1 cm más para la copa trasera (necesita mayor altura).
+            td Desde el vértice superior izquierdo (copa delantera) dibujar curva suave que pase por el punto elevado del primer cuarto; repetir en el lado derecho, levantando 0,5 – 1 cm más para la copa trasera (necesita mayor altura).
             td.text-center Diferencia copa trasera > delantera ≈ 0,5 cm.
           tr
             td 6
@@ -1133,13 +1133,13 @@
           tr
             td 10
             td Holgura codo y costura lateral
-            td En el lado trasero, añadir 1 cm extra en la línea de codo; conectar con una curva ligera hacia bíceps y puño, adelantando la costura 1–2 cm hacia el delantero para compensar la rotación natural del brazo.
+            td En el lado trasero, añadir 1 cm extra en la línea de codo; conectar con una curva ligera hacia bíceps y puño, adelantando la costura 1 – 2 cm hacia el delantero para compensar la rotación natural del brazo.
             td.text-center —
           tr
             td 11
             td Marcado del pliegue para puño
             td Sobre la línea de unión manga-puño, indicar una pestaña de 3 cm (plegar) en el centro del eje; esto generará el fuelle que facilita el movimiento al abotonar.
-            td.text-center 3 cm (plecar).
+            td.text-center 3 cm (plegar).
           tr
             td 12
             td Márgenes y simbología
@@ -1148,7 +1148,7 @@
           tr
             td 13
             td Verificación de embebido
-            td La curva completa de la copa debe superar el perímetro de la sisa del cuerpo en ≈ 1,5–2 %, esa diferencia se embebe en la costura del hombro para que la manga asiente sin frunces visibles.
+            td La curva completa de la copa debe superar el perímetro de la sisa del cuerpo en ≈ 1,5 – 2 %, esa diferencia se embebe en la costura del hombro para que la manga asiente sin frunces visibles.
             td.text-center —
 
     .bg-1.tarjeta.mb-4(data-aos="fade-down")
@@ -1318,7 +1318,7 @@
       h5 Tabla 24.
       span Pasos para el levantamiento del plano de patronaje
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-      table.table-mpad.table-mmpad(alt="")
+      table.table-mpad.table-mmpad(alt="Tabla con trece pasos para el trazo completo de una prenda superior. Contempla la construcción del rectángulo base, líneas horizontales, escotes, hombros, canesú, sisa, costados, pinzas, dobladillos, vistas, márgenes, dirección de hilo y verificación. Cada acción está acompañada de referencias técnicas, puntos clave y medidas para garantizar precisión y simetría en el diseño.")
         thead.bg-3
           tr
             th.w-85 Paso
@@ -1347,23 +1347,23 @@
           tr
             td 2
             td Líneas horizontales
-            td #[b Medidas desde A hacia abajo:] 
+            td Medidas desde A hacia abajo:
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-1
                   i.fas.fa-circle
-                  | 3 cm — línea de hombro (A–B).
+                  | 3 cm → línea de hombro (A – B).
                 li.mb-1
                   i.fas.fa-circle
-                  | (¼ pecho + 2 cm) — línea de sisa (S1). 
+                  | (¼ pecho + 2 cm) → línea de sisa (S1). 
                 li.mb-1
                   i.fas.fa-circle
-                  | 1 cm bajo sisa — línea axilar.
+                  | 1 cm bajo sisa → línea axilar.
                 li.mb-1
                   i.fas.fa-circle
-                  | Altura talle — línea cintura (C).
+                  | Altura talle → línea cintura (C).
                 li.mb-1
                   i.fas.fa-circle
-                  | Altura cadera — línea cadera (X).
+                  | Altura talle → línea cintura (C).
             td.text-center Trazar a todo lo ancho.
           tr
             td 3
@@ -1378,12 +1378,12 @@
           tr
             td 5
             td Curva de sisa
-            td En línea de sisa medir ¼ ancho espalda desde centro espalda (S1) → S2; bajar 2 cm; unir P3–S2 con curva esp. En delantero repetir bajando 0,5 cm extra → S3; unir P4–S3.
+            td En línea de sisa medir ¼ ancho espalda desde centro espalda (S1) → S2; bajar 2 cm; unir P3 – S2 con curva esp. En delantero repetir bajando 0,5 cm extra → S3; unir P4 – S3.
             td.text-center S2 #[br]S3
           tr
             td 6
             td Costados
-            td Unir S2–C (espalda) y S3–W (delantero) con ligera curva. Para silueta #[em slim], adentrar 1 cm en cintura.
+            td Unir S2 – C (espalda) y S3 – W (delantero) con ligera curva. Para silueta #[em slim], adentrar 1 cm en cintura.
             td.text-center C #[br]W
           tr
             td 7
@@ -1393,7 +1393,7 @@
           tr
             td 8
             td Trazado de canesú recortado
-            td Completar línea recta O1–O2 y recortar la pieza; igual recorrido hombro delantero-espalda.
+            td Completar línea recta O1 – O2 y recortar la pieza; igual recorrido hombro delantero-espalda.
             td.text-center —
           tr
             td 9
@@ -1403,7 +1403,7 @@
           tr
             td 10
             td Vista y pliegue frontal
-            td Añadir tira de 3 cm paralela al centro delantero para vista/tapeta; pegar doblez de 1,5 cm.
+            td Añadir tira de 3 cm paralela al centro delantero para vista / tapeta; pegar doblez de 1,5 cm.
             td.text-center —
           tr
             td 11
@@ -1436,7 +1436,7 @@
               span.mb-0 Las coordenadas con letras (W₁-W₂, S₁-S₃, E₁-E₂) corresponden a los puntos indicados en la lámina original.
             li
               i.fas.fa-circle-chevron-right
-              span.mb-0 Ajuste de holguras: clásico = 4–6 cm en pecho, #[em slim] = 2–3 cm.
+              span.mb-0 Ajuste de holguras: clásico = 4 – 6 cm en pecho, #[em slim] = 2 – 3 cm.
 
 
     .row.bgcc-1.align-items-center.p-2.p-md-4(data-aos="fade-down")
@@ -1500,7 +1500,7 @@
       img(src="@/assets/curso/temas/t3/subt2.svg")
       h3.ps-3.pe-4.mb-0 Trazado paso a paso del patrón
     
-    p.mb-5 (Sistema proporcional con la variable P = contorno de pecho en cm; todas las distancias ya incluyen holgura básica, costuras no incluidas)
+    p.mb-5 (Sistema proporcional con la variable P = contorno de pecho en cm; todas las distancias ya incluyen holgura básica, costuras no incluidas).
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 25.
@@ -1511,7 +1511,7 @@
           tr
             th.w-85 Paso
             th Operación
-            th Fórmula/valor
+            th Fórmula / valor
             th Referencia
         tbody.text-left
           tr
@@ -1522,7 +1522,7 @@
           tr
             td 2
             td Dividir en mitades
-            td Trazar la línea vertical central — separar delantero (CA) y espalda (CF).
+            td Trazar la línea vertical central → separar delantero (CA) y espalda (CF). 
             td.text-center Línea vertical.
           tr
             td 3
@@ -1537,7 +1537,7 @@
           tr
             td 5
             td Pendiente hombro
-            td Calda = (P/36 cm) + 0,6 cm.
+            td Caída = (P/36 cm) + 0,6 cm.
             td.text-center Segmento oblicuo.
           tr
             td 6
@@ -1572,7 +1572,7 @@
           tr
             td 12
             td Líneas estructurales
-            td Canestà, cintura, cadera (cadera = P/6 + 3).
+            td Canesú, cintura, cadera (cadera = P/6 + 3).
             td.text-center Bandas horizontales.
           tr
             td 13
@@ -1631,7 +1631,7 @@
           tr
             th.w-85 Paso
             th Operación
-            th Cotas/fórmulas prácticas
+            th Cotas / fórmulas prácticas
             th Resultado en el esquema
         tbody.text-left
           tr
@@ -1647,7 +1647,7 @@
           tr
             td 3
             td Costados
-            td Unir sisa–cintura–cadera con ligera curva; estrechar 1 cm en cintura si se desea entalle moderado.
+            td Unir sisa – cintura – cadera con ligera curva; estrechar 1 cm en cintura si se desea entalle moderado.
             td.text-center Perfil lateral.
           tr
             td 4
@@ -1662,7 +1662,7 @@
           tr
             td 6
             td Verificación final
-            td Perímetro sisa debe superar el hueco corporal ≈ 2 % (embebido manga).
+            td Perímetro sisa debe superar el hueco corporal ≈ 2 % (embebido manga). Hombros delanteros / espalda de igual largo. 
             td.text-center Patrón listo para prototipo.
 
     .py-3
@@ -1688,10 +1688,10 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Base sastre masculina
+              h4.mb-1 Base chaqueta sastre masculina
               p.mb-0 Se invita a explorar el paso a paso del trazo de la base para la elaboración del patronaje de la chaqueta sastre masculina de tres botones.
             .col-sm-auto
-              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/b3g9qtFgeLM')" target="_blank")
+              a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/ZRCjy8C5A2Q')" target="_blank")
                 span Ir al sitio
                 i.fas.fa-circle-play
 
@@ -1728,14 +1728,14 @@
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-0
                   i.fas.fa-circle
-                  | Desde el vértice cuello–hombro trazar un retroceso de 0,6 cm y alzar 0,7 cm (punto A). 
+                  | Desde el vértice cuello – hombro trazar un retroceso de 0,6 cm y alzar 0,7 cm (punto A). 
                 li.mb-0
                   i.fas.fa-circle
                   | Girar la línea de escote 2,5 cm hacia afuera; largo hombro 2,9 cm. 
                 li.mb-0
                   i.fas.fa-circle
                   | Añadir pestaña de 3,5 x 2,5 cm para quiebre de cuello (líneas inclinadas).
-            td Define #[em roll-line] del cuello con mayor apertura; crea la base
+            td Define #[em roll-line] del cuello con mayor apertura; crea la base de la solapa.
           tr
             td 2
             td Traslación de pinza de pecho
@@ -1756,7 +1756,14 @@
           tr
             td 4
             td Corte del bolsillo superior (vivo)
-            td Línea de boca 10,5 cm de largo, inclinada 2°; colocar 2,2 cm bajo la línea de canesú.
+            td 
+              ul.lista-ul.fa-lista.circle-lista.mb-0
+                li.mb-0
+                  i.fas.fa-circle
+                  | Línea de boca 10,5 cm de largo, inclinada 2°; colocar 2,2 cm bajo la línea de canesú.
+                li.mb-0
+                  i.fas.fa-circle
+                  | Profundidad de bolsa 7 cm; ancho total 2,7 cm.
             td Bolsillo ojal superior, típico de chaqueta #[em sport].
           tr
             td 5
@@ -1793,7 +1800,7 @@
           tr
             td 10
             td Simbología y ejes
-            td Flechas verticales = dirección de hilo. Δ = vértices de pinzas abiertas/ cerradas.
+            td Flechas verticales = dirección de hilo. Δ = vértices de pinzas abiertas / cerradas. 
             td Anclan la lectura del patrón durante el corte.
 
     .py-3
@@ -1841,6 +1848,25 @@
               .col-lg-9
                 figure
                   img(src='@/assets/curso/temas/t3/fig38.svg', alt='Secuencia de trazado técnico para la construcción de una manga de chaqueta masculina. La primera figura corresponde al desarrollo inicial del largo de manga y posicionamiento de líneas horizontales para el codo y la sisa. La segunda figura incorpora el contorno superior, correspondiente a la copa de manga, con inclinación y medidas proporcionales. La tercera figura presenta la manga completa, con forma anatómica curva, líneas de doblez, separación entre delantero y trasero, y señalización de botones en el puño. Las medidas están indicadas en centímetros y distribuidas para garantizar ajuste estructural al cuerpo base previamente desarrollado.')
+    
+    .bgi-1.mb-4(data-aos="fade-down")
+      .row.justify-content-center
+        .col-lg-5.grad-bloque
+          img(src='@/assets/curso/temas/t3/28.png', alt='')
+        .col-lg-7
+          .h-100.p-4.p-lg-5
+            h4.subt3.w-fit.mb-4 Lectura rápida del esquema
+            ul.lista-ul--color.fa-lista.mb-0
+              li.mb-4
+                i.fas.fa-circle-chevron-right
+                span.mb-0 Vista 1 (izquierda): estructura bruta con tres horizontales clave, contorno sisa, línea de bíceps (2,2 = D) y altura C.
+              li.mb-4
+                i.fas.fa-circle-chevron-right
+                span.mb-0 Vista 2 (centro): se agrega la diagonal de balance y se traslada la curva frontal de la copa.
+              li.mb-0
+                i.fas.fa-circle-chevron-right
+                span.mb-0 Vista 3 (derecha): manga definitiva con #[em cap-height] diferenciada, entalle de codo, puño inclinado y perforaciones para botones.
+
 
     p.mb-4 A continuación, se detalla el procedimiento:
 
@@ -1848,7 +1874,7 @@
       h5 Tabla 28.
       span Paso a paso del trazo de la manga de la chaqueta sastre
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-      table.table-mpad(alt="")
+      table.table-mpad(alt="Tabla con once pasos para el trazo de la manga de una chaqueta sastre. Incluye construcción del rectángulo base, división en secciones, formación de la cabeza de manga, dirección del brazo, línea de codo, entalle, boca de puño, holguras, abertura de botones y simbología. Cada paso indica medidas aproximadas y su propósito técnico para asegurar ajuste anatómico, movilidad y confección precisa.")
         thead.bg-3
           tr
             th.w-85 Paso
@@ -1863,7 +1889,7 @@
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-0
                   i.fas.fa-circle
-                  | Ancho = contorno sisa + 2 cm + 3 cm. 
+                  | Ancho = contorno sisa ÷ 2 cm + 3 cm.
                 li.mb-0
                   i.fas.fa-circle
                   span.mb-0 Alto = largo de manga deseado + 1 cm.
@@ -1897,7 +1923,7 @@
                 li.mb-0
                   i.fas.fa-circle
                   | Unir con curva continua (ver flechas 1,3 cm y 1 cm en la vista 3).
-            td Genera la diferencia de copa: espalda más alta
+            td Genera la diferencia de copa: espalda más alta para movilidad. 
           tr
             td 6
             td Línea de codo
@@ -1933,7 +1959,7 @@
           tr
             td 9
             td #[em Placket] y botones
-            td Marcar 4–5 botones a 1,5 cm del borde y piquetes a 1,5 cm entre sí (circulos).
+            td Marcar 4 – 5 botones a 1,5 cm del borde y piquetes a 1,5 cm entre sí (circulos).
             td Prepara abertura superpuesta.
           tr
             td 10
@@ -1942,7 +1968,7 @@
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-0
                   i.fas.fa-circle
-                  | Holgura bíceps = + 6 clásica/ + 4 entallada. 
+                  | Holgura bíceps = + 6 clásica / + 4 entallada. 
                 li.mb-0
                   i.fas.fa-circle
                   | Desfase copa = 2 % sobre perímetro sisa (embebido).
@@ -1952,25 +1978,7 @@
             td Simbología final
             td ▼ frente (¼ copa), ▼▼ espalda (½ copa); flecha vertical = hilo; 90° en punta inferior.
             td Lectura universal del molde.
-
-    .bgi-1.mb-4(data-aos="fade-down")
-      .row.justify-content-center
-        .col-lg-5.grad-bloque
-          img(src='@/assets/curso/temas/t3/28.png', alt='')
-        .col-lg-7
-          .h-100.p-4.p-lg-5
-            h4.subt3.w-fit.mb-4 Lectura rápida del esquema
-            ul.lista-ul--color.fa-lista.mb-0
-              li.mb-4
-                i.fas.fa-circle-chevron-right
-                span.mb-0 Vista 1 (izquierda): estructura bruta con tres horizontales clave, contorno sisa, línea de bíceps (2,2 = D) y altura C.
-              li.mb-4
-                i.fas.fa-circle-chevron-right
-                span.mb-0 Vista 2 (centro): se agrega la diagonal de balance y se traslada la curva frontal de la copa.
-              li.mb-0
-                i.fas.fa-circle-chevron-right
-                span.mb-0 Vista 3 (derecha): manga definitiva con #[em cap-height] diferenciada, entalle de codo, puño inclinado y perforaciones para botones.
-
+    
     .py-3
     .row.justify-content-center.mb-4(data-aos="fade-down")
       .col-lg-5.pe-lg-0.bg-color-primario
@@ -2015,7 +2023,7 @@
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
               h4.mb-1 Interpretación de chaqueta #[em bomber]
-              p.mb-0 Se invita a realizar el paso a paso del trazo de la chaqueta bomber masculina. 
+              p.mb-0 Se invita a realizar el paso a paso del trazo de la chaqueta #[em bomber] masculina. 
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/bK-PL29vc8U')" target="_blank")
                 span Ir al sitio
@@ -2086,7 +2094,7 @@
             td 2
             td Extension de vista delantera
             td 1,7 cm de ancho (borde izquierdo).
-            td Esta faja corresponde al doblez para botones/ojales.
+            td Esta faja corresponde al doblez para botones / ojales.
           tr
             td 3
             td Línea de hombro delantero
@@ -2106,7 +2114,7 @@
             td 6
             td Sisa delantera
             td Bajar 6,8 cm desde hombro; adelantar 2,5 cm hacia el cuerpo.
-            td Curvar conectando escote–hombro–costado.
+            td Curvar conectando escote – hombro – costado.
           tr
             td 7
             td Sisa espalda
@@ -2202,6 +2210,7 @@
       span Paso a paso del patronaje de la manga
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
       table.table-mpad(alt="Tabla con doce pasos para el trazo completo de una manga. Incluye construcción del rectángulo base, segmentación por altura, formación de la cabeza de manga, curvas delantera y posterior, costuras laterales, forma del puño, ubicación del placket, botones, piquetes de ensamblaje y márgenes de costura. Cada paso detalla medidas precisas y secuencia para un diseño funcional y anatómico.")
+        caption Fuente: SENA, (2025) 
         thead.bg-3
           tr
             th.w-85 Paso
@@ -2212,27 +2221,27 @@
           tr
             td 1
             td Trazar el rectángulo base
-            td Ancho inferior = 15.2 cm. #[br]Alto total = 42 cm (11.4 cm + 22 cm + 8.6 cm).
+            td Ancho inferior = 15,2 cm. #[br]Alto total = 42 cm (11,4 cm + 22 cm + 8,6 cm).
             td El eje vertical centra la manga (línea de hilo).
           tr
             td 2
             td Dividir la altura en tres segmentos
-            td 11.4 cm desde arriba (línea de bíceps). #[br]22 cm adicionales (línea de codo). #[br]8.6 cm restantes (línea de puño)
+            td 11,4 cm desde arriba (línea de bíceps). #[br]22 cm adicionales (línea de codo). #[br]8.6 cm restantes (línea de puño).
             td Escuadrar horizontales en cada punto.
           tr
             td 3
-            td Marcar el ancho de bisceps
+            td Marcar el ancho de bíceps
             td Sobre la línea de bíceps: 22 cm totales (11 cm a cada lado del eje).
             td Indica la holgura de brazo.
           tr
             td 4
             td Construir la cabeza de manga
-            td Desde la vertical, medir hacia ambos lados: 5.4 cm – 5.4 cm – 3.5 cm – 5.9 cm según la secuencia. Alturas: 7.6 cm, 6 cm y 5 cm hacia arriba en secciones alternas.
+            td Desde la vertical, medir hacia ambos lados: 5,4 cm – 5,4 cm – 3,5 cm – 5,9 cm según la secuencia. Alturas: 7,6 cm, 6 cm y 5 cm hacia arriba en secciones alternas.
             td Unir puntos con curva continua (espalda ligeramente más alta).
           tr
             td 5
             td Definir la curva delantera de la copa
-            td Avanzar 2.5 cm hacia el cuerpo y bajar 7 cm desde el punto más alto; unir con radio suave.
+            td Avanzar 2,5 cm hacia el cuerpo y bajar 7 cm desde el punto más alto; unir con radio suave.
             td Genera la caída frontal.
           tr
             td 6
@@ -2242,7 +2251,7 @@
           tr
             td 7
             td Trazar costuras laterales
-            td Delantera: inclinar 2 cm hacia dentro en puño y 1 cm en codo. #[br]Posterior: inclinar 1 cm en codo y 0.7 cm en puño.
+            td Delantera: inclinar 2 cm hacia dentro en puño y 1 cm en codo. #[br]Posterior: inclinar 1 cm en codo y 0,7 cm en puño.
             td Conectar mediante líneas rectas; suavizar levemente en la zona del codo.
           tr
             td 8
@@ -2257,7 +2266,7 @@
           tr
             td 10
             td Ubicar botones de puño
-            td Cinco perforaciones a 1.5 cm del borde y espaciadas 1 cm entre sí.
+            td Cinco perforaciones a 1,5 cm del borde y espaciadas 1 cm entre sí.
             td Colocar círculos en línea vertical.
           tr
             td 11
@@ -2267,7 +2276,7 @@
           tr
             td 12
             td Añadir márgenes de costura
-            td 1 cm en curvas y costados. #[br]1.5 cm en puño.
+            td 1 cm en curvas y costados. #[br]1,5 cm en puño.
             td Trazar línea paralela exterior.
     
     .py-3
@@ -2296,8 +2305,8 @@
           span Cinturilla completa
         .tarjeta.bg-12.p-4.h-lg-100.d-flex.flex-column.justify-content-center
           figure.mb-3
-            img(src='@/assets/curso/temas/t3/fig43.svg', alt='')
-          figcaption.text-white.bg-color-sistema-texto Fuente: 
+            img(src='@/assets/curso/temas/t3/fig43.svg', alt='Vista técnica de un puño de camisa con medidas detalladas. La pieza es rectangular, con una longitud total de 56.8 cm y altura de 4.5 cm. Incluye marcas para ojal, botones y tapeta superpuesta de 8 cm. Las divisiones internas indican posicionamiento de elementos funcionales para cierre y ajuste.')
+          figcaption Fuente: 
             a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/      
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
         .titulo-sexto.color-acento-contenido.mb-3
@@ -2305,8 +2314,8 @@
           span Cinturilla media
         .tarjeta.bg-6.p-4.h-lg-100.d-flex.flex-column.justify-content-center
           figure.mb-3
-            img(src='@/assets/curso/temas/t3/fig44.svg', alt='')
-          figcaption.text-white.bg-color-sistema-texto Fuente: 
+            img(src='@/assets/curso/temas/t3/fig44.svg', alt='Pieza técnica rectangular correspondiente a un puño de camisa con medidas especificadas. El largo total es de 35.4 cm y el alto de 4 cm. Se indican dos posiciones para botones y un ojal al extremo opuesto. Las distancias internas marcan la ubicación precisa de los elementos de cierre y los márgenes para costura.')
+          figcaption Fuente: 
             a(href="https://es.pinterest.com/pin/2533343531454928/ " target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
 
     .py-3
@@ -2358,7 +2367,7 @@
             td Dibujar un segundo círculo a la derecha del primero (más pequeño), alineado horizontalmente.
             td Compás o lápiz con plantilla.
             td Diámetro aproximado: 0,2 cm.
-            td Dejar entre ambos una separación proporcional (0,2–0,3 cm).
+            td Dejar entre ambos una separación proporcional (0,2 – 0,3 cm).
           tr
             td 7
             td Dibujar una forma oval o triangular alrededor de los dos orificios, simulando el rebaje o área fresada.
@@ -2482,10 +2491,10 @@
             td 4
             td Del lado derecho, marcar 5 cm en la parte superior y 3 cm en la parte inferior.
             td Regla.
-            td Borde derecho: 5 cm arriba/3 cm abajo.
+            td Borde derecho: 5 cm arriba / 3 cm abajo.
           tr
             td 5
-            td Unir los puntos inferiores con una curva suave desde 2,5 cm hasta el final del patrón
+            td Unir los puntos inferiores con una curva suave desde 2,5 cm hasta el final del patrón.
             td Curvígrafo o mano alzada.
             td Linea curva inferior desde 2,5 cm hasta 30 cm.
 
