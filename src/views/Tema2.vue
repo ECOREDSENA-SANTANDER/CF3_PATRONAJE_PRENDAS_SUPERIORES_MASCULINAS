@@ -323,31 +323,19 @@
                   .col-11.col-lg-6.mb-4.mb-md-0
                     h4 Cuerpo (delantero y espalda)
                     p El cuerpo constituye el soporte principal de la prenda y define la silueta global. Su trazo parte de un rectángulo cuyas anchuras derivan de la mitad del contorno de pecho, cintura y cadera, incrementadas por la holgura correspondiente. La bajada de sisa (¼ pecho + 2 cm) y la inclinación de hombro (2 – 3 cm) reproducen la anatomía torácica; el dobladillo puede ser recto industrial o curvo deportivo según el estilo.
-                  .col-11.col-md-9.col-lg-6.col-lg-4
+                  .col-11.col-md-9.col-lg-4
                     img(src='@/assets/curso/temas/t2/slider2-1.png', alt='')
                 .row.align-items-center.justify-content-around(titulo="Canesú")
                   .col-11.col-lg-6.mb-4.mb-md-0
                     h4 Canesú
                     p Pieza estabilizadora que se coloca en la parte superior de la espalda (a 6 – 8 cm bajo el punto alto de cuello) para absorber la curvatura dorsal y evitar deformaciones en el hombro. Puede ser corrido (continúa hacia el delantero) o segmentado (solo espalda). Su largo debe igualar el recorrido de hombro en el delantero para evitar tensiones.
-                  .col-11.col-md-9.col-lg-6.col-lg-4
+                  .col-11.col-md-9.col-lg-4
                     img(src='@/assets/curso/temas/t2/slider2-2.png', alt='')
                 .row.align-items-center.justify-content-around(titulo="Cuello (pie + pala)")
-                  .col-11.col-lg-6.mb-4.mb-md-0
+                  .col-11.col-lg-3.mb-4.mb-md-0
                     h4 Cuello (pie + pala)
-                    p El cuello se compone de un pie (#[em stand:] base o pie del cuello) que abraza el escote y una pala (#[em fall:] parte doblada del cuello) que descansa sobre el pecho. El largo total equivale al perímetro de escote más 1 cm de facilidad. El pie suele medir 3 cm de alto en el centro y la pala presenta una caída frontal de 4 – 5 cm. La línea de quiebre (#[em roll line]) se marca a 1,5 cm del borde de ensamblaje para garantizar un virado limpio.
-                  .col-11.col-md-9.col-lg-6.col-lg-4
-                    img(src='@/assets/curso/temas/t2/slider2-3.png', alt='')
-                .row.align-items-center.justify-content-around(titulo="Manga")
-                  .col-11.col-lg-6.mb-4.mb-md-0
-                    h4 Manga
-                    p Diseñada para alojar el brazo sin restringir la movilidad, la manga se traza a partir de su ancho de bíceps (medido + holgura) y una altura de copa aproximada de (contorno de sisa ÷ 3) + 2 cm. La costura lateral se adelanta 2 cm hacia el delantero para equilibrar la rotación natural del brazo; a nivel de codo se suele añadir 1 cm extra en el trasero para flexión.
-                  .col-11.col-md-9.col-lg-6.col-lg-4
-                    img(src='@/assets/curso/temas/t2/slider2-4.png', alt='')
-                .row.align-items-center.justify-content-around(titulo="Puño")
-                  .col-11.col-lg-4.mb-4.mb-md-0
-                    h4 Puño
-                    p Elemento de cierre que regula la boca de la manga. Su rectángulo desplegado equivale al contorno de muñeca más 5 – 6 cm de solapa y un alto total de 7 cm (acabado 3,5 cm). La ranura de #[em placket] (10 – 12 cm) se refuerza con una torre o tapeta para facilitar el abotonado sin deformar la copa de manga.
-                  .col-12.col-md-11.col-lg-7
+                    p El cuello se compone de un pie (#[em stand:] base o pie del cuello) que abraza el escote y una pala (#[em fall:] parte doblada del cuello) que descansa sobre el pecho. El largo total equivale al perímetro de escote más 1 cm de facilidad. El pie suele medir 3 cm de alto en el centro y la pala presenta una caída frontal de 4 – 5 cm. La línea de quiebre (#[em roll line]) se marca a 1,5 cm del borde de ensamblaje para garantizar un virado limpio.                    
+                  .col-11.col-md-9.col-lg-7
                     .tarjeta.bg-7.p-2
                       SlyderA.figuras.p-3(tipo='a')
                         .row
@@ -372,17 +360,27 @@
                                   img(src='@/assets/curso/temas/t2/fig5.svg', alt='Conjunto de ocho tipos de cuellos de camisa, clasificados según su forma y función. El cuello mandarín o mao es corto y recto, sin solapas. El cuello francés tiene puntas abiertas hacia los costados, ideal para corbatas anchas. El cuello con botones abajo presenta botones en las puntas para sujetarlo al cuerpo de la camisa. El clásico o inglés tiene puntas ligeramente inclinadas hacia abajo, equilibrado para usos formales. El cuello para pajarita o smoking presenta base estrecha y puntas pequeñas, diseñado para corbatín. El cuello tipo banda es una tira recta sin doblez. El cuello de ojal tiene un espacio central diseñado para pasar un broche o accesorio decorativo. El cuello italiano se caracteriza por tener puntas cortas y muy abiertas hacia los lados.')
                             figcaption Fuente: 
                               a(href="https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
-                        .row
-                          .col-12
-                            .titulo-sexto.color-acento-contenido.mb-2
-                              h5 Figura 6.
-                              span Tipos de puños 
-                            .row.justify-content-center.mb-2
-                              .col-md-10.col-10
-                                figure
-                                  img(src='@/assets/curso/temas/t2/fig6.svg', alt='Clasificación de distintos tipos de puños utilizados en camisas, según su forma y sistema de cierre. El puño ángulo con uno o dos botones tiene terminación en punta inclinada. El puño redondo presenta bordes curvos y puede cerrarse con uno o dos botones. El puño recto, también con opción de uno o dos botones, tiene terminación plana y líneas perpendiculares. El puño recto corto es una versión más baja del puño recto convencional. Los modelos dobles, diseñados para usarse con mancuernillas, incluyen el doble angulado con terminación en punta, el doble recto con bordes rectos, y el doble redondo con terminación curva.')
-                            figcaption Fuente: 
-                              a(href="https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
+                .row.align-items-center.justify-content-around(titulo="Manga")
+                  .col-11.col-lg-6.mb-4.mb-md-0
+                    h4 Manga
+                    p Diseñada para alojar el brazo sin restringir la movilidad, la manga se traza a partir de su ancho de bíceps (medido + holgura) y una altura de copa aproximada de (contorno de sisa ÷ 3) + 2 cm. La costura lateral se adelanta 2 cm hacia el delantero para equilibrar la rotación natural del brazo; a nivel de codo se suele añadir 1 cm extra en el trasero para flexión.
+                  .col-11.col-md-9.col-lg-4
+                    img(src='@/assets/curso/temas/t2/slider2-4.png', alt='')
+                .row.align-items-center.justify-content-around(titulo="Puño")
+                  .col-11.col-lg-3.mb-4.mb-md-0
+                    h4 Puño
+                    p Elemento de cierre que regula la boca de la manga. Su rectángulo desplegado equivale al contorno de muñeca más 5 – 6 cm de solapa y un alto total de 7 cm (acabado 3,5 cm). La ranura de #[em placket] (10 – 12 cm) se refuerza con una torre o tapeta para facilitar el abotonado sin deformar la copa de manga.
+                  .col-12.col-md-11.col-lg-7
+                    .tarjeta.bg-7.p-3
+                      .titulo-sexto.color-acento-contenido.mb-2
+                        h5 Figura 6.
+                        span Tipos de puños 
+                      .row.justify-content-center.mb-2
+                        .col-md-10.col-10
+                          figure
+                            img(src='@/assets/curso/temas/t2/fig6.svg', alt='Clasificación de distintos tipos de puños utilizados en camisas, según su forma y sistema de cierre. El puño ángulo con uno o dos botones tiene terminación en punta inclinada. El puño redondo presenta bordes curvos y puede cerrarse con uno o dos botones. El puño recto, también con opción de uno o dos botones, tiene terminación plana y líneas perpendiculares. El puño recto corto es una versión más baja del puño recto convencional. Los modelos dobles, diseñados para usarse con mancuernillas, incluyen el doble angulado con terminación en punta, el doble recto con bordes rectos, y el doble redondo con terminación curva.')
+                      figcaption Fuente: 
+                        a(href="https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
 
 
     Separador
@@ -393,7 +391,7 @@
       p.mb-0 Comprender cómo se segmenta una camisa masculina en cortes, cómo se articulan sus detalles funcionales y cómo se añaden recursos ornamentales es imprescindible para traducir cualquier propuesta de diseño en un patrón técnicamente viable. El siguiente desarrollo combina redacción explicativa, tablas comparativas y una ruta operativa paso a paso.
 
 
-    .mb-3(data-aos="fade")
+    .mb-4(data-aos="fade")
       .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 7.
         span Diseño de botoneras y cuellos
@@ -405,43 +403,45 @@
         a(href="https://www.nimble-made.com/blogs/news/dress-shirt-placket" target="_blank") https://www.nimble-made.com/blogs/news/dress-shirt-placket 
 
     
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
+    
 
-          .row.justify-content-center.align-items-center
-            .col-lg-6.mb-3
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 8.
-                span Trazo botonera clásica
-              .row.justify-content-center.mb-3
-                .col-lg-5.col-md-7.col-10
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig8.svg', alt='Presenta el diseño técnico del delantero de una camisa con el trazo de la botonera clásica integrada. Incluye la prolongación de 3 cm hacia el borde para formar la botonera, con una línea punteada que indica el doblez central y una línea recta adicional a 1,5 cm que representa la ubicación de los ojales o botones.')
-            .col-lg-6.mb-3
-              .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 9.
-                span Trazo botonera sencilla
-              .row.justify-content-center.mb-3
-                .col-lg-5.col-md-7.col-10
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig9.svg', alt='Representa el trazo del delantero de una camisa con botonera sencilla. El diseño incluye una prolongación de 3 cm hacia el borde para formar la botonera, junto con una marca interna a 1 cm del borde que indica el doblez interior para el acabado del cruce. ')
-            .col-lg-6.mb-3
-              .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 10.
-                span Trazo botonera oculta
-              .row.justify-content-center.mb-3
-                .col-lg-6.col-md-8.col-11
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig10.svg', alt='Representa el trazo del delantero de una camisa con botonera oculta. Se indican tres líneas paralelas: una prolongación externa de 4 cm, una pieza central de 6 cm y una solapa interna de 1,5 cm que permite cubrir los botones mediante dobleces sucesivos.')
-            .col-lg-6.mb-3
-              .titulo-sexto.color-acento-contenido.mb-3
-                h5 Figura 11.
-                span Trazo botonera separada 
-              .row.justify-content-center.mb-3
-                .col-lg-6.col-md-8.col-11
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig11.svg', alt='Presenta el diseño del delantero de una camisa con botonera separada. El trazo incluye una pieza independiente conformada por tres franjas: dos de 3 cm para doblez y una de 1 cm para terminación, mientras que el cuerpo del delantero incorpora un margen de costura de 0,5 cm para la unión de ambas partes.')
+    .row.justify-content-center.align-items-center.mb-4
+      .col-lg-6.mb-3
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 8.
+          span Trazo botonera clásica
+        .bg-7.p-3.mb-3
+          .row.justify-content-center
+            .col-lg-5.col-md-7.col-10
+              figure
+                img(src='@/assets/curso/temas/t2/fig8.svg', alt='Presenta el diseño técnico del delantero de una camisa con el trazo de la botonera clásica integrada. Incluye la prolongación de 3 cm hacia el borde para formar la botonera, con una línea punteada que indica el doblez central y una línea recta adicional a 1,5 cm que representa la ubicación de los ojales o botones.')
+      .col-lg-6.mb-3
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 9.
+          span Trazo botonera sencilla
+        .bg-7.p-3.mb-3
+          .row.justify-content-center
+            .col-lg-5.col-md-7.col-10
+              figure
+                img(src='@/assets/curso/temas/t2/fig9.svg', alt='Representa el trazo del delantero de una camisa con botonera sencilla. El diseño incluye una prolongación de 3 cm hacia el borde para formar la botonera, junto con una marca interna a 1 cm del borde que indica el doblez interior para el acabado del cruce. ')
+      .col-lg-6.mb-3
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 10.
+          span Trazo botonera oculta
+        .bg-7.p-3.mb-3
+          .row.justify-content-center
+            .col-lg-6.col-md-8.col-11
+              figure
+                img(src='@/assets/curso/temas/t2/fig10.svg', alt='Representa el trazo del delantero de una camisa con botonera oculta. Se indican tres líneas paralelas: una prolongación externa de 4 cm, una pieza central de 6 cm y una solapa interna de 1,5 cm que permite cubrir los botones mediante dobleces sucesivos.')
+      .col-lg-6.mb-3
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 11.
+          span Trazo botonera separada 
+        .bg-7.p-3.mb-3
+          .row.justify-content-center
+            .col-lg-7.col-md-8.col-11
+              figure
+                img(src='@/assets/curso/temas/t2/fig11.svg', alt='Presenta el diseño del delantero de una camisa con botonera separada. El trazo incluye una pieza independiente conformada por tres franjas: dos de 3 cm para doblez y una de 1 cm para terminación, mientras que el cuerpo del delantero incorpora un margen de costura de 0,5 cm para la unión de ambas partes.')
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
@@ -759,27 +759,27 @@
           .h-100.d-flex.align-items-center.p-4.p-lg-5
             p.mb-0 Es la plantilla técnica que define la forma, medidas y márgenes necesarios para confeccionar un bolsillo en producción en serie; incluye la pieza del cuerpo del bolsillo, márgenes de costura, guías de ubicación y, si aplica, la tapeta. Se diseña considerando el tipo de tejido, la funcionalidad del bolsillo y los requerimientos del proceso industrial, garantizando precisión, facilidad de ensamblaje y acabados uniformes.
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.mb-2.d-none.d-lg-block(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
+ 
 
+    .row.justify-content-center
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 12.
+          span Trazo del patrón del bolsillo industrial
+        .bg-7.p-3.mb-2
           .row.justify-content-center
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 12.
-                span Trazo del patrón del bolsillo industrial
-              .row.justify-content-center.mb-3
-                .col-lg-8.col-md-7.col-10
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 13.
-                span Trazo de bolsillo con tapa separada
-              .row.justify-content-center.mb-3
-                .col-lg-5.col-md-7.col-10
-                  figure
-                    img(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')
+            .col-lg-9.col-md-7.col-10
+              figure
+                img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-4
+          h5 Figura 13.
+          span Trazo de bolsillo con tapa separada
+        .bg-7.p-3.mb-2
+          .row.justify-content-center
+            .col-lg-6.col-md-7.col-10
+              figure
+                img.px-lg-2(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')
     
     .row.justify-content-center(data-aos="fade-down")
       .col-lg-6.mb-5
@@ -872,10 +872,12 @@
         .titulo-sexto.color-acento-contenido.mb-3
           h5 Figura 14.
           span Trazo de bolsillo con tapa incluida
-      .col-lg-8.mb-3
-        figure
-          img(src='@/assets/curso/temas/t2/fig14.svg', alt='Molde técnico completo de bolsillo con tapa independiente. El bolsillo tiene un ancho de 13 cm y un largo total de 14 cm, con una vista superior doblada de 3 cm y un vértice inferior formado por dobleces laterales de 1.5 cm. La tapa mide 13 cm de ancho por 7 cm de alto, con una terminación en punta generada por dobleces laterales de 2.5 cm.')
-      figcaption Fuente: SENA, (2025)
+        .bg-7.p-3.mb-3
+          .row.justify-content-center
+            .col-lg-5
+              figure
+                img(src='@/assets/curso/temas/t2/fig14.svg', alt='Molde técnico completo de bolsillo con tapa independiente. El bolsillo tiene un ancho de 13 cm y un largo total de 14 cm, con una vista superior doblada de 3 cm y un vértice inferior formado por dobleces laterales de 1.5 cm. La tapa mide 13 cm de ancho por 7 cm de alto, con una terminación en punta generada por dobleces laterales de 2.5 cm.')
+        figcaption Fuente: SENA, (2025)
 
 
 </template>

@@ -47,36 +47,29 @@
                 i.fas.fa-circle-play
 
     p.mb-4 Como complemento a la información expuesta, se detallan los planos de patronaje de básicas masculinas; camiseta y/o camisilla en las siguientes figuras:
-
-    .row.bgcc-1.align-items-center.p-2.p-md-3.mb-lg-2.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
+  
+    .row.justify-content-center.mb-4
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 15.
+          span Trazo camiseta masculina básica delantero
+        .bg-7.p-3.mb-2  
+          .row.justify-content-center        
+            .col-lg-8.col-md-8.col-12
+              figure.mb-3.mb-lg-0
+                img(src='@/assets/curso/temas/t3/fig15.svg', alt='Molde técnico para prenda superior sin mangas, ajustada a partir de un patrón base. Se especifican ajustes en escote y sisa: se bajan 2 cm en escote delantero, 2.5 cm en hombro y se proyecta una curva que se entra 0.5 cm en la sisa. Las distancias de referencia en hombro y sisa son de 14 cm, y se indican los puntos de entrada en curva para un mejor calce. El largo de la prenda corresponde a la altura de cadera más 8 cm, con una línea base recta en el inferior. El trazo incluye líneas punteadas para mostrar modificaciones sobre el patrón original.')
+        figcaption Fuente: SENA, (2025)
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 16.
+          span Trazo camiseta masculina básica posterior
+        .bg-7.p-3.mb-2  
           .row.justify-content-center
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 15.
-                span Trazo camiseta masculina básica delantero
-              .row.justify-content-center.mb-3
-                .col-lg-8.col-md-8.col-12
-                  figure.mb-3.mb-lg-0
-                    img(src='@/assets/curso/temas/t3/fig15.svg', alt='Molde técnico para prenda superior sin mangas, ajustada a partir de un patrón base. Se especifican ajustes en escote y sisa: se bajan 2 cm en escote delantero, 2.5 cm en hombro y se proyecta una curva que se entra 0.5 cm en la sisa. Las distancias de referencia en hombro y sisa son de 14 cm, y se indican los puntos de entrada en curva para un mejor calce. El largo de la prenda corresponde a la altura de cadera más 8 cm, con una línea base recta en el inferior. El trazo incluye líneas punteadas para mostrar modificaciones sobre el patrón original.')
-                  figcaption.d-block.d-lg-none Fuente: SENA, (2025)
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 16.
-                span Trazo camiseta masculina básica posterior
-              .row.justify-content-center.mb-3
-                .col-lg-8.col-md-8.col-12
-                  figure.mb-3.mb-lg-0
-                    img.px-lg-3(src='@/assets/curso/temas/t3/fig16.svg', alt='Molde técnico posterior de prenda superior sin mangas. Contiene escote curvo en la parte superior, hombro inclinado, sisa ajustada con entrada en curva y pinza lateral ubicada bajo la sisa. El largo se extiende por debajo de la cadera. Incluye anotaciones numéricas que marcan medidas y ajustes.')
-                  figcaption.d-block.d-lg-none Fuente: SENA, (2025)
+            .col-lg-8.col-md-8.col-12
+              figure.mb-3.mb-lg-0
+                img.px-lg-2(src='@/assets/curso/temas/t3/fig16.svg', alt='Molde técnico posterior de prenda superior sin mangas. Contiene escote curvo en la parte superior, hombro inclinado, sisa ajustada con entrada en curva y pinza lateral ubicada bajo la sisa. El largo se extiende por debajo de la cadera. Incluye anotaciones numéricas que marcan medidas y ajustes.')
+        figcaption Fuente: SENA, (2025)
     
-    .row.justify-content-center.d-none.d-lg-flex.mb-5
-      .col-lg-6
-        figcaption Fuente: SENA, (2025)
-      .col-lg-6
-        figcaption Fuente: SENA, (2025)
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 10.
@@ -225,37 +218,31 @@
             td 9
             td Determinar el nuevo largo del cuerpo desde la cintura hacia abajo.
             td Altura de cadera + 10 cm.
-            td Medir con regla larga en línea recta desde la cintura hasta el nuevo punto final.
+            td Medir con regla larga en línea recta desde la cintura hasta el nuevo punto final.    
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.mb-lg-2.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 17.
-                span Trazo de la camisilla delantero
-              .row.justify-content-center.mb-3
-                .col-lg-7.col-md-7.col-10
-                  figure.mb-3.mb-lg-0
-                    img(src='@/assets/curso/temas/t3/fig17.svg', alt='Molde técnico delantero de prenda superior sin mangas. Incluye escote curvo profundo, hombro modificado con una nueva línea inclinada, sisa con ajuste en curva y pinza lateral descendente. El largo supera la altura de cadera. Se señalan distancias y ajustes con medidas precisas en centímetros.')
-                  figcaption.d-block.d-lg-none Fuente: SENA, (2025)
-            .col-lg-6
-              .titulo-sexto.color-acento-contenido.mb-4
-                h5 Figura 18.
-                span Trazo de la camisilla posterior
-              .row.justify-content-center.mb-3
-                .col-lg-9.col-md-8.col-11
-                  figure.mb-3.mb-lg-0
-                    img.px-lg-3(src='@/assets/curso/temas/t3/fig18.svg', alt='Molde técnico delantero de prenda superior sin mangas, adaptado con diseño de revoque en el escote y la sisa. Contiene escote redibujado con profundización y desplazamiento lateral, hombro con nueva inclinación, y sisa curvada con ajuste en el costado. La forma del revoque sigue el contorno del escote y la sisa, con separación marcada para corte o acabado decorativo. Incluye medidas específicas en centímetros y prolongación hasta debajo de la cadera.')
-                  figcaption.d-block.d-lg-none Fuente: SENA, (2025)
+    .row.justify-content-center.mb-5
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 17.
+          span Trazo de la camisilla delantero
+        .bg-7.p-3.mb-2  
+          .row.justify-content-center.mb-3
+            .col-lg-7.col-md-7.col-10
+              figure.mb-3.mb-lg-0
+                img(src='@/assets/curso/temas/t3/fig17.svg', alt='Molde técnico delantero de prenda superior sin mangas. Incluye escote curvo profundo, hombro modificado con una nueva línea inclinada, sisa con ajuste en curva y pinza lateral descendente. El largo supera la altura de cadera. Se señalan distancias y ajustes con medidas precisas en centímetros.')
+        figcaption Fuente: SENA, (2025)
+      .col-lg-6
+        .titulo-sexto.color-acento-contenido.mb-3
+          h5 Figura 18.
+          span Trazo de la camisilla posterior
+        .bg-7.p-3.mb-2  
+          .row.justify-content-center.mb-3
+            .col-lg-9.col-md-8.col-11
+              figure.mb-3.mb-lg-0
+                img.px-lg-4(src='@/assets/curso/temas/t3/fig18.svg', alt='Molde técnico delantero de prenda superior sin mangas, adaptado con diseño de revoque en el escote y la sisa. Contiene escote redibujado con profundización y desplazamiento lateral, hombro con nueva inclinación, y sisa curvada con ajuste en el costado. La forma del revoque sigue el contorno del escote y la sisa, con separación marcada para corte o acabado decorativo. Incluye medidas específicas en centímetros y prolongación hasta debajo de la cadera.')
+        figcaption Fuente: SENA, (2025)
     
-    .row.justify-content-center.d-none.d-lg-flex.mb-5
-      .col-lg-6
-        figcaption Fuente: SENA, (2025)
-      .col-lg-6
-        figcaption Fuente: SENA, (2025)
+
 
     .subt2.mb-4(data-aos="fade")
       h3.mb-0 Pasos del trazo de la camisilla delantero y posterior 
@@ -1475,7 +1462,7 @@
           p.mb-0.p-4 El trazo requiere precisión técnica en cada pieza: delantero, espalda, mangas, cuello, vistas, forro y elementos complementarios, cuidando la simetría, funcionalidad y ensamblaje correcto.
 
     
-    h3(data-aos='fade-right') 3.6.1 Chaqueta sastre
+    h3(data-aos='fade-right') Chaqueta sastre
 
     .bloque-texto-g.color-acento-contenido.bg-5.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -1992,7 +1979,7 @@
     p.mb-5 Antes de añadir márgenes de costura, confeccione un prototipo, preferiblemente en liencillo, para verificar que la copa se embeba limpiamente en la sisa del cuerpo y que el brazo pueda flexionar 90° sin tiranteces.    
 
     
-    h3(data-aos='fade-right') 3.6.2  Chaqueta #[em bomber]
+    h3(data-aos='fade-right') Chaqueta #[em bomber]
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -2030,7 +2017,7 @@
                 i.fas.fa-circle-play
 
     
-    h3(data-aos='fade-right') 3.6.3  Chaqueta en #[em denim] tipo Levi's
+    h3(data-aos='fade-right') Chaqueta en #[em denim] tipo Levi's
 
     .bg-deg1.p-3.mb-4(data-aos="fade-down")
       .row.justify-content-around.align-items-center
