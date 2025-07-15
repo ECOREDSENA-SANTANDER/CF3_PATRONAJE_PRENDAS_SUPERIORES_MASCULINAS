@@ -296,21 +296,23 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.mb-4(data-aos='fade-right')
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 2.
-          span Partes de una camisa delantero
-        figure.mb-2
-          img(src='@/assets/curso/temas/t2/fig2.svg', alt='Camisa de manga larga representada con etiquetas que señalan partes fundamentales de su estructura. En la parte superior se encuentra el cuello y su punto de unión central. A los costados, en la unión entre manga y cuerpo, se ubican las sisas. En el frente, del lado izquierdo, hay un bolsillo de parche. La botonadura central corresponde al cruce de botones o tapeta, donde también se encuentran los ojales y botones. En el extremo de la manga se encuentra el puño, mientras que la zona principal del cuerpo se denomina delantero')
-        figcaption Fuente: 
-          a(href="https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
+        .bg-7.p-4.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 2.
+            span Partes de una camisa delantero
+          figure.mb-2
+            img(src='@/assets/curso/temas/t2/fig2.svg', alt='Camisa de manga larga representada con etiquetas que señalan partes fundamentales de su estructura. En la parte superior se encuentra el cuello y su punto de unión central. A los costados, en la unión entre manga y cuerpo, se ubican las sisas. En el frente, del lado izquierdo, hay un bolsillo de parche. La botonadura central corresponde al cruce de botones o tapeta, donde también se encuentran los ojales y botones. En el extremo de la manga se encuentra el puño, mientras que la zona principal del cuerpo se denomina delantero')
+          figcaption Fuente: 
+            a(href="https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
       .col-lg-6.mb-4(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 3.
-          span Partes de una camisa posterior
-        figure.mb-2
-          img(src='@/assets/curso/temas/t2/fig3.svg', alt='Vista trasera de una camisa con indicaciones anatómicas del diseño. En la parte superior se encuentra el canesú o bata, acompañado por un bucle central y un pliegue de espalda que facilita el movimiento. Las mangas cuentan con aletilla y la zona inferior con pinzas para ajuste y un faldón de camisa que prolonga el largo posterior. La parte central del cuerpo se identifica como trasero.')
-        figcaption Fuente: 
-          a(href="https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
+        .bg-7.p-4.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 3.
+            span Partes de una camisa posterior
+          figure.mb-2
+            img.px-lg-5(src='@/assets/curso/temas/t2/fig3.svg', alt='Vista trasera de una camisa con indicaciones anatómicas del diseño. En la parte superior se encuentra el canesú o bata, acompañado por un bucle central y un pliegue de espalda que facilita el movimiento. Las mangas cuentan con aletilla y la zona inferior con pinzas para ajuste y un faldón de camisa que prolonga el largo posterior. La parte central del cuerpo se identifica como trasero.')
+          figcaption Fuente: 
+            a(href="https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
 
     .row.bgc-slider.align-items-center.p-3.p-md-4.p-lg-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -390,7 +392,6 @@
     .bg-1.px-lg-5.p-4.mb-4
       p.mb-0 Comprender cómo se segmenta una camisa masculina en cortes, cómo se articulan sus detalles funcionales y cómo se añaden recursos ornamentales es imprescindible para traducir cualquier propuesta de diseño en un patrón técnicamente viable. El siguiente desarrollo combina redacción explicativa, tablas comparativas y una ruta operativa paso a paso.
 
-
     .mb-4(data-aos="fade")
       .titulo-sexto.color-acento-contenido.mb-4
         h5 Figura 7.
@@ -400,44 +401,42 @@
           figure
             img(src='@/assets/curso/temas/t2/fig7.svg', alt='Seis tipos de tapetas o acabados en la parte frontal de camisas, clasificados según su construcción. La front placket presenta una banda visible donde se cosen los botones, estructurada por doblez de tela. La french placket omite la banda externa, dejando los botones sobre una doblez interna, lo que genera una apariencia más limpia. La popover placket combina tapeta y cuello en una sola pieza continua con una abertura parcial que no recorre toda la camisa. La covered placket incluye una capa adicional de tela que cubre los botones. La pleated tuxedo incorpora pliegues verticales decorativos a ambos lados de la tapeta, típicos en camisas de etiqueta. La tuxedo front mantiene una superficie lisa y estructurada, con botones visibles y sin pliegues.')
       figcaption Fuente: 
-        a(href="https://www.nimble-made.com/blogs/news/dress-shirt-placket" target="_blank") https://www.nimble-made.com/blogs/news/dress-shirt-placket 
-
-    
+        a(href="https://www.nimble-made.com/blogs/news/dress-shirt-placket" target="_blank") https://www.nimble-made.com/blogs/news/dress-shirt-placket     
     
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-6.mb-3
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 8.
-          span Trazo botonera clásica
+      .col-lg-6.mb-3          
         .bg-7.p-3.mb-3
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 8.
+            span Trazo botonera clásica
           .row.justify-content-center
             .col-lg-5.col-md-7.col-10
               figure
                 img(src='@/assets/curso/temas/t2/fig8.svg', alt='Presenta el diseño técnico del delantero de una camisa con el trazo de la botonera clásica integrada. Incluye la prolongación de 3 cm hacia el borde para formar la botonera, con una línea punteada que indica el doblez central y una línea recta adicional a 1,5 cm que representa la ubicación de los ojales o botones.')
-      .col-lg-6.mb-3
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 9.
-          span Trazo botonera sencilla
+      .col-lg-6.mb-3        
         .bg-7.p-3.mb-3
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 9.
+            span Trazo botonera sencilla
           .row.justify-content-center
             .col-lg-5.col-md-7.col-10
               figure
                 img(src='@/assets/curso/temas/t2/fig9.svg', alt='Representa el trazo del delantero de una camisa con botonera sencilla. El diseño incluye una prolongación de 3 cm hacia el borde para formar la botonera, junto con una marca interna a 1 cm del borde que indica el doblez interior para el acabado del cruce. ')
-      .col-lg-6.mb-3
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 10.
-          span Trazo botonera oculta
+      .col-lg-6.mb-3        
         .bg-7.p-3.mb-3
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 10.
+            span Trazo botonera oculta
           .row.justify-content-center
             .col-lg-6.col-md-8.col-11
               figure
                 img(src='@/assets/curso/temas/t2/fig10.svg', alt='Representa el trazo del delantero de una camisa con botonera oculta. Se indican tres líneas paralelas: una prolongación externa de 4 cm, una pieza central de 6 cm y una solapa interna de 1,5 cm que permite cubrir los botones mediante dobleces sucesivos.')
-      .col-lg-6.mb-3
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 11.
-          span Trazo botonera separada 
+      .col-lg-6.mb-3        
         .bg-7.p-3.mb-3
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 11.
+            span Trazo botonera separada 
           .row.justify-content-center
             .col-lg-7.col-md-8.col-11
               figure
@@ -759,39 +758,17 @@
           .h-100.d-flex.align-items-center.p-4.p-lg-5
             p.mb-0 Es la plantilla técnica que define la forma, medidas y márgenes necesarios para confeccionar un bolsillo en producción en serie; incluye la pieza del cuerpo del bolsillo, márgenes de costura, guías de ubicación y, si aplica, la tapeta. Se diseña considerando el tipo de tejido, la funcionalidad del bolsillo y los requerimientos del proceso industrial, garantizando precisión, facilidad de ensamblaje y acabados uniformes.
 
- 
-
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 12.
-          span Trazo del patrón del bolsillo industrial
         .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 12.
+            span Trazo del patrón del bolsillo industrial        
           .row.justify-content-center
             .col-lg-9.col-md-7.col-10
               figure
                 img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
-      .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 13.
-          span Trazo de bolsillo con tapa separada
-        .bg-7.p-3.mb-2
-          .row.justify-content-center
-            .col-lg-6.col-md-7.col-10
-              figure
-                img.px-lg-2(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')
-    
-    .row.justify-content-center(data-aos="fade-down")
-      .col-lg-6.mb-5
-        .d-block.d-lg-none  
-          .titulo-sexto.color-acento-contenido.mb-4
-            h5 Figura 12.
-            span Trazo del patrón del bolsillo industrial
-          .row.justify-content-center.mb-3
-            .col-lg-8.col-md-7.col-10
-              figure
-                img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
-        figcaption Fuente: SENA, (2025)   
+          figcaption Fuente: SENA, (2025)
         TabsA.color-acento-botones.mt-4.mb-4.mb-lg-3
           .tarjeta.bg-7.p-4(titulo="Paso 1")
             h4 Paso 1
@@ -822,16 +799,16 @@
               li.mb-0
                 i.fas.fa-circle-chevron-right
                 span.mb-0 La simetría entre los lados debe verificarse usando una escuadra central o doblando el patrón a la mitad.
-      .col-lg-6.mb-5 
-        .d-block.d-lg-none
+      .col-lg-6
+        .bg-7.p-3.mb-2
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 13.
-            span Trazo del patrón del bolsillo industrial
-          .row.justify-content-center.mb-3
-            .col-lg-5.col-md-7.col-10
+            span Trazo de bolsillo con tapa separada        
+          .row.justify-content-center
+            .col-lg-6.col-md-7.col-10
               figure
-                img(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')    
-        figcaption Fuente: SENA, (2025)  
+                img.px-lg-2(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')
+          figcaption Fuente: SENA, (2025)                      
         TabsA.color-acento-botones.mt-4.mb-4.mb-lg-5.pb-lg-4
           .tarjeta.bg-7.p-4(titulo="Paso 1")
             h4 Paso 1
@@ -860,7 +837,7 @@
                 i.fas.fa-circle-chevron-right
                 span.mb-0 Es recomendable verificar que la mitad de la base (6,5 cm) coincida con el vértice inferior para asegurar simetría.
 
-    .tarjeta.bg-9.p-4.mb-4(data-aos="fade-down")
+    .tarjeta.bg-9.p-4.mb-5(data-aos="fade-down")
       .row.justify-content-center.align-items-center
         .col-lg-1.col-md-2.col-3.mb-3.mb-md-0
           img(src='@/assets/curso/temas/t2/2.svg', alt='')
@@ -869,15 +846,15 @@
 
     .row.justify-content-center.align-items-center(data-aos="fade")
       .col-12
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 14.
-          span Trazo de bolsillo con tapa incluida
-        .bg-7.p-3.mb-3
-          .row.justify-content-center
+        .bg-7.p-4.mb-3
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 14.
+            span Trazo de bolsillo con tapa incluida        
+          .row.justify-content-center.mb-3
             .col-lg-5
               figure
                 img(src='@/assets/curso/temas/t2/fig14.svg', alt='Molde técnico completo de bolsillo con tapa independiente. El bolsillo tiene un ancho de 13 cm y un largo total de 14 cm, con una vista superior doblada de 3 cm y un vértice inferior formado por dobleces laterales de 1.5 cm. La tapa mide 13 cm de ancho por 7 cm de alto, con una terminación en punta generada por dobleces laterales de 2.5 cm.')
-        figcaption Fuente: SENA, (2025)
+          figcaption Fuente: SENA, (2025)
 
 
 </template>

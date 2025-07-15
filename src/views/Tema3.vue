@@ -22,8 +22,9 @@
 
     .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-5.col-md-6.mb-4.mb-md-0
-        .bg-10.tarjeta.h-100.d-flex.align-items-center.p-3.p-lg-4
-          p.mb-0 Las proporciones son medidas, se obtienen de una figura, prototipo físico, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permiten obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño. Si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida, las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
+        p Las proporciones son medidas, se obtienen de una figura, prototipo físico, ficha técnica, dibujo plano o diseño, que al hacer un paralelo con los básicos o moldes bases de la línea, silueta o talla que se esté trabajando, permiten obtener medidas o dimensiones de referencia para el desarrollo o trazo del molde correspondiente al diseño. 
+        .bg-10.tarjeta.p-3.p-lg-4
+          p.mb-0 Si bien en ocasiones anteriores se han desarrollado ejercicios sobre análisis de proporciones, es importante resaltar que las medidas y el análisis de proporciones varía de acuerdo al tamaño, diseño, impresión, dibujo, básico y sistema de medida, las referencias implementadas son solo ejemplos detallados de cómo y de qué manera se debe implementar el desarrollo.
       .col-lg-3.d-none.d-lg-block
         .bg-8.deco.px-lg-5
           img.px-lg-2(src='@/assets/curso/temas/t3/2.svg', alt='')
@@ -39,7 +40,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h4.mb-1 Trazo prendas superiores - camisa
+              h4.mb-1 Trazo de prendas superiores - camisa
               p.mb-0 Allí encontrará la interpretación de estilos de camisas partiendo de bases superiores masculinas.
             .col-sm-auto
               a.boton.color-acento-botones.texto-blanco(:href="('https://youtu.be/JuuGDR01fhU')" target="_blank")
@@ -50,25 +51,25 @@
   
     .row.justify-content-center.mb-4
       .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 15.
-          span Trazo camiseta masculina básica delantero
-        .bg-7.p-3.mb-2  
-          .row.justify-content-center        
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 15.
+            span Trazo camiseta masculina básica delantero          
+          .row.justify-content-center.mb-3        
             .col-lg-8.col-md-8.col-12
               figure.mb-3.mb-lg-0
                 img(src='@/assets/curso/temas/t3/fig15.svg', alt='Molde técnico para prenda superior sin mangas, ajustada a partir de un patrón base. Se especifican ajustes en escote y sisa: se bajan 2 cm en escote delantero, 2.5 cm en hombro y se proyecta una curva que se entra 0.5 cm en la sisa. Las distancias de referencia en hombro y sisa son de 14 cm, y se indican los puntos de entrada en curva para un mejor calce. El largo de la prenda corresponde a la altura de cadera más 8 cm, con una línea base recta en el inferior. El trazo incluye líneas punteadas para mostrar modificaciones sobre el patrón original.')
-        figcaption Fuente: SENA, (2025)
+          figcaption Fuente: SENA, (2025)
       .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 16.
-          span Trazo camiseta masculina básica posterior
-        .bg-7.p-3.mb-2  
-          .row.justify-content-center
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 16.
+            span Trazo camiseta masculina básica posterior          
+          .row.justify-content-center.mb-3
             .col-lg-8.col-md-8.col-12
               figure.mb-3.mb-lg-0
                 img.px-lg-2(src='@/assets/curso/temas/t3/fig16.svg', alt='Molde técnico posterior de prenda superior sin mangas. Contiene escote curvo en la parte superior, hombro inclinado, sisa ajustada con entrada en curva y pinza lateral ubicada bajo la sisa. El largo se extiende por debajo de la cadera. Incluye anotaciones numéricas que marcan medidas y ajustes.')
-        figcaption Fuente: SENA, (2025)
+          figcaption Fuente: SENA, (2025)
     
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
@@ -222,25 +223,25 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 17.
-          span Trazo de la camisilla delantero
-        .bg-7.p-3.mb-2  
+        .bg-7.p-3.mb-2 
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 17.
+            span Trazo de la camisilla delantero           
           .row.justify-content-center.mb-3
             .col-lg-7.col-md-7.col-10
               figure.mb-3.mb-lg-0
                 img(src='@/assets/curso/temas/t3/fig17.svg', alt='Molde técnico delantero de prenda superior sin mangas. Incluye escote curvo profundo, hombro modificado con una nueva línea inclinada, sisa con ajuste en curva y pinza lateral descendente. El largo supera la altura de cadera. Se señalan distancias y ajustes con medidas precisas en centímetros.')
-        figcaption Fuente: SENA, (2025)
+          figcaption Fuente: SENA, (2025)
       .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 18.
-          span Trazo de la camisilla posterior
-        .bg-7.p-3.mb-2  
+        .bg-7.p-3.mb-2.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 18.
+            span Trazo de la camisilla posterior          
           .row.justify-content-center.mb-3
             .col-lg-9.col-md-8.col-11
               figure.mb-3.mb-lg-0
                 img.px-lg-4(src='@/assets/curso/temas/t3/fig18.svg', alt='Molde técnico delantero de prenda superior sin mangas, adaptado con diseño de revoque en el escote y la sisa. Contiene escote redibujado con profundización y desplazamiento lateral, hombro con nueva inclinación, y sisa curvada con ajuste en el costado. La forma del revoque sigue el contorno del escote y la sisa, con separación marcada para corte o acabado decorativo. Incluye medidas específicas en centímetros y prolongación hasta debajo de la cadera.')
-        figcaption Fuente: SENA, (2025)
+          figcaption Fuente: SENA, (2025)
     
 
 
@@ -387,17 +388,19 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-10.mb-4.mb-lg-0(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 19.
-          span Trazo de la camiseta polo delantero
-        figure
-          img(src='@/assets/curso/temas/t3/fig19.svg', alt='Molde técnico de prenda superior masculina con botonera central. La línea punteada representa la base de corpiño, sobre la cual se realizan transformaciones. Incluye escote redondo, hombros con inclinación y sisa ligeramente curva. En el centro se detalla la abertura de la botonera con medidas verticales y horizontales precisas. Los costados presentan entradas con leve entalle hacia la cintura. El largo total supera la altura de cadera y se indican márgenes de confección en hombros, sisas y laterales.')
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 19.
+            span Trazo de la camiseta polo delantero
+          figure
+            img(src='@/assets/curso/temas/t3/fig19.svg', alt='Molde técnico de prenda superior masculina con botonera central. La línea punteada representa la base de corpiño, sobre la cual se realizan transformaciones. Incluye escote redondo, hombros con inclinación y sisa ligeramente curva. En el centro se detalla la abertura de la botonera con medidas verticales y horizontales precisas. Los costados presentan entradas con leve entalle hacia la cintura. El largo total supera la altura de cadera y se indican márgenes de confección en hombros, sisas y laterales.')
       .col-lg-6.col-md-10.mb-4.mb-lg-0(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 20.
-          span Trazo de la camiseta polo con botonera
-        figure
-          img(src='@/assets/curso/temas/t3/fig20.svg', alt='Molde técnico delantero de prenda superior masculina, construido a partir de una base de corpiño representada con línea punteada. Incluye escote redondo, hombros inclinados y sisas suavemente curvadas. En el centro se ubica una abertura vertical que indica la mitad del ancho de la botonera, con medidas registradas en centímetros. Los costados presentan entalle y el largo se extiende más allá de la cadera. Se marcan márgenes y referencias de ajuste en hombros, sisas y laterales.')
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 20.
+            span Trazo de la camiseta polo con botonera
+          figure
+            img(src='@/assets/curso/temas/t3/fig20.svg', alt='Molde técnico delantero de prenda superior masculina, construido a partir de una base de corpiño representada con línea punteada. Incluye escote redondo, hombros inclinados y sisas suavemente curvadas. En el centro se ubica una abertura vertical que indica la mitad del ancho de la botonera, con medidas registradas en centímetros. Los costados presentan entalle y el largo se extiende más allá de la cadera. Se marcan márgenes y referencias de ajuste en hombros, sisas y laterales.')
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 14.
@@ -554,17 +557,19 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 23.
-          span Trazo de la camisa hindú delantero
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig23.svg', alt='Molde técnico delantero de prenda superior masculina. Incluye escote redondeado, hombros inclinados, sisas curvas con ajuste lateral y pinzas que parten desde el busto hacia el centro. Se añaden líneas de transformación para bolsillo de parche central, con medidas específicas. La parte inferior está prolongada con una extensión rectangular que incorpora aberturas laterales señaladas y doblez de 3 cm. Se indican múltiples valores numéricos para cortes y ajustes estructurales.')
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 23.
+            span Trazo de la camisa hindú delantero
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig23.svg', alt='Molde técnico delantero de prenda superior masculina. Incluye escote redondeado, hombros inclinados, sisas curvas con ajuste lateral y pinzas que parten desde el busto hacia el centro. Se añaden líneas de transformación para bolsillo de parche central, con medidas específicas. La parte inferior está prolongada con una extensión rectangular que incorpora aberturas laterales señaladas y doblez de 3 cm. Se indican múltiples valores numéricos para cortes y ajustes estructurales.')
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 24.
-          span Trazo del posterior de camisa hindú
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig24.svg', alt='Molde técnico lateral de prenda superior masculina, representado con silueta extendida hasta la altura de cadera más ocho centímetros. Incluye escote redondeado, hombro inclinado y costado con entalle. Se destaca una pinza lateral, una vista con trazo angular de 12 cm y un bolsillo con forma rectangular centrado en la parte superior del molde. En la parte inferior se indica una abertura lateral de 3 cm por 10 cm y ajustes en curva en el área de la sisa.')
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 24.
+            span Trazo del posterior de camisa hindú
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig24.svg', alt='Molde técnico lateral de prenda superior masculina, representado con silueta extendida hasta la altura de cadera más ocho centímetros. Incluye escote redondeado, hombro inclinado y costado con entalle. Se destaca una pinza lateral, una vista con trazo angular de 12 cm y un bolsillo con forma rectangular centrado en la parte superior del molde. En la parte inferior se indica una abertura lateral de 3 cm por 10 cm y ajustes en curva en el área de la sisa.')
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-8(data-aos='fade-right')
@@ -658,18 +663,15 @@
       .col-lg-4.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t3/10.png', alt='')
 
-    .row.bgcc-1.align-items-center.p-2.p-md-4.mb-5(data-aos="fade-down")
-        .col-lg-12.col-12.px-lg-4
-          .row.justify-content-center.align-items-center
-
-            .row.justify-content-center.align-items-center
-              .col-12
-                .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 25.
-                  span Trazo del cuello de la camisa hindú
-              .col-lg-10.mb-4
-                figure
-                  img(src='@/assets/curso/temas/t3/fig25.svg', alt='Pieza de molde correspondiente al cuello de una prenda superior masculina. La figura se extiende horizontalmente desde el escote de espalda hasta el escote delantero, presentando un contorno ligeramente curvo en la parte inferior y una inclinación ascendente hacia el extremo delantero. Incluye indicación de márgenes de costura de 1.5 cm en sus bordes y tres marcas circulares agrupadas que sirven como guía para la ubicación o ensamblaje.')
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 25.
+            span Trazo del cuello de la camisa hindú
+        .col-lg-10.mb-4
+          figure
+            img(src='@/assets/curso/temas/t3/fig25.svg', alt='Pieza de molde correspondiente al cuello de una prenda superior masculina. La figura se extiende horizontalmente desde el escote de espalda hasta el escote delantero, presentando un contorno ligeramente curvo en la parte inferior y una inclinación ascendente hacia el extremo delantero. Incluye indicación de márgenes de costura de 1.5 cm en sus bordes y tres marcas circulares agrupadas que sirven como guía para la ubicación o ensamblaje.')
 
     .row.justify-content-center.align-items-end
       .col-lg-8(data-aos='fade-right')
@@ -721,18 +723,15 @@
         .col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/12.png', alt='')
 
-    .row.bgcc-1.align-items-center.p-2.p-md-4.mb-5(data-aos="fade-down")
-        .col-lg-12.col-12.px-lg-4
-          .row.justify-content-center.align-items-center
-
-            .row.justify-content-center.align-items-center
-              .col-12
-                .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 26.
-                  span Trazo de sudadera deportiva delantero
-              .col-lg-9.mb-4
-                figure
-                  img(src='@/assets/curso/temas/t3/fig26.svg', alt='Molde técnico correspondiente a una prenda superior con manga tipo ranglán integrada al cuerpo. Se representa una vista lateral donde se combinan líneas rectas y curvas para definir cuello, hombro y sisa. Las líneas punteadas indican la base del cuerpo y el desarrollo de la manga. Incluye marcas de referencia como profundidad de escote, prolongaciones para holgura y medidas adicionales en puntos clave, como el ensanchamiento de la manga y los ajustes en la sisa. También se especifica el cálculo para el ancho del puño, sumando medio contorno más un centímetro de desahogo.')
+    .bg-7.p-3.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 26.
+            span Trazo de sudadera deportiva delantero
+        .col-lg-9.mb-4
+          figure
+            img(src='@/assets/curso/temas/t3/fig26.svg', alt='Molde técnico correspondiente a una prenda superior con manga tipo ranglán integrada al cuerpo. Se representa una vista lateral donde se combinan líneas rectas y curvas para definir cuello, hombro y sisa. Las líneas punteadas indican la base del cuerpo y el desarrollo de la manga. Incluye marcas de referencia como profundidad de escote, prolongaciones para holgura y medidas adicionales en puntos clave, como el ensanchamiento de la manga y los ajustes en la sisa. También se especifica el cálculo para el ancho del puño, sumando medio contorno más un centímetro de desahogo.')
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-8(data-aos='fade-right')
@@ -774,18 +773,15 @@
       .col-lg-4.d-none.d-lg-block(data-aos='fade-left')
         img(src='@/assets/curso/temas/t3/13.png', alt='')
 
-    .row.bgcc-1.align-items-center.p-2.p-md-4.mb-5(data-aos="fade-down")
-        .col-lg-12.col-12.px-lg-4
-          .row.justify-content-center.align-items-center
-
-            .row.justify-content-center.align-items-center
-              .col-12
-                .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 27.
-                  span Trazo de la parte posterior de sudadera
-              .col-lg-8.mb-4
-                figure
-                  img(src='@/assets/curso/temas/t3/fig27.svg', alt='Composición que presenta dos moldes técnicos complementarios. A la izquierda, un molde de cuerpo superior con manga tipo ranglán incorporada, donde se aprecian líneas principales, líneas base punteadas y medidas que indican ensanches y profundidades en cuello, hombro y sisa. A la derecha, un rectángulo que representa el molde de una capucha construida a partir de proporciones relativas a la estatura, con líneas de escote delantero y posterior, margen inferior y marcas de doblez. La anotación inferior indica la necesidad de corregir la medida sobre la curva de escote para lograr un buen encaje en confección.')
+    .bg-7.p-3.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 27.
+            span Trazo de la parte posterior de sudadera
+        .col-lg-8.mb-4
+          figure
+            img(src='@/assets/curso/temas/t3/fig27.svg', alt='Composición que presenta dos moldes técnicos complementarios. A la izquierda, un molde de cuerpo superior con manga tipo ranglán incorporada, donde se aprecian líneas principales, líneas base punteadas y medidas que indican ensanches y profundidades en cuello, hombro y sisa. A la derecha, un rectángulo que representa el molde de una capucha construida a partir de proporciones relativas a la estatura, con líneas de escote delantero y posterior, margen inferior y marcas de doblez. La anotación inferior indica la necesidad de corregir la medida sobre la curva de escote para lograr un buen encaje en confección.')
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-8(data-aos='fade-right')
@@ -883,19 +879,21 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 28.
-          span Trazo de patronaje de camisa 
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig28.svg', alt='Molde técnico para prenda superior dividido en delantero y trasero, con líneas guías y referencias anatómicas. En la parte delantera se trazan el centro, la línea de botonadura, el escote, la sisa, el hombro, el bolsillo y las líneas de cintura y cadera. En la parte trasera se indican el centro, el escote trasero, el hombro, la línea de canesú y la prolongación hacia el fondo de la prenda. Ambas mitades presentan ejes horizontales que organizan la estructura: línea de espalda, línea axilar, línea cintura, línea cadera y fondo. También se incluye el desarrollo de cuello, tapeta y pinza de entalle, configurando un molde base completo.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 28.
+            span Trazo de patronaje de camisa 
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig28.svg', alt='Molde técnico para prenda superior dividido en delantero y trasero, con líneas guías y referencias anatómicas. En la parte delantera se trazan el centro, la línea de botonadura, el escote, la sisa, el hombro, el bolsillo y las líneas de cintura y cadera. En la parte trasera se indican el centro, el escote trasero, el hombro, la línea de canesú y la prolongación hacia el fondo de la prenda. Ambas mitades presentan ejes horizontales que organizan la estructura: línea de espalda, línea axilar, línea cintura, línea cadera y fondo. También se incluye el desarrollo de cuello, tapeta y pinza de entalle, configurando un molde base completo.')
+          figcaption Fuente: Donnanno, (2016)
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 29.
-          span Diseño de la camisa manga corta
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig29.svg', alt='Figura masculina de pie que lleva una camisa de estilo casual con cuello clásico, tapeta de botones, manga corta con doblez y bolsillo con tapeta en el lado izquierdo del pecho. El diseño incorpora un canesú recto en la parte superior delantera y trasera, generando un contraste visual. La prenda está metida dentro del pantalón y sujeta con cinturón. La postura y el trazo resaltan detalles estructurales de la prenda desde vista frontal y posterior.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 29.
+            span Diseño de la camisa manga corta
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig29.svg', alt='Figura masculina de pie que lleva una camisa de estilo casual con cuello clásico, tapeta de botones, manga corta con doblez y bolsillo con tapeta en el lado izquierdo del pecho. El diseño incorpora un canesú recto en la parte superior delantera y trasera, generando un contraste visual. La prenda está metida dentro del pantalón y sujeta con cinturón. La postura y el trazo resaltan detalles estructurales de la prenda desde vista frontal y posterior.')
+          figcaption Fuente: Donnanno, (2016)
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 21.
@@ -1046,19 +1044,21 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 30.
-          span Trazo de manga corta
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig30.svg', alt='Molde técnico de manga dividida en dos zonas principales: delantera y trasera. En la parte superior se encuentra la copa, cuyo borde curvo se diferencia en copa delantera y copa trasera. La línea vertical central indica el centro del hombro, que desciende hasta el puño. Se marca también la línea del bíceps, que divide horizontalmente la manga en su parte superior. En la zona inferior se señala un margen para el dobladillo y la indicación de pliegue. La estructura permite identificar proporciones, ejes y puntos de montaje con el cuerpo de la prenda.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2 
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 30.
+            span Trazo de manga corta
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig30.svg', alt='Molde técnico de manga dividida en dos zonas principales: delantera y trasera. En la parte superior se encuentra la copa, cuyo borde curvo se diferencia en copa delantera y copa trasera. La línea vertical central indica el centro del hombro, que desciende hasta el puño. Se marca también la línea del bíceps, que divide horizontalmente la manga en su parte superior. En la zona inferior se señala un margen para el dobladillo y la indicación de pliegue. La estructura permite identificar proporciones, ejes y puntos de montaje con el cuerpo de la prenda.')
+          figcaption Fuente: Donnanno, (2016)
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-2
-          h5 Figura 31.
-          span Trazo de cuello deportivo
-        figure.mb-2
-          img(src='@/assets/curso/temas/t3/fig31.svg', alt='Molde técnico de cuello para prenda superior con indicaciones de montaje. La línea central vertical señala el eje de simetría donde se debe unir la pieza al cortar en tela doble. A cada lado se indican los puntos de hombro, que corresponden a las uniones con el escote delantero y trasero. La curva inferior representa el contorno del escote, mientras que la línea superior, en trazo discontinuo, marca el doblez que formará el cuello completo una vez ensamblado.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2 
+          .titulo-sexto.color-acento-contenido.mb-2
+            h5 Figura 31.
+            span Trazo de cuello deportivo
+          figure.mb-2
+            img(src='@/assets/curso/temas/t3/fig31.svg', alt='Molde técnico de cuello para prenda superior con indicaciones de montaje. La línea central vertical señala el eje de simetría donde se debe unir la pieza al cortar en tela doble. A cada lado se indican los puntos de hombro, que corresponden a las uniones con el escote delantero y trasero. La curva inferior representa el contorno del escote, mientras que la línea superior, en trazo discontinuo, marca el doblez que formará el cuello completo una vez ensamblado.')
+          figcaption Fuente: Donnanno, (2016)
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 22.
@@ -1286,19 +1286,21 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6.mb-4(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 32.
-          span Trazo del patronaje de camisa con canesú
-        figure.mb-3
-          img(src='@/assets/curso/temas/t3/fig32.svg', alt='Molde base de cuerpo superior dividido en delantero y trasero con ejes y proporciones detalladas. Se incluyen líneas estructurales como escote, hombro, sisa, línea de canesú, espalda, axilar, cintura, cadera y fondo. Cada sección está marcada con letras y puntos de referencia que permiten trazar curvas, cortes y pinzas de forma precisa. El molde presenta indicaciones para pliegue de tela, centro delantero y centro trasero, junto con el desarrollo de pinza vertical en el centro del cuerpo que permite entallar la prenda.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 32.
+            span Trazo del patronaje de camisa con canesú
+          figure.mb-3
+            img(src='@/assets/curso/temas/t3/fig32.svg', alt='Molde base de cuerpo superior dividido en delantero y trasero con ejes y proporciones detalladas. Se incluyen líneas estructurales como escote, hombro, sisa, línea de canesú, espalda, axilar, cintura, cadera y fondo. Cada sección está marcada con letras y puntos de referencia que permiten trazar curvas, cortes y pinzas de forma precisa. El molde presenta indicaciones para pliegue de tela, centro delantero y centro trasero, junto con el desarrollo de pinza vertical en el centro del cuerpo que permite entallar la prenda.')
+          figcaption Fuente: Donnanno, (2016)
       .col-lg-6.mb-4(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 33.
-          span Camisa con canesú
-        figure.mb-3
-          img(src='@/assets/curso/temas/t3/fig33.svg', alt='Figura masculina de pie con prenda superior tipo camisa de estilo western. El diseño incluye cuello clásico, botonadura central y canesú en delantero y espalda con corte angular. Las mangas son largas, ajustadas con puños y abotonadas, como se detalla en el recuadro inferior que presenta la vista extendida de la manga y el canesú trasero. La camisa está metida dentro del pantalón, el cual se sujeta con cinturón. La postura resalta detalles estructurales y de confección.')
-        figcaption Fuente: Donnanno, (2016)
+        .bg-7.p-3.mb-2
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 33.
+            span Camisa con canesú
+          figure.mb-3
+            img(src='@/assets/curso/temas/t3/fig33.svg', alt='Figura masculina de pie con prenda superior tipo camisa de estilo western. El diseño incluye cuello clásico, botonadura central y canesú en delantero y espalda con corte angular. Las mangas son largas, ajustadas con puños y abotonadas, como se detalla en el recuadro inferior que presenta la vista extendida de la manga y el canesú trasero. La camisa está metida dentro del pantalón, el cual se sujeta con cinturón. La postura resalta detalles estructurales y de confección.')
+          figcaption Fuente: Donnanno, (2016)
 
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
@@ -1350,7 +1352,7 @@
                   | Altura talle → línea cintura (C).
                 li.mb-1
                   i.fas.fa-circle
-                  | Altura talle → línea cintura (C).
+                  | Altura cadera → línea cadera (X). 
             td.text-center Trazar a todo lo ancho.
           tr
             td 3
@@ -1420,25 +1422,23 @@
           ul.lista-ul--color.fa-lista.mb-0
             li
               i.fas.fa-circle-chevron-right
-              span.mb-0 Las coordenadas con letras (W₁-W₂, S₁-S₃, E₁-E₂) corresponden a los puntos indicados en la lámina original.
+              span.mb-0 Las coordenadas con letras (W₁ - W₂, S₁ - S₃, E₁ - E₂) corresponden a los puntos indicados en la lámina original.
             li
               i.fas.fa-circle-chevron-right
               span.mb-0 Ajuste de holguras: clásico = 4 – 6 cm en pecho, #[em slim] = 2 – 3 cm.
 
 
-    .row.bgcc-1.align-items-center.p-2.p-md-4(data-aos="fade-down")
-        .col-lg-12.col-12.px-lg-4
-          .row.justify-content-center.align-items-center
-
-            .row.justify-content-center.align-items-center
-              .col-12
-                .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 34.
-                  span Despiece del patronaje de camisa con canesú
-              .col-lg-6.mb-4
-                figure.mb-3
-                  img(src='@/assets/curso/temas/t3/fig34.svg', alt='Conjunto de piezas de molde base para prenda superior. Se incluyen delantero y trasero completos, cada uno con líneas guía que indican axilar, cintura, cadera y fondo. También se trazan las piezas correspondientes al canesú del delantero y del trasero, con líneas de escote y hombro. A la izquierda se presenta una vista de tapeta con marcas para doblez y centro delantero. Cada parte está señalada con el eje de orientación para el corte y líneas que organizan la construcción anatómica de la prenda.')
-                figcaption.bg-1 Fuente: Donnanno, (2016)
+    .bg-7.p-3.mb-2(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 34.
+            span Despiece del patronaje de camisa con canesú
+        .col-lg-6.mb-4
+          figure.mb-3
+            img(src='@/assets/curso/temas/t3/fig34.svg', alt='Conjunto de piezas de molde base para prenda superior. Se incluyen delantero y trasero completos, cada uno con líneas guía que indican axilar, cintura, cadera y fondo. También se trazan las piezas correspondientes al canesú del delantero y del trasero, con líneas de escote y hombro. A la izquierda se presenta una vista de tapeta con marcas para doblez y centro delantero. Cada parte está señalada con el eje de orientación para el corte y líneas que organizan la construcción anatómica de la prenda.')
+        .col-12
+          figcaption Fuente: Donnanno, (2016)
 
 
     Separador
@@ -1461,8 +1461,9 @@
         .col-lg-9
           p.mb-0.p-4 El trazo requiere precisión técnica en cada pieza: delantero, espalda, mangas, cuello, vistas, forro y elementos complementarios, cuidando la simetría, funcionalidad y ensamblaje correcto.
 
-    
-    h3(data-aos='fade-right') Chaqueta sastre
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t2/subt.svg")
+      h3.ps-3.pe-4.mb-0 Chaqueta sastre
 
     .bloque-texto-g.color-acento-contenido.bg-5.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -1470,18 +1471,16 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La chaqueta sastre es una prenda formal y estructurada que destaca por su ajuste anatómico, solapas definidas, cuello sastre y forro completo; su patronaje incluye múltiples piezas (delantero, espalda, mangas, cuello, vistas y forro) y requiere precisión en entalles, cortes y refuerzos internos. Se elabora con tejidos firmes y técnicas de confección avanzadas para garantizar elegancia, estabilidad y un calce personalizado.
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 35.
-              span Base para chaqueta sastre masculina 
-            .row.justify-content-center.mb-3
-              .col-lg-9
-                figure
-                  img(src='@/assets/curso/temas/t3/fig35.svg', alt='Molde base para prenda superior con trazo simétrico de delantero y trasero, indicado por las siglas CF (centro frente) y CA (centro atrás). El desarrollo incluye medidas expresadas en centímetros y proporciones referenciadas al contorno de pecho, marcado con la letra P. Se definen curvas para escote, sisa y hombro, trazadas a partir de divisiones y distancias precisas. El molde incluye líneas horizontales que corresponden a ejes anatómicos como pecho, cintura y cadera. Las instrucciones especifican que las medidas están en centímetros, basadas en el contorno de pecho, y que las costuras no están incluidas en el trazado.')
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 35.
+            span Base para chaqueta sastre masculina 
+        .row.justify-content-center.mb-3
+          .col-lg-9
+            figure
+              img(src='@/assets/curso/temas/t3/fig35.svg', alt='Molde base para prenda superior con trazo simétrico de delantero y trasero, indicado por las siglas CF (centro frente) y CA (centro atrás). El desarrollo incluye medidas expresadas en centímetros y proporciones referenciadas al contorno de pecho, marcado con la letra P. Se definen curvas para escote, sisa y hombro, trazadas a partir de divisiones y distancias precisas. El molde incluye líneas horizontales que corresponden a ejes anatómicos como pecho, cintura y cadera. Las instrucciones especifican que las medidas están en centímetros, basadas en el contorno de pecho, y que las costuras no están incluidas en el trazado.')
 
     .subt.mb-4(data-aos="fade")
       img(src="@/assets/curso/temas/t3/subt2.svg")
@@ -1596,18 +1595,16 @@
 
     p.mb-4 Teniendo en cuenta el básico anterior, se desarrollarán los siguientes trazos para la chaqueta sastre:
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 36.
-              span Paso 1 de la chaqueta sastre con tres botones
-            .row.justify-content-center.mb-3
-              .col-lg-10
-                figure
-                  img(src='@/assets/curso/temas/t3/fig36.svg', alt='Molde base para chaqueta masculina compuesto por delantero y trasero dispuestos simétricamente. El trazado incluye escote redondeado en el delantero y más cerrado en el trasero, hombros inclinados, sisas amplias y estructura dividida horizontalmente por líneas guía correspondientes a pecho, cintura y cadera. En el centro frontal se indica el cruce para la botonadura mediante una línea curva. La figura señala que las medidas están en centímetros y que las costuras no están incluidas en el trazo.')
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 36.
+            span Paso 1 de la chaqueta sastre con tres botones
+        .row.justify-content-center.mb-3
+          .col-lg-10
+            figure
+              img(src='@/assets/curso/temas/t3/fig36.svg', alt='Molde base para chaqueta masculina compuesto por delantero y trasero dispuestos simétricamente. El trazado incluye escote redondeado en el delantero y más cerrado en el trasero, hombros inclinados, sisas amplias y estructura dividida horizontalmente por líneas guía correspondientes a pecho, cintura y cadera. En el centro frontal se indica el cruce para la botonadura mediante una línea curva. La figura señala que las medidas están en centímetros y que las costuras no están incluidas en el trazo.')
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 26.
@@ -1683,18 +1680,16 @@
                 i.fas.fa-circle-play
 
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 37.
-              span  Paso 2 del trazo de la chaqueta
-            .row.justify-content-center.mb-3
-              .col-lg-7
-                figure
-                  img(src='@/assets/curso/temas/t3/fig37.svg', alt='Molde técnico correspondiente al paso dos en la construcción de una chaqueta masculina. El trazado incluye delantero y trasero, con desarrollo de escote, hombros, sisa, línea de pecho, cintura y cadera. Se incorporan elementos de diseño como cuello con pie, solapa, botones marcados con círculos y líneas de doblez. También se trazan bolsillos: uno de parche con tapa sobre el pecho y otro en la parte inferior. Se incluyen medidas precisas en centímetros para cada segmento, así como flechas que indican direcciones para corte o montaje. La estructura presenta líneas curvas, guías diagonales y puntos de referencia para ajustes y simetrías.')
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 37.
+            span  Paso 2 del trazo de la chaqueta
+        .row.justify-content-center.mb-3
+          .col-lg-7
+            figure
+              img(src='@/assets/curso/temas/t3/fig37.svg', alt='Molde técnico correspondiente al paso dos en la construcción de una chaqueta masculina. El trazado incluye delantero y trasero, con desarrollo de escote, hombros, sisa, línea de pecho, cintura y cadera. Se incorporan elementos de diseño como cuello con pie, solapa, botones marcados con círculos y líneas de doblez. También se trazan bolsillos: uno de parche con tapa sobre el pecho y otro en la parte inferior. Se incluyen medidas precisas en centímetros para cada segmento, así como flechas que indican direcciones para corte o montaje. La estructura presenta líneas curvas, guías diagonales y puntos de referencia para ajustes y simetrías.')
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 27.
@@ -1823,18 +1818,16 @@
                 span Ir al sitio
                 i.fas.fa-circle-play
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 38.
-              span Trazo de la manga de la chaqueta 
-            .row.justify-content-center.mb-3
-              .col-lg-9
-                figure
-                  img(src='@/assets/curso/temas/t3/fig38.svg', alt='Secuencia de trazado técnico para la construcción de una manga de chaqueta masculina. La primera figura corresponde al desarrollo inicial del largo de manga y posicionamiento de líneas horizontales para el codo y la sisa. La segunda figura incorpora el contorno superior, correspondiente a la copa de manga, con inclinación y medidas proporcionales. La tercera figura presenta la manga completa, con forma anatómica curva, líneas de doblez, separación entre delantero y trasero, y señalización de botones en el puño. Las medidas están indicadas en centímetros y distribuidas para garantizar ajuste estructural al cuerpo base previamente desarrollado.')
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 38.
+            span Trazo de la manga de la chaqueta 
+        .row.justify-content-center.mb-3
+          .col-lg-9
+            figure
+              img(src='@/assets/curso/temas/t3/fig38.svg', alt='Secuencia de trazado técnico para la construcción de una manga de chaqueta masculina. La primera figura corresponde al desarrollo inicial del largo de manga y posicionamiento de líneas horizontales para el codo y la sisa. La segunda figura incorpora el contorno superior, correspondiente a la copa de manga, con inclinación y medidas proporcionales. La tercera figura presenta la manga completa, con forma anatómica curva, líneas de doblez, separación entre delantero y trasero, y señalización de botones en el puño. Las medidas están indicadas en centímetros y distribuidas para garantizar ajuste estructural al cuerpo base previamente desarrollado.')
     
     .bgi-1.mb-4(data-aos="fade-down")
       .row.justify-content-center
@@ -1979,7 +1972,9 @@
     p.mb-5 Antes de añadir márgenes de costura, confeccione un prototipo, preferiblemente en liencillo, para verificar que la copa se embeba limpiamente en la sisa del cuerpo y que el brazo pueda flexionar 90° sin tiranteces.    
 
     
-    h3(data-aos='fade-right') Chaqueta #[em bomber]
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t2/subt.svg")
+      h3.ps-3.pe-4.mb-0 Chaqueta #[em bomber]
 
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -1987,20 +1982,18 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 La chaqueta #[em bomber] casual masculina, con su corte recto o ligeramente entallado y puños, cuello y cinturilla de punto elástico, combina materiales como #[em nylon], algodón o poliéster técnico, a menudo con forro ligero o acolchado, para ofrecer ligereza, abrigo y resistencia al viento; su cierre frontal de cremallera y bolsillos laterales brindan funcionalidad urbana, mientras que su estética atemporal la hace adecuada tanto para paseos y ocio en la ciudad como para oficinas creativas de #[em dress code] relajado, viajes en climas variables y #[em looks] de #[em smart] casual al combinarla con camisa de botones, chinos y mocasines, o con camiseta, pantalones #[em slim] y zapatillas para un estilo deportivo; disponible en tonos neutros para máxima versatilidad o en colores más vivos y detalles bordados para un toque distintivo.
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 39.
-              span Chaqueta #[em bomber] masculina
-            .row.justify-content-center.mb-3
-              .col-lg-10
-                figure
-                  img(src='@/assets/curso/temas/t3/fig39.svg', alt='Prenda superior tipo chaqueta bomber con silueta amplia y terminaciones ajustadas. El diseño incluye cuello corto y redondeado, cierre frontal con cremallera, bolsillos diagonales con ribete en el delantero y costuras de manga caída. Tanto el cuello, como los puños y la pretina inferior están rematados con tejido elástico. En la manga izquierda se ubica un detalle gráfico rectangular compuesto por líneas paralelas. La vista posterior mantiene una superficie limpia, con costuras en los hombros y mangas.')
-                figcaption.bg-1 Fuente: 
-                  a(href="https://es.pinterest.com/pin/4785143350554431/" target="_blank") https://es.pinterest.com/pin/4785143350554431/
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 39.
+            span Chaqueta #[em bomber] masculina
+        .row.justify-content-center.mb-3
+          .col-lg-10
+            figure
+              img(src='@/assets/curso/temas/t3/fig39.svg', alt='Prenda superior tipo chaqueta bomber con silueta amplia y terminaciones ajustadas. El diseño incluye cuello corto y redondeado, cierre frontal con cremallera, bolsillos diagonales con ribete en el delantero y costuras de manga caída. Tanto el cuello, como los puños y la pretina inferior están rematados con tejido elástico. En la manga izquierda se ubica un detalle gráfico rectangular compuesto por líneas paralelas. La vista posterior mantiene una superficie limpia, con costuras en los hombros y mangas.')
+          figcaption Fuente: 
+            a(href="https://es.pinterest.com/pin/4785143350554431/" target="_blank") https://es.pinterest.com/pin/4785143350554431/
 
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade")
       .row.justify-content-around.align-items-center
@@ -2017,7 +2010,9 @@
                 i.fas.fa-circle-play
 
     
-    h3(data-aos='fade-right') Chaqueta en #[em denim] tipo Levi's
+    .subt.mb-4(data-aos="fade")
+      img(src="@/assets/curso/temas/t2/subt.svg")
+      h3.ps-3.pe-4.mb-0 Chaqueta en #[em denim] tipo Levi's
 
     .bg-deg1.p-3.mb-4(data-aos="fade-down")
       .row.justify-content-around.align-items-center
@@ -2028,37 +2023,33 @@
         .col-lg-3.d-none.d-lg-block
           img.px-lg-4(src='@/assets/curso/temas/t3/31.png', alt='')
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 40.
-              span Diseño de chaqueta en #[em denim]  tipo Levi's
-            .row.justify-content-center.mb-3
-              .col-lg-10
-                figure
-                  img(src='@/assets/curso/temas/t3/fig40.svg', alt='Chaqueta tipo denim con estructura clásica y detalles de confección visibles. En el delantero se incluyen cuello camisero, botonadura central, bolsillos de parche con tapa y botón en el pecho, bolsillos laterales verticales con cierre, y costuras decorativas a lo largo del cuerpo. En la parte trasera, se aprecia un canesú horizontal, costuras verticales en los laterales y centro, además de ajuste con botones en la parte baja. Las mangas son largas, con puños abotonados, y el diseño general se caracteriza por líneas de pespunte marcadas que refuerzan la estructura.')
-                figcaption.bg-1 Fuente: 
-                  a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 40.
+            span Diseño de chaqueta en #[em denim]  tipo Levi's
+        .row.justify-content-center.mb-3
+          .col-lg-10
+            figure
+              img(src='@/assets/curso/temas/t3/fig40.svg', alt='Chaqueta tipo denim con estructura clásica y detalles de confección visibles. En el delantero se incluyen cuello camisero, botonadura central, bolsillos de parche con tapa y botón en el pecho, bolsillos laterales verticales con cierre, y costuras decorativas a lo largo del cuerpo. En la parte trasera, se aprecia un canesú horizontal, costuras verticales en los laterales y centro, además de ajuste con botones en la parte baja. Las mangas son largas, con puños abotonados, y el diseño general se caracteriza por líneas de pespunte marcadas que refuerzan la estructura.')
+          figcaption Fuente: 
+            a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/
       
     p.mb-4 A continuación, se detalla el patronaje de la chaqueta:
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 41.
-              span Trazo del patronaje de la chaqueta 
-            .row.justify-content-center.mb-3
-              .col-lg-9
-                figure.mb-3
-                  img(src='@/assets/curso/temas/t3/fig41.svg', alt='Molde técnico de chaqueta tipo denim con desarrollo de delantero y trasero. El delantero incluye escote, hombro, sisa, doblez para botonadura, bolsillo superior con tapa y bolsillo lateral con cierre. El trasero presenta escote, hombro, pinza vertical y línea de canesú. Todas las piezas están acompañadas por medidas en centímetros para trazo exacto.')
-                figcaption.bg-1 Fuente: 
-                  a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 41.
+            span Trazo del patronaje de la chaqueta 
+          .row.justify-content-center.mb-3
+            .col-lg-9
+              figure.mb-3
+                img(src='@/assets/curso/temas/t3/fig41.svg', alt='Molde técnico de chaqueta tipo denim con desarrollo de delantero y trasero. El delantero incluye escote, hombro, sisa, doblez para botonadura, bolsillo superior con tapa y bolsillo lateral con cierre. El trasero presenta escote, hombro, pinza vertical y línea de canesú. Todas las piezas están acompañadas por medidas en centímetros para trazo exacto.')
+            figcaption Fuente: 
+              a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 29.
@@ -2177,20 +2168,18 @@
         .h-100
           img.m-auto.w-230.mtn-10(src='@/assets/curso/temas/t3/32.png', alt='')
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 42.
-              span Trazo de la manga 
-            .row.justify-content-center.mb-3
-              .col-lg-8
-                figure.mb-3
-                  img(src='@/assets/curso/temas/t3/fig42.svg', alt='Molde técnico de manga para chaqueta tipo denim, compuesto por vista delantera y trasera. Se incluyen curvas de copa, largo total, línea de codo y terminación en puño. Las piezas están trazadas con medidas precisas en centímetros, lo que permite un ensamblaje anatómico y ajuste correcto al cuerpo base.')
-                figcaption.bg-1 Fuente: 
-                  a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 42.
+            span Trazo de la manga 
+          .row.justify-content-center.mb-3
+            .col-lg-8
+              figure.mb-3
+                img(src='@/assets/curso/temas/t3/fig42.svg', alt='Molde técnico de manga para chaqueta tipo denim, compuesto por vista delantera y trasera. Se incluyen curvas de copa, largo total, línea de codo y terminación en puño. Las piezas están trazadas con medidas precisas en centímetros, lo que permite un ensamblaje anatómico y ajuste correcto al cuerpo base.')
+            figcaption Fuente: 
+              a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 30.
@@ -2287,21 +2276,21 @@
 
     .row.justify-content-center
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-right")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 43. 
-          span Cinturilla completa
-        .tarjeta.bg-12.p-4.h-lg-100.d-flex.flex-column.justify-content-center
-          figure.mb-3
+        .bg-7.p-3.mb-2.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 43. 
+            span Cinturilla completa
+          figure.mb-4
             img(src='@/assets/curso/temas/t3/fig43.svg', alt='Vista técnica de un puño de camisa con medidas detalladas. La pieza es rectangular, con una longitud total de 56.8 cm y altura de 4.5 cm. Incluye marcas para ojal, botones y tapeta superpuesta de 8 cm. Las divisiones internas indican posicionamiento de elementos funcionales para cierre y ajuste.')
           figcaption Fuente: 
             a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/      
       .col-lg-6.mb-4.mb-lg-0(data-aos="fade-left")
-        .titulo-sexto.color-acento-contenido.mb-3
-          h5 Figura 44. 
-          span Cinturilla media
-        .tarjeta.bg-6.p-4.h-lg-100.d-flex.flex-column.justify-content-center
-          figure.mb-3
-            img(src='@/assets/curso/temas/t3/fig44.svg', alt='Pieza técnica rectangular correspondiente a un puño de camisa con medidas especificadas. El largo total es de 35.4 cm y el alto de 4 cm. Se indican dos posiciones para botones y un ojal al extremo opuesto. Las distancias internas marcan la ubicación precisa de los elementos de cierre y los márgenes para costura.')
+        .bg-7.p-3.mb-2.h-100
+          .titulo-sexto.color-acento-contenido.mb-3
+            h5 Figura 44. 
+            span Cinturilla media
+          figure.mb-4
+            img.px-lg-4(src='@/assets/curso/temas/t3/fig44.svg', alt='Pieza técnica rectangular correspondiente a un puño de camisa con medidas especificadas. El largo total es de 35.4 cm y el alto de 4 cm. Se indican dos posiciones para botones y un ojal al extremo opuesto. Las distancias internas marcan la ubicación precisa de los elementos de cierre y los márgenes para costura.')
           figcaption Fuente: 
             a(href="https://es.pinterest.com/pin/2533343531454928/ " target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
 
@@ -2431,20 +2420,18 @@
               i.fas.fa-circle-chevron-right
               span.mb-0 El trazo debe ser limpio y preciso para facilitar su posterior digitalización o recorte.
 
-    .row.bgcc-1.align-items-center.p-2.p-md-3.pt-3.pt-md-4.mb-5(data-aos="fade-down")
-      .col-lg-12.col-12.px-lg-4
-        .row.justify-content-center.align-items-center
-
-          .row.justify-content-center.align-items-center
-            .titulo-sexto.color-acento-contenido.mb-4
-              h5 Figura 45.
-              span Cuello
-            .row.justify-content-center.mb-3
-              .col-lg-9
-                figure.mb-3
-                  img(src='@/assets/curso/temas/t3/fig45.svg', alt='Pieza técnica correspondiente a una tapa de bolsillo con forma trapezoidal. Tiene un ancho total de 30 cm, dividido en tres segmentos: 2.5 cm, 9.2 cm y 18.3 cm. La altura varía de 5 a 8 cm, con una ligera curva descendente en el borde inferior. Las medidas permiten su montaje simétrico sobre el delantero de una prenda.')
-                figcaption.bg-1 Fuente: 
-                  a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
+    .bg-7.p-4.mb-5(data-aos="fade-down")
+      .row.justify-content-center.align-items-center
+        .col-12
+          .titulo-sexto.color-acento-contenido.mb-4
+            h5 Figura 45.
+            span Cuello
+          .row.justify-content-center.mb-3
+            .col-lg-9
+              figure.mb-3
+                img(src='@/assets/curso/temas/t3/fig45.svg', alt='Pieza técnica correspondiente a una tapa de bolsillo con forma trapezoidal. Tiene un ancho total de 30 cm, dividido en tres segmentos: 2.5 cm, 9.2 cm y 18.3 cm. La altura varía de 5 a 8 cm, con una ligera curva descendente en el borde inferior. Las medidas permiten su montaje simétrico sobre el delantero de una prenda.')
+            figcaption Fuente: 
+              a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
       
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')

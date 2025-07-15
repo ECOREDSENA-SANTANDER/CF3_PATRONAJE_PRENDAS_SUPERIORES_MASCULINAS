@@ -152,22 +152,19 @@
               td Aclara requisitos específicos del diseño.
               td “Refuerzo con entretela fusible en tapeta”.
 
-      .row.bgcc-1.align-items-center.p-2.p-md-3.mb-2(data-aos="fade-down")
-        .col-lg-12.col-12.px-lg-4
-          .row.justify-content-center.align-items-center
-
-            .row.justify-content-center.align-items-center
-              .col-12
-                .titulo-sexto.color-acento-contenido.mb-4
-                  h5 Figura 1.
-                  span Patrón con especificaciones técnicas
-              .col-lg-11
-                figure
-                  img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ficha técnica de moldería para saco informal masculino, correspondiente a la temporada invierno del año 2019. Incluye esquema completo con las piezas del textil base numeradas y etiquetadas: espalda, costadillo, vista, frente, manga, cuello, vistas internas y externas, tapas de bolsillo y bajo manga. Cada pieza está asociada a una cantidad de corte y talla (T.42), con indicaciones como “doble”, “X2” o “X4” según corresponda. En la parte superior se especifica que se trata de un saco sastre de línea informal, bajo la marca Winsor y desarrollado por la empresa Lincoln S.A.')
-      figcaption Fuente: 
-        a(href="https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas" target="_blank") https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas 
       
-      .mb-5
+      .bg-7.p-4.mb-5(data-aos="fade-down")
+        .row.justify-content-center.align-items-center
+          .col-12
+            .titulo-sexto.color-acento-contenido.mb-4
+              h5 Figura 1.
+              span Patrón con especificaciones técnicas
+          .col-lg-11
+            figure
+              img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ficha técnica de moldería para saco informal masculino, correspondiente a la temporada invierno del año 2019. Incluye esquema completo con las piezas del textil base numeradas y etiquetadas: espalda, costadillo, vista, frente, manga, cuello, vistas internas y externas, tapas de bolsillo y bajo manga. Cada pieza está asociada a una cantidad de corte y talla (T.42), con indicaciones como “doble”, “X2” o “X4” según corresponda. En la parte superior se especifica que se trata de un saco sastre de línea informal, bajo la marca Winsor y desarrollado por la empresa Lincoln S.A.')
+        figcaption Fuente: 
+          a(href="https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas" target="_blank") https://www.behance.net/search/projects/molderia%20fichas%20t%C3%A9cnicas 
+      
 
       .bg-4.p-4.px-lg-5.mb-5(data-aos="fade-down")
         .row.justify-content-center
