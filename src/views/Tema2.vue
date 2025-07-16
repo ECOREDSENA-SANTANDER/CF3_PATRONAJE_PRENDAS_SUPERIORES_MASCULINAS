@@ -764,7 +764,7 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 12.
             span Trazo del patrón del bolsillo industrial        
-          .row.justify-content-center
+          .row.justify-content-center.mb-3
             .col-lg-9.col-md-7.col-10
               figure
                 img(src='@/assets/curso/temas/t2/fig12.svg', alt='Molde técnico de bolsillo de parche con terminación en punta. El ancho total del bolsillo es de 13 cm y el largo es de 14 cm. En la parte superior se indica un doblez hacia el reverso de 3 cm, que forma la vista interna. En la parte inferior, las esquinas se pliegan 1.5 cm hacia el centro, generando un vértice que facilita el remate.')
@@ -804,7 +804,7 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 13.
             span Trazo de bolsillo con tapa separada        
-          .row.justify-content-center
+          .row.justify-content-center.mb-3
             .col-lg-6.col-md-7.col-10
               figure
                 img.px-lg-2(src='@/assets/curso/temas/t2/fig13.svg', alt='Esquema técnico comparativo de dos tipos de bolsillos de parche con forma en punta. El primero, en la parte superior, tiene un ancho de 13 cm, altura de 7 cm y vértice inferior formado por dobleces de 2.5 cm desde cada extremo hacia el centro. El segundo bolsillo, en la parte inferior, tiene las mismas medidas de ancho (13 cm), pero un largo mayor (14 cm) e incluye una vista superior doblada hacia el reverso de 3 cm.')

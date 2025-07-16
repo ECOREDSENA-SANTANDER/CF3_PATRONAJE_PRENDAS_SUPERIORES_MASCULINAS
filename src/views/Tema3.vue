@@ -557,19 +557,19 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 23.
             span Trazo de la camisa hindú delantero
           figure.mb-2
             img(src='@/assets/curso/temas/t3/fig23.svg', alt='Molde técnico delantero de prenda superior masculina. Incluye escote redondeado, hombros inclinados, sisas curvas con ajuste lateral y pinzas que parten desde el busto hacia el centro. Se añaden líneas de transformación para bolsillo de parche central, con medidas específicas. La parte inferior está prolongada con una extensión rectangular que incorpora aberturas laterales señaladas y doblez de 3 cm. Se indican múltiples valores numéricos para cortes y ajustes estructurales.')
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 24.
             span Trazo del posterior de camisa hindú
-          figure.mb-2
-            img(src='@/assets/curso/temas/t3/fig24.svg', alt='Molde técnico lateral de prenda superior masculina, representado con silueta extendida hasta la altura de cadera más ocho centímetros. Incluye escote redondeado, hombro inclinado y costado con entalle. Se destaca una pinza lateral, una vista con trazo angular de 12 cm y un bolsillo con forma rectangular centrado en la parte superior del molde. En la parte inferior se indica una abertura lateral de 3 cm por 10 cm y ajustes en curva en el área de la sisa.')
+          figure.mb-2.px-lg-4
+            img.px-lg-5(src='@/assets/curso/temas/t3/fig24.svg', alt='Molde técnico lateral de prenda superior masculina, representado con silueta extendida hasta la altura de cadera más ocho centímetros. Incluye escote redondeado, hombro inclinado y costado con entalle. Se destaca una pinza lateral, una vista con trazo angular de 12 cm y un bolsillo con forma rectangular centrado en la parte superior del molde. En la parte inferior se indica una abertura lateral de 3 cm por 10 cm y ajustes en curva en el área de la sisa.')
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-8(data-aos='fade-right')
