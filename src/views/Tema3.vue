@@ -56,12 +56,12 @@
             h5 Figura 15.
             span Trazo camiseta masculina básica delantero          
           .row.justify-content-center.mb-3        
-            .col-lg-8.col-md-8.col-12
+            .col-lg-9.col-md-8.col-12
               figure.mb-3.mb-lg-0
                 img(src='@/assets/curso/temas/t3/fig15.svg', alt='Molde técnico para prenda superior sin mangas, ajustada a partir de un patrón base. Se especifican ajustes en escote y sisa: se bajan 2 cm en escote delantero, 2.5 cm en hombro y se proyecta una curva que se entra 0.5 cm en la sisa. Las distancias de referencia en hombro y sisa son de 14 cm, y se indican los puntos de entrada en curva para un mejor calce. El largo de la prenda corresponde a la altura de cadera más 8 cm, con una línea base recta en el inferior. El trazo incluye líneas punteadas para mostrar modificaciones sobre el patrón original.')
           figcaption Fuente: SENA, (2025)
       .col-lg-6
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 16.
             span Trazo camiseta masculina básica posterior          
@@ -223,12 +223,12 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6
-        .bg-7.p-3.mb-2 
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 17.
             span Trazo de la camisilla delantero           
           .row.justify-content-center.mb-3
-            .col-lg-7.col-md-7.col-10
+            .col-lg-8.col-md-7.col-10
               figure.mb-3.mb-lg-0
                 img(src='@/assets/curso/temas/t3/fig17.svg', alt='Molde técnico delantero de prenda superior sin mangas. Incluye escote curvo profundo, hombro modificado con una nueva línea inclinada, sisa con ajuste en curva y pinza lateral descendente. El largo supera la altura de cadera. Se señalan distancias y ajustes con medidas precisas en centímetros.')
           figcaption Fuente: SENA, (2025)
@@ -238,7 +238,7 @@
             h5 Figura 18.
             span Trazo de la camisilla posterior          
           .row.justify-content-center.mb-3
-            .col-lg-9.col-md-8.col-11
+            .col-lg-10.col-md-8.col-11
               figure.mb-3.mb-lg-0
                 img.px-lg-4(src='@/assets/curso/temas/t3/fig18.svg', alt='Molde técnico delantero de prenda superior sin mangas, adaptado con diseño de revoque en el escote y la sisa. Contiene escote redibujado con profundización y desplazamiento lateral, hombro con nueva inclinación, y sisa curvada con ajuste en el costado. La forma del revoque sigue el contorno del escote y la sisa, con separación marcada para corte o acabado decorativo. Incluye medidas específicas en centímetros y prolongación hasta debajo de la cadera.')
           figcaption Fuente: SENA, (2025)
@@ -388,14 +388,14 @@
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-10.mb-4.mb-lg-0(data-aos="fade-right")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 19.
             span Trazo de la camiseta polo delantero
           figure
             img(src='@/assets/curso/temas/t3/fig19.svg', alt='Molde técnico de prenda superior masculina con botonera central. La línea punteada representa la base de corpiño, sobre la cual se realizan transformaciones. Incluye escote redondo, hombros con inclinación y sisa ligeramente curva. En el centro se detalla la abertura de la botonera con medidas verticales y horizontales precisas. Los costados presentan entradas con leve entalle hacia la cintura. El largo total supera la altura de cadera y se indican márgenes de confección en hombros, sisas y laterales.')
       .col-lg-6.col-md-10.mb-4.mb-lg-0(data-aos="fade-left")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 20.
             span Trazo de la camiseta polo con botonera
@@ -879,15 +879,15 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 28.
             span Trazo de patronaje de camisa 
           figure.mb-2
-            img(src='@/assets/curso/temas/t3/fig28.svg', alt='Molde técnico para prenda superior dividido en delantero y trasero, con líneas guías y referencias anatómicas. En la parte delantera se trazan el centro, la línea de botonadura, el escote, la sisa, el hombro, el bolsillo y las líneas de cintura y cadera. En la parte trasera se indican el centro, el escote trasero, el hombro, la línea de canesú y la prolongación hacia el fondo de la prenda. Ambas mitades presentan ejes horizontales que organizan la estructura: línea de espalda, línea axilar, línea cintura, línea cadera y fondo. También se incluye el desarrollo de cuello, tapeta y pinza de entalle, configurando un molde base completo.')
+            img.px-lg-5(src='@/assets/curso/temas/t3/fig28.svg', alt='Molde técnico para prenda superior dividido en delantero y trasero, con líneas guías y referencias anatómicas. En la parte delantera se trazan el centro, la línea de botonadura, el escote, la sisa, el hombro, el bolsillo y las líneas de cintura y cadera. En la parte trasera se indican el centro, el escote trasero, el hombro, la línea de canesú y la prolongación hacia el fondo de la prenda. Ambas mitades presentan ejes horizontales que organizan la estructura: línea de espalda, línea axilar, línea cintura, línea cadera y fondo. También se incluye el desarrollo de cuello, tapeta y pinza de entalle, configurando un molde base completo.')
           figcaption Fuente: Donnanno, (2016)
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 29.
             span Diseño de la camisa manga corta
@@ -1044,19 +1044,19 @@
 
     .row.justify-content-center.mb-3
       .col-lg-6.col-md-11.mb-4(data-aos="fade-right")
-        .bg-7.p-3.mb-2 
+        .bg-7.p-3.mb-2.h-100 
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 30.
             span Trazo de manga corta
           figure.mb-2
-            img(src='@/assets/curso/temas/t3/fig30.svg', alt='Molde técnico de manga dividida en dos zonas principales: delantera y trasera. En la parte superior se encuentra la copa, cuyo borde curvo se diferencia en copa delantera y copa trasera. La línea vertical central indica el centro del hombro, que desciende hasta el puño. Se marca también la línea del bíceps, que divide horizontalmente la manga en su parte superior. En la zona inferior se señala un margen para el dobladillo y la indicación de pliegue. La estructura permite identificar proporciones, ejes y puntos de montaje con el cuerpo de la prenda.')
+            img.px-lg-4(src='@/assets/curso/temas/t3/fig30.svg', alt='Molde técnico de manga dividida en dos zonas principales: delantera y trasera. En la parte superior se encuentra la copa, cuyo borde curvo se diferencia en copa delantera y copa trasera. La línea vertical central indica el centro del hombro, que desciende hasta el puño. Se marca también la línea del bíceps, que divide horizontalmente la manga en su parte superior. En la zona inferior se señala un margen para el dobladillo y la indicación de pliegue. La estructura permite identificar proporciones, ejes y puntos de montaje con el cuerpo de la prenda.')
           figcaption Fuente: Donnanno, (2016)
       .col-lg-6.col-md-11.mb-4(data-aos="fade-left")
-        .bg-7.p-3.mb-2 
+        .bg-7.p-3.mb-2.h-100 
           .titulo-sexto.color-acento-contenido.mb-2
             h5 Figura 31.
             span Trazo de cuello deportivo
-          figure.mb-2
+          figure.mb-2.py-lg-5.my-lg-5
             img(src='@/assets/curso/temas/t3/fig31.svg', alt='Molde técnico de cuello para prenda superior con indicaciones de montaje. La línea central vertical señala el eje de simetría donde se debe unir la pieza al cortar en tela doble. A cada lado se indican los puntos de hombro, que corresponden a las uniones con el escote delantero y trasero. La curva inferior representa el contorno del escote, mientras que la línea superior, en trazo discontinuo, marca el doblez que formará el cuello completo una vez ensamblado.')
           figcaption Fuente: Donnanno, (2016)
 
@@ -1286,15 +1286,15 @@
 
     .row.justify-content-center.mb-4
       .col-lg-6.mb-4(data-aos="fade-right")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 32.
             span Trazo del patronaje de camisa con canesú
-          figure.mb-3
+          figure.mb-3.px-lg-4
             img(src='@/assets/curso/temas/t3/fig32.svg', alt='Molde base de cuerpo superior dividido en delantero y trasero con ejes y proporciones detalladas. Se incluyen líneas estructurales como escote, hombro, sisa, línea de canesú, espalda, axilar, cintura, cadera y fondo. Cada sección está marcada con letras y puntos de referencia que permiten trazar curvas, cortes y pinzas de forma precisa. El molde presenta indicaciones para pliegue de tela, centro delantero y centro trasero, junto con el desarrollo de pinza vertical en el centro del cuerpo que permite entallar la prenda.')
           figcaption Fuente: Donnanno, (2016)
       .col-lg-6.mb-4(data-aos="fade-left")
-        .bg-7.p-3.mb-2
+        .bg-7.p-3.mb-2.h-100
           .titulo-sexto.color-acento-contenido.mb-3
             h5 Figura 33.
             span Camisa con canesú

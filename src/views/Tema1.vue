@@ -159,7 +159,7 @@
             .titulo-sexto.color-acento-contenido.mb-4
               h5 Figura 1.
               span Patrón con especificaciones técnicas
-          .col-lg-11
+          .col-lg-10.mb-4.mb-lg-5
             figure
               img(src='@/assets/curso/temas/t1/fig1.svg', alt='Ficha técnica de moldería para saco informal masculino, correspondiente a la temporada invierno del año 2019. Incluye esquema completo con las piezas del textil base numeradas y etiquetadas: espalda, costadillo, vista, frente, manga, cuello, vistas internas y externas, tapas de bolsillo y bajo manga. Cada pieza está asociada a una cantidad de corte y talla (T.42), con indicaciones como “doble”, “X2” o “X4” según corresponda. En la parte superior se especifica que se trata de un saco sastre de línea informal, bajo la marca Winsor y desarrollado por la empresa Lincoln S.A.')
         figcaption Fuente: 
