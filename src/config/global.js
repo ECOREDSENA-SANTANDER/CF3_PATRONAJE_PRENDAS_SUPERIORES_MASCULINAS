@@ -287,11 +287,11 @@ export default {
     },
     {
       referencia:
-        'Heller, E.-M. (2015). Escuela de costura: Nociones básicas y técnicas. Everand. ',
+        'Heller, E. M. (2015). Escuela de costura: Nociones básicas y técnicas. Everand. ',
     },
     {
       referencia:
-        'Heller, E.-M. (2016). Técnicas de patronaje de moda: Carrera Diseño y Gestión en Moda (Tomo II – Hombre). Universidad Peruana de Ciencias Aplicadas.',
+        'Heller, E. M. (2016). Técnicas de patronaje de moda: Carrera Diseño y Gestión en Moda (Tomo II – Hombre). Universidad Peruana de Ciencias Aplicadas.',
     },
     {
       referencia:

@@ -312,7 +312,7 @@
           figure.mb-2
             img.px-lg-5(src='@/assets/curso/temas/t2/fig3.svg', alt='Vista trasera de una camisa con indicaciones anatómicas del diseño. En la parte superior se encuentra el canesú o bata, acompañado por un bucle central y un pliegue de espalda que facilita el movimiento. Las mangas cuentan con aletilla y la zona inferior con pinzas para ajuste y un faldón de camisa que prolonga el largo posterior. La parte central del cuerpo se identifica como trasero.')
           figcaption Fuente: 
-            a(href="https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
+            a(href="https: https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/" target="_blank") https://123dreamit.com/todo-lo-que-debes-saber-acerca-de-la-camisa/
 
     .row.bgc-slider.align-items-center.p-3.p-md-4.p-lg-5(data-aos="fade-down")
       .col-lg-12.col-12.px-lg-4
@@ -627,7 +627,7 @@
               ul.lista-ul--color.fa-lista.mb-0
                 li.mb-1
                   i.fas.fa-circle-chevron-right
-                  span.mb-0 De una prenda asociada a contextos laborales o ceremoniales a una pieza apta para el día a día, lo urbano, lo recreativo o incluso lo híbrido (casual-#[em smart]).
+                  span.mb-0 De una prenda asociada a contextos laborales o ceremoniales a una pieza apta para el día a día, lo urbano, lo recreativo o incluso lo híbrido (casual - #[em smart]).
             
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 8.

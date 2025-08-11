@@ -103,7 +103,7 @@
             td 4
             td Trazar la nueva curva del escote uniendo los dos puntos anteriores con una línea curva suave.
             td ——
-            td Usar curvigrafo o mano alzada firme; evitar ángulos rectos o trazos quebrados.
+            td Usar curvígrafo o mano alzada firme; evitar ángulos rectos o trazos quebrados.
           tr
             td 5
             td Prolongar desde el extremo del nuevo hombro una línea horizontal para ubicar el nuevo punto alto de la sisa.
@@ -118,7 +118,7 @@
             td 7
             td Unir los dos puntos anteriores (punto alto y punto bajo de la sisa modificada) con una curva continua.
             td ——
-            td Usar curvigrafo para mantener armonía entre la nueva sisa y el contorno del cuerpo.
+            td Usar curvígrafo para mantener armonía entre la nueva sisa y el contorno del cuerpo.
           tr
             td 8
             td Entrar 0,5 cm en la línea lateral del cuerpo y formar una ligera curva en el costado.
@@ -194,7 +194,7 @@
             td 4
             td Unir con curva suave el punto de subida con el extremo del hombro descendido para formar el nuevo escote.
             td ——
-            td Usar curvigrafo o trazo fluido para evitar quiebres.
+            td Usar curvígrafo o trazo fluido para evitar quiebres.
           tr
             td 5
             td Prolongar una línea horizontal desde el nuevo hombro hacia el costado para encontrar el nuevo punto de sisa.
@@ -209,7 +209,7 @@
             td 7
             td Unir el punto superior e inferior de la nueva sisa mediante una curva armónica.
             td ——
-            td Trazar con curvigrafo respetando el contorno anatómico.
+            td Trazar con curvígrafo respetando el contorno anatómico.
           tr
             td 8
             td Entrar 0,5 cm en la línea del costado bajo el busto y suavizar con curva hacia la línea lateral.
@@ -287,7 +287,7 @@
             td 3
             td Unir el punto subido del escote con el nuevo extremo del hombro mediante una curva suave.
             td ___
-            td Usar curvigrafo o mano firme para asegurar fluidez en el escote.
+            td Usar curvígrafo o mano firme para asegurar fluidez en el escote.
           tr
             td 4
             td Desde el vértice original de la sisa, medir hacia afuera en línea horizontal para ubicar el nuevo punto superior.
@@ -341,7 +341,7 @@
             td 3
             td Unir el nuevo punto del escote con el extremo descendido del hombro con una curva suave.
             td ——
-            td Usar curvigrafo para una transición limpia y anatómica.
+            td Usar curvígrafo para una transición limpia y anatómica.
           tr
             td 4
             td Desde el vértice de la sisa original, salir horizontalmente para marcar el nuevo punto superior de sisa.
@@ -366,7 +366,7 @@
             td 8
             td Trazar una curva que conecte el nuevo escote con el punto de rebaje lateral.
             td ——
-            td Utilizar curvigrafo para garantizar un trazo limpio, sin picos ni ángulos rectos.
+            td Utilizar curvígrafo para garantizar un trazo limpio, sin picos ni ángulos rectos.
           tr
             td 9
             td Determinar el largo total del cuerpo bajando desde la cintura base.
@@ -433,7 +433,7 @@
             td 4
             td Redibujar la sisa uniendo suavemente los puntos obtenidos.
             td —
-            td Usar curvigrafo para obtener un contorno continuo y anatómico.
+            td Usar curvígrafo para obtener un contorno continuo y anatómico.
           tr
             td 5
             td Medir desde el escote hacia abajo sobre el centro delantero para ubicar el largo de la abertura.
@@ -638,7 +638,7 @@
                 td Largo 6 cm.
               tr
                 td 2
-                td Desde el extremo exterior de ese retazo, bajar verticalmente para ubicar el nuevo punto de unión hombro-escote.
+                td Desde el extremo exterior de ese retazo, bajar verticalmente para ubicar el nuevo punto de unión hombro - escote.
                 td Bajar 2 cm.
               tr
                 td 3
@@ -669,9 +669,10 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 25.
             span Trazo del cuello de la camisa hindú
-        .col-lg-10.mb-4
-          figure
+        .col-lg-10.mb-2
+          figure.mb-4
             img(src='@/assets/curso/temas/t3/fig25.svg', alt='Pieza de molde correspondiente al cuello de una prenda superior masculina. La figura se extiende horizontalmente desde el escote de espalda hasta el escote delantero, presentando un contorno ligeramente curvo en la parte inferior y una inclinación ascendente hacia el extremo delantero. Incluye indicación de márgenes de costura de 1.5 cm en sus bordes y tres marcas circulares agrupadas que sirven como guía para la ubicación o ensamblaje.')
+          figcaption Fuente: SENA, (2025)
 
     .row.justify-content-center.align-items-end
       .col-lg-8(data-aos='fade-right')
@@ -729,9 +730,10 @@
           .titulo-sexto.color-acento-contenido.mb-4
             h5 Figura 26.
             span Trazo de sudadera deportiva delantero
-        .col-lg-9.mb-4
-          figure
+        .col-lg-9.mb-2
+          figure.mb-4
             img(src='@/assets/curso/temas/t3/fig26.svg', alt='Molde técnico correspondiente a una prenda superior con manga tipo ranglán integrada al cuerpo. Se representa una vista lateral donde se combinan líneas rectas y curvas para definir cuello, hombro y sisa. Las líneas punteadas indican la base del cuerpo y el desarrollo de la manga. Incluye marcas de referencia como profundidad de escote, prolongaciones para holgura y medidas adicionales en puntos clave, como el ensanchamiento de la manga y los ajustes en la sisa. También se especifica el cálculo para el ancho del puño, sumando medio contorno más un centímetro de desahogo.')
+          figcaption Fuente: SENA, (2025)
 
     .row.justify-content-center.align-items-end.mb-5
       .col-lg-8(data-aos='fade-right')
@@ -1033,7 +1035,7 @@
                   | 1,5 cm en dobladillo y vista.
                 li.mb-1
                   i.fas.fa-circle
-                  | Piquetes: ⅓ delantero y ½ posterior de copa de manga; unión canesú-hombro; extremos de pinza.
+                  | Piquetes: ⅓ delantero y ½ posterior de copa de manga; unión canesú - hombro; extremos de pinza.
                 li.mb-1
                   i.fas.fa-circle
                   | Flechas de hilo paralelas a los centros de pieza.
@@ -1099,7 +1101,7 @@
             td.text-center Diferencia copa trasera > delantera ≈ 0,5 cm.
           tr
             td 6
-            td Marcado delantero/trasero
+            td Marcado delantero / trasero
             td Señalar ¼ de la curva (lado delantero) con un piquete y ½ de la curva (lado trasero) con otro; estos puntos casarán con los piquetes equivalentes de la sisa del cuerpo.
             td.text-center —
           tr
@@ -1125,7 +1127,7 @@
           tr
             td 11
             td Marcado del pliegue para puño
-            td Sobre la línea de unión manga-puño, indicar una pestaña de 3 cm (plegar) en el centro del eje; esto generará el fuelle que facilita el movimiento al abotonar.
+            td Sobre la línea de unión manga - puño, indicar una pestaña de 3 cm (plegar) en el centro del eje; esto generará el fuelle que facilita el movimiento al abotonar.
             td.text-center 3 cm (plegar).
           tr
             td 12
@@ -1382,7 +1384,7 @@
           tr
             td 8
             td Trazado de canesú recortado
-            td Completar línea recta O1 – O2 y recortar la pieza; igual recorrido hombro delantero-espalda.
+            td Completar línea recta O1 – O2 y recortar la pieza; igual recorrido hombro delantero - espalda.
             td.text-center —
           tr
             td 9
@@ -1799,7 +1801,7 @@
               span.mb-0 La nueva posición de pinza y los cortes de bolsillo transforman el bloque base en un delantero de chaqueta deportiva con solapa.
             li
               i.fas.fa-circle-chevron-right
-              span.mb-0 Todas las cifras fraccionarias (0,5 cm, 0,7 cm, 1,5 cm) suavizan quiebres y garantizan transiciones limpias.
+              span.mb-0 Todas las cifras decimales (0,5 cm, 0,7 cm, 1,5 cm) suavizan quiebres y garantizan transiciones limpias.
             li
               i.fas.fa-circle-chevron-right
               span.mb-0 Antes de añadir márgenes de costura conviene realizar comprobación de prototipo para verificar la armonía entre pinza trasladada, nueva sisa y caída de solapa.
@@ -1931,7 +1933,7 @@
               ul.lista-ul.fa-lista.circle-lista.mb-0
                 li.mb-0
                   i.fas.fa-circle
-                  | Rectángulo-puño: ancho = deseo de muñeca + 10 cm (solape), alto desplegado = 7 cm. 
+                  | Rectángulo - puño: ancho = deseo de muñeca + 10 cm (solape), alto desplegado = 7 cm. 
                 li.mb-0
                   i.fas.fa-circle
                   | Línea inferior del rectángulo base inclínese 3,8 cm hacia arriba en costura delantera (vista 3).
@@ -2232,7 +2234,7 @@
           tr
             td 8
             td Formar el puño
-            td Anchura delantera = 14.5 cm. #[br]Anchura posterior = 15 cm de inclinación de la línea inferior y 2 cm en delantera; 1 cm en posterior.
+            td Anchura delantera = 14,5 cm. #[br]Anchura posterior = 15 cm de inclinación de la línea inferior y 2 cm en delantera; 1 cm en posterior.
             td Dibujar un pequeño rectángulo para la vista del puño.
           tr
             td 9
@@ -2429,16 +2431,16 @@
           .row.justify-content-center.mb-3
             .col-lg-9
               figure.mb-3
-                img(src='@/assets/curso/temas/t3/fig45.svg', alt='Pieza técnica correspondiente a una tapa de bolsillo con forma trapezoidal. Tiene un ancho total de 30 cm, dividido en tres segmentos: 2.5 cm, 9.2 cm y 18.3 cm. La altura varía de 5 a 8 cm, con una ligera curva descendente en el borde inferior. Las medidas permiten su montaje simétrico sobre el delantero de una prenda.')
-            figcaption Fuente: 
-              a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
+                img(src='@/assets/curso/temas/t3/fig45.svg', alt='Pieza técnica correspondiente a un cuello forma trapezoidal. Tiene un ancho total de 30 cm, dividido en tres segmentos: 2.5 cm, 9.2 cm y 18.3 cm. La altura varía de 5 a 8 cm, con una ligera curva descendente en el borde inferior. Las medidas permiten su montaje simétrico sobre el delantero de una prenda.')
+              figcaption Fuente: 
+                a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
       
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos='fade-right')
       h5 Tabla 33.
       span Procedimiento técnico trazo del cuello
     .tabla-a.color-acento-botones.mb-5(data-aos='fade')
-      table.table-mpad(alt="")
+      table.table-mpad(alt="Tabla con cinco pasos para el trazo técnico de un cuello. Se inicia con un rectángulo base, se marcan distancias específicas desde los bordes, se realiza una inclinación lateral y se conectan los puntos mediante una curva suave. Se emplean instrumentos como regla, escuadra y curvígrafo, con medidas en centímetros para asegurar precisión en el diseño.")
         thead.bg-3
           tr
             th.w-85 Paso
