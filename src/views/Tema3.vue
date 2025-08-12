@@ -2431,7 +2431,7 @@
           .row.justify-content-center.mb-3
             .col-lg-9
               figure.mb-3
-                img(src='@/assets/curso/temas/t3/fig45.svg', alt='Pieza técnica correspondiente a un cuello forma trapezoidal. Tiene un ancho total de 30 cm, dividido en tres segmentos: 2.5 cm, 9.2 cm y 18.3 cm. La altura varía de 5 a 8 cm, con una ligera curva descendente en el borde inferior. Las medidas permiten su montaje simétrico sobre el delantero de una prenda.')
+                img(src='@/assets/curso/temas/t3/fig45.svg', alt='Patrón de molde de cuello con forma trapezoidal y líneas curvas en su base, acompañado de medidas en centímetros: altura total de 8 cm, ancho dividido en tres secciones (2,5 cm, 9,2 cm y 18,3 cm) y detalles de alturas parciales (1 cm, 3 cm y 5 cm).')
               figcaption Fuente: 
                 a(href="https://es.pinterest.com/pin/2533343531454928/" target="_blank") https://es.pinterest.com/pin/2533343531454928/ 
       
