@@ -26,12 +26,12 @@
       .col-lg-3.col-md-6.mb-3.mb-lg-0
         .bg-tarj.tarjeta.p-4.p-lg-5.h-100
           img.w-85.m-auto.mb-4.mb-lg-5(src='@/assets/curso/temas/t2/4.svg', alt='')
-          h4.bg-color-acento-contenido.w-fit.text-white.m-auto.mb-3.px-4.py-1 Lectura visual
+          h4.bg-color-acento-contenido.text-center.w-fit.text-white.m-auto.mb-3.px-4.py-1 Lectura visual
           p.text-center Centrada en la silueta, las proporciones y los detalles estilísticos distintivos que definen la identidad de la prenda.
       .col-lg-3.col-md-6
         .bg-tarj.tarjeta.p-4.p-lg-5.h-100
           img.w-85.m-auto.mb-4.mb-lg-5(src='@/assets/curso/temas/t2/4.svg', alt='')
-          h4.bg-color-acento-contenido.w-fit.text-white.m-auto.mb-3.px-4.py-1 Lectura técnica
+          h4.bg-color-acento-contenido.text-center.w-fit.text-white.m-auto.mb-3.px-4.py-1 Lectura técnica
           p.text-center Enfocada en costuras, sistemas de cierre, secuencias de montaje y tolerancias que garantizan la viabilidad industrial del diseño.
 
     .bloque-texto-g.color-acento-contenido.bg-5.p-3.p-sm-4.p-md-5.mb-4(data-aos="fade-down")
@@ -259,7 +259,7 @@
             td Cuadrícula de referencia proporcional.
           tr
             td.fw-bold.text-center 3
-            td Delimitar contorno y sub-contorno (costadillos, canesú) con color.
+            td Delimitar contorno y subcontorno (costadillos, canesú) con color.
             td Marcador o capa digital.
             td Mapa cromático de componentes.
           tr

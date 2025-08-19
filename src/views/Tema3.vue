@@ -30,7 +30,7 @@
           img.px-lg-2(src='@/assets/curso/temas/t3/2.svg', alt='')
       .col-lg-4.col-md-6
         img.mb-4.w-85(src='@/assets/curso/temas/t3/3.svg', alt='')
-        p La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
+        p La finalidad del ejercicio es poder comparar de qué manera se puede implementar el básico, llevándolo hacia diferentes tipos de diseño, bajo una misma tipología.
         p Cuando se empieza a trabajar el trazo de prendas, desde los básicos, los básicos siempre deben ir alineados o aplomados sobre una línea base de construcción, en prendas superiores la línea de aplome o línea base será la línea de profundidad de sisa.
 
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade-down")
@@ -1804,7 +1804,7 @@
               span.mb-0 Todas las cifras decimales (0,5 cm, 0,7 cm, 1,5 cm) suavizan quiebres y garantizan transiciones limpias.
             li
               i.fas.fa-circle-chevron-right
-              span.mb-0 Antes de añadir márgenes de costura conviene realizar comprobación de prototipo para verificar la armonía entre pinza trasladada, nueva sisa y caída de solapa.
+              span.mb-0 Antes de añadir márgenes de costura, conviene realizar comprobación de prototipo para verificar la armonía entre pinza trasladada, nueva sisa y caída de solapa.
     
     .tarjeta.color-primario.p-3.mb-5(data-aos="fade")
       .row.justify-content-around.align-items-center
